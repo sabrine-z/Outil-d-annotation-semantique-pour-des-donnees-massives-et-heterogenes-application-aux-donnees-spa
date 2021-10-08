@@ -1,0 +1,92 @@
+This products provides the sea-ice drift calculated over a three day rolling window during winter time (October to April) over Arctic ocean from AMSR-E microwave radiometer onboard AQUA
+##########END##########
+The gridded Sea Surface Salinity (SSS) data set covers the region between 95°W – 20°E and 50°N – 30°S in the Atlantic Ocean. It is based on available data collected from 1970 to 2016 mostly from Voluntary Observing Ships, PIRATA moorings and Argo profilers, and subsequently validated. This monthly SSS product is gridded using an objective mapping at the spatial resolution 1° x 1°. It is distributed with its associated error fields. It is an update of the SSS product presented in Reverdin et al (2007).
+##########END##########
+The gridded Sea Surface Salinity (SSS) data set covers the region between 120°E – 70°W and 30°N – 30°S in the Pacific Ocean. It is based on available data collected from 1950 to 2009 mostly from Voluntary Observing Ships, TAO/TRITON moorings and Argo profilers, with complementary hydrocasts, STD, and CTD data collected during research cruises, and subsequently validated. This monthly SSS product is gridded using an objective mapping at the spatial resolution 1° x 1°. It is distributed with its associated error fields. It is an update of the SSS product presented in Delcroix et al (2011).
+##########END##########
+The annually binned Sea Surface Salinity, Temperature and Density data set covers a large part of the North Atlantic subpolar gyre. It is based on T and S near-surface data collected since December 1895 to August 2018 from all data sources, including Voluntary Observing Ships subsequently validated. This annual product presents deviations from a climatological seasonal cycle and has furthermore been smoothed in time with a 1/4, 1/2, 1/4 running-mean filter. Density time series are estimated from those annual time series, considering winter (D-J-F) climatology. Uncertainty estimates due to sampling are also provided. Data for December 2017-August 2018 are also reported as 2018, but are temporary and should not be used without further check. Long gaps have been filled by linear interpolation, and are attributed largest error.
+##########END##########
+The annually binned Sea Surface Salinity data set covers a large part of the Atlantic Ocean (75°W-10°E, 20°S-70°N). It is based on salinity near-surface data collected since December 1895 to 2016 from all data sources, including Voluntary Observing Ships subsequently validated. This annual product presents Atlantic SSS 32 grid box anomaly and error time-series (for boxes 1 to 26, year 2016 not smoothed 1-2-1), as well as Atlantic SSS grid box coordinates and March-May mean climatology. The SSS binned time series are an update from the 1896-2013 time series (Friedman et al., 2017).
+##########END##########
+This product is an intermediate product, that provides, in daily files, SSS corrected from land-sea contamination and latitudinal bias. Ascending and descending orbits are processed separately
+##########END##########
+This product contains average 10 days & monthly salinity field corrected from land-sea contamination and latitudinal bias, based on L2Q products, mixing ascending and descending orbits.
+##########END##########
+Global climatology of near-inertial current characteristics from satellite-tracked drifters. Data analyzed: 8500 near-surface satellite-tracked drifter trajectories with drogues attached at 15 m depth. Gridded map with annual and seasonnal spans.
+##########END##########
+This product provides the version 2 of the database of small icebergs (lower than 3km in length) detected in Austral Ocean by spaceborne altimeters from 1985 to today
+##########END##########
+This dataset contains the version 3 of combined surface current velocities, i.e. absolute geostrophic velocities products from multi-satellite observations over Global Ocean added to Hs depth Ekman velocities computed from ECMWF wind stress with an Ekman model fitted onto drifting buoys[Rio et al. 2014], on a  geographical grid with 0.25 degree resolution, from 1993 to 2017.
+##########END##########
+The Green Edge initiative was developed to investigate the processes controlling the primary productivity and the fate of organic matter produced during the Arctic phytoplankton spring bloom (PSB) and to determine its role in the ecosystem. Two field campaigns were conducted in 2015 and 2016 at an ice camp located on landfast sea ice southeast of Qikiqtarjuaq Island in Baffin Bay (67.4797N, 63.7895W). During both expeditions, a large suite of physical, chemical and biological variables was measured beneath a consolidated sea ice cover from the surface to the bottom at 360 m depth to better understand the factors driving the PSB. Key variables such as temperature, salinity, radiance, irradiance, nutrient concentrations, chlorophyll- concentration, bacteria, phytoplankton and zooplankton abundance and taxonomy, carbon stocks and fluxes were routinely measured at the ice camp. Here, we present the results of a joint effort to tidy and standardize the collected data sets that will facilitate their reuse in other Arctic studies.
+##########END##########
+This compilation of Sea Surface Salinity data collected in the three tropical oceans (30°N–30°S) is derived mainly from 13 trans-oceanic Voluntary Observing Ships tracks and from 35 TAO/TRITON and 13 PIRATA mooring sites. Details about validation procedures can be found in the reference publication.
+##########END##########
+The In Situ Analysis System (ISAS) was developed to produce gridded fields of temperature and salinity that preserve as much as possible the time and space sampling capabilities of the Argo network of profiling floats. The ISAS-SSS configuration provide Sea Surface Salinity gridded fields from in-situ measurements including Argo, Moorings, Marine Mammals, GOSUD Thermosalinometer SSS measurements from delayed mode SNO-SSS merchant ships (
+                http://www.legos.obs-mip.fr/observations/sss),
+                French research vessels (
+                http://doi.org/10.17882/39475)
+                and sails (
+                http://doi.org/10.17882/39476).
+                A careful delayed mode processing of the 2002-2015 dataset has been carried out using version 7 of ISAS and updating the statistics to produce the ISAS-15 analysis. The  ISAS-SSS fields appears as highly valuable for the "calibration and validation" of the new satellite observations delivered by SMOS, Aquarius and SMAP.
+##########END##########
+CYBER is a part of the national program LEFE (Les Enveloppes Fluides et l'Environnement). The LEFE CYBER DATABASE is a support activity to projects labelled by the LEFE-CYBER program
+-To collect the data
+-To archive the data
+-To make data and metadata available to the scientific community and to other databases
+##########END##########
+The MALINA oceanographic campaign was conducted during summer 2009 to investigate the carbon stocks and the processes controlling the carbon fluxes in the Mackenzie River estuary and the Beaufort Sea. During the campaign, an extensive suite of physical, chemical and biological variables was measured across seven shelf–basin transects (south-north) to capture the meridional gradient between the estuary and the open ocean. Key variables such as temperature, absolute salinity, radiance, irradiance, nutrient concentrations, chlorophyll-a concentration, bacteria, phytoplankton and zooplankton abundance and taxonomy, and carbon stocks and fluxes were routinely measured onboard the Canadian research icebreaker CCGS Amundsen and from a barge in shallow coastal areas or for sampling within broken ice fields. This dataset is the results of a joint effort to tidy and standardize the collected data sets that will facilitate their reuse in further studies of the changing Arctic Ocean.
+##########END##########
+Mean subthermocline and intermediate zonal currents meridional sections are produced at several longitudes across the Tropical Pacific, from 18°S to 18°N and 0 to 2000m depth. They are based on a compilation of shipboard ADCP measurements, and absolute geostrophic velocities constructed from a high-resolution 0–2000-m Argo climatology referenced to a 1000-m velocity field derived from Argo float drifts.
+Description
+1) SADCP data obtained from ships transiting in the low-latitude tropical Pacific, during 1999–2015 (see Cravatte et al., 2017, 190 cruises) are compiled. Most of the data (128 cruises) were provided by the Joint Archive for Shipboard ADCP (JASADCP) at the University of Hawaii, with a large fraction from the NOAA ship Ka’imimoana, servicing the TAO array of moored buoys.
+All data retrieved from the JASADCP center were from their ‘‘standard subset’’ containing hourly averages interpolated to a 10-m vertical grid. For the other datasets, SADCP data were provided as 5- to 15-min temporal averages with 5- to 24-m vertical resolution. They were then averaged and interpolated to the 1-h, 10-m vertical grid. The complete dataset was mapped on a 0.25° latitude by 1° longitude grid using a simple Gaussian weighting function with 0.25° latitude and 3° longitude decorrelation scales, independent of the timing of the measurements, with windows of 0.5° of latitude and 6° of longitude.
+2) The mean Argo temperature and salinity gridded climatology with a 1/6° resolution (Roemmich and Gilson 2009 was used to compute dynamic height anomalies. Derived zonal geostrophic shear both on and off the equator were computed following the method presented by Picaut and Tournier (1991) using a 1000-m reference level. The 1000-m Argo float drift then provided the constant of integration for vertically integrating the geostrophic shear to obtain a field of mean absolute geostrophic velocity.
+##########END##########
+The binned Sea Surface Salinity, Temperature and Density data set covers regularly sampled ship-of-opportunity lines. It is based on data collected from 1993 to 2018 from Voluntary Observing Ships subsequently validated. This monthly product is binned with monthly total values deviations and then deviations from climatology in each bin, with additional 1-2-1 time filter applied on the averages. Along B-AX01, some gaps were filled with additional data located one degree north or south of the grid boxes.
+##########END##########
+The mean and time-varying position of the main Southern Ocean polar fronts has been calculated from a combination of gridded altimetric sea level anomalies and a new climatology of mean sea level constructed from historical data and ARGO T / S profiles.
+Positions of 3 main Southern Ocean polar fronts of the ACC: (PF, SAF-N and SAF-S)
+##########END##########
+Multimission altimeter satellite gridded Sea Level Anomalies and derived variables computed with respect to a twenty-year mean. Previously distributed by Aviso+, no change in the scientific content. All the missions are homogenized with respect to a reference mission which is currently OSTM/Jason-2. The sla is computed with an optimal and centered computation time window (6 weeks before and after the date). Two kinds of datasets are proposed: filtered (nominal dataset) and unfiltered.
+##########END##########
+For the Global Ocean - Monomission altimeter satellite along-track sea surface heights computed with respect to a twenty-year mean. Previously distributed by Aviso+, no change in the scientific content. All the missions are homogenized with respect to a reference mission which is currently OSTM/Jason-2. The sla is computed with an optimal and centered computation time window (6 weeks before and after the date). Two kinds of datasets are proposed: filtered (nominal dataset) and unfiltered.
+##########END##########
+Multimission altimeter products derived from Ssalto/Duacs products.
+##########END##########
+The PROSOPE (PROductivity of Oceanic PElagic Systems) cruise took place from the 4th of September (Agadir, Morocco) to the 4th of October (Toulon, France) 1999 aboard the RV Thalassa. There were four main scientific objectives:
+- To carry out classical process studies, typical of JGOFS.
+- To focus on small scale biogeochemical processes, in particular at a daily scale.
+- To study the influence of nitrogen, phosphorus and iron on oceanic fertility.
+- To conduct a calibration/validation operation for the SeaWIFS color sensor.
+##########END##########
+Thanks to a very sensitive HPLC method which has been validated by the scientific community, the SAPIGH platform is dedicated to the analysis of marine phytoplankton pigments. We can separate and quantify up to 26 different pigments which can be useful bio-indicators, thus characterising a large range of phytoplancton populations.
+##########END##########
+These data contain monthly mean gridded seaice products from altimetry including the following parameters over Arctic and Antarctic areas:
+- radar freeboard (direct Ku measurement)
+- ice freeboard (radar freeboard corrected from Ku speed propagation in Snow Depth)
+- snow depth (SD)
+- sea ice thickness (Sea Ice Thickness(SIT), using SD)
+
+The survey of these high latitudes requires satellite altimeters with high latitude orbits : Saral/AltiKa, Cryosat-2 and Envisat.
+##########END##########
+Sea Surface Salinity (SSS) is an essential climate variable that requires long term in situ observation. The French SSS Observation Service (SSS-OS) manages a network of Voluntary Observing Ships equipped with thermosalinographs (TSG) since 2002. The network is global though more concentrated in the tropical Pacific and North Atlantic oceanic basins. The acquisition system is autonomous with real time transmission and is regularly serviced at harbor calls. The high resolution data retrieved from the acquisition system during ship calls is processed through a dedicated software (freely available) for attribution of data quality flags by visual inspection, and correction of TSG time series by comparison with climatology, onboard daily water samples and collocated Argo data. Details can be found in the reference below. The validated delayed time data collected from TSG, together with some bucket samples mostly collected before 2002, are made available for educational and research purposes through an interactive web interface.
+##########END##########
+Gridded XBT temperature sections from the SURVOSTRAL project  provide a unique multi-decadal observational dataset of temperature across the Southern Ocean from Hobart (Tasmania, 42.9°S, 147.3°E) to Dumont d’Urville (Adelie Land, 66.6°S, 140.0°E), starting in 1992.  Gridded temperature sections are based on XBT temperature profiles collected each year during the summer heating cycle from early spring (Oct/Nov) to autumn (Mar), over the depth range from the surface down to 900 m.
+XBT data were collected aboard the French supply vessel L’Astrolabe, with the support of the French Institut Polaire Emile Victor (IPEV), the LEGOS research laboratory, the CSIRO Marine and Atmospheric Research division. and the National Oceanic and Atmospheric Administration (NOAA).
+
+                This XBT section is part of the SOP (Ships of Opportunity) network and CLIVAR, and is referred to as section IX28 (
+                https://doi.org/10.18142/172
+                ).
+              
+The dataset consists of 25 years (November 1992 to February 2017) of 10238 expendable bathythermograph (XBT) profiles on this section between Hobart, Australia and Dumont d’Urville, Antarctica. Measurements are collected from an average of six transects per year between late October and early March.
+
+                Depending on ice and weather conditions, XBT measurements are sampled every 35km, with a finer 18km sampling across the energetic polar frontal region from 49°S to 54°S. Temperature profiles extend down to 900 meters depth with a vertical resolution of about 0.7 meters. The XBT temperature profile accuracy is +/-0.1°C. XBT profiles have been corrected for temperature and depth biases depending on the probe type. All corrected XBT measurements can be retrieved from the IMOS website (
+                http://thredds.aodn.org.au/thredds/catalog/IMOS/SOOP/SOOP-XBT/DELAYED/Line_IX28_Dumont-d-Urville-Hobart/catalog.html).
+
+Individual XBT profiles are then mapped onto a regular meridional-vertical section from North to South, following the mean path of the Astrolabe’s transect, with 0.5° resolution in latitude (increasing to 0.25° in the polar frontal zone from 49-54°S), with 2m depth resolution down to 800 m depth. XBT profiles sampled further than 3° in longitude from the mean path of the Astrolabe are removed from the analysis.
+Different types of gridded products are available :
+1)    Climatological monthly mean temperature sections are calculated for each month during the austral summer ONDJFM period and averaged over 25 years (6 monthly mean temperature sections).
+2)    Austral summer (NDJF) mean temperature sections are constructed for each year from 1993 to 2017, allowing us to track the interannual temperature evolution (25 annual summer mean temperature sections).
+3) Temperature values and anomalies measured for each profile of SURVOSTRAL program, gridded on mean path. Temperature anomaly profiles are constructed by subtracting the climatological monthly mean temperature value at each latitude and depth from each XBT profile. For detalis, see Auger et al. 2021.
+##########END##########

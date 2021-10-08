@@ -1,0 +1,740 @@
+	term	in_umls	rank
+0	sss	1	1.8571
+1	xbt	0	1.8333
+2	ice	1	1.8
+3	products	1	1.6342
+4	carbon	1	1.6
+5	respect	1	1.6
+6	velocities	1	1.6
+7	time series	1	1.5288
+8	atlantic	0	1.527
+9	fields	0	1.527
+10	atlantic sss	0	1.5204
+11	delayed mode	0	1.5204
+12	grid box	0	1.5204
+13	polar fronts	0	1.5204
+14	1000-m	0	1.5
+15	december	0	1.5
+16	density	1	1.5
+17	deviations	0	1.5
+18	freeboard	0	1.5
+19	tsg	1	1.5
+20	series	1	1.4471
+21	product	1	1.4132
+22	time	1	1.3569
+23	sea level	0	1.3564
+24	southern ocean	0	1.3564
+25	ice camp	0	1.3497
+26	box	1	1.3333
+27	cyber	0	1.3333
+28	fronts	1	1.3333
+29	isas	0	1.3333
+30	isas-sss	0	1.3333
+31	lefe	0	1.3333
+32	mode	1	1.3333
+33	pigments	1	1.3333
+34	scale	1	1.3333
+35	longitude	1	1.3209
+36	land-sea contamination	0	1.2662
+37	latitudinal bias	0	1.2662
+38	multimission altimeter	0	1.2662
+39	program	1	1.252
+40	southern	1	1.2519
+41	altimeter products	0	1.2263
+42	amsr-e microwave	0	1.2263
+43	current characteristics	0	1.2263
+44	daily files	0	1.2263
+45	drifter trajectories	0	1.2263
+46	global climatology	0	1.2263
+47	intermediate product	0	1.2263
+48	microwave radiometer	0	1.2263
+49	monthly salinity	0	1.2263
+50	mooring sites	0	1.2263
+51	onboard aqua	0	1.2263
+52	reference publication	0	1.2263
+53	salinity field	0	1.2263
+54	satellite-tracked drifter	0	1.2263
+55	satellite-tracked drifters	0	1.2263
+56	sea-ice drift	0	1.2263
+57	seasonnal spans	0	1.2263
+58	small icebergs	0	1.2263
+59	spaceborne altimeters	0	1.2263
+60	ssalto duacs	0	1.2263
+61	tropical oceans	0	1.2263
+62	validation procedures	0	1.2263
+63	winter time	0	1.2263
+64	sea ice	1	1.2253
+65	measurements	1	1.2218
+66	latitude	1	1.2043
+67	camp	1	1.2003
+68	psb	1	1.2003
+69	campaign	0	1.1859
+70	ekman	0	1.1859
+71	estuary	1	1.1859
+72	carbon stocks	0	1.1694
+73	argo	0	1.1618
+74	analysis	1	1.1467
+75	field	1	1.1466
+76	level	1	1.1466
+77	m	1	1.1466
+78	bias	1	1.1337
+79	contamination	1	1.1337
+80	land-sea	0	1.1337
+81	multimission	0	1.1337
+82	altimeters	0	1.1336
+83	compilation	0	1.1336
+84	database	1	1.1336
+85	details	1	1.1336
+86	drift	0	1.1336
+87	pirata	1	1.1336
+88	triton	1	1.1336
+89	winter	1	1.1336
+90	temperature	1	1.107
+91	acquisition system	0	1.1017
+92	geostrophic shear	0	1.1017
+93	sadcp data	0	1.1017
+94	vertical grid	0	1.1017
+95	radar freeboard	0	1.1016
+96	altimeter	1	1.0943
+97	near-surface	0	1.0943
+98	october	0	1.0943
+99	orbits	1	1.0943
+100	tao	1	1.0943
+101	validation	1	1.0943
+102	version	1	1.0943
+103	window	1	1.0943
+104	stocks	0	1.091
+105	grid	1	1.0767
+106	salinity data	0	1.0681
+107	arctic	1	1.0446
+108	temperature sections	0	1.0318
+109	variables	1	1.0295
+110	phytoplankton	1	1.0036
+111	10-m	0	1.0
+112	3km	0	1.0
+113	acquisition	1	1.0
+114	adcp	0	1.0
+115	april	1	1.0
+116	aqua	0	1.0
+117	calls	0	1.0
+118	characteristics	1	1.0
+119	day	1	1.0
+120	days	1	1.0
+121	drifter	0	1.0
+122	drifters	0	1.0
+123	drogues	0	1.0
+124	duacs	0	1.0
+125	files	1	1.0
+126	float	1	1.0
+127	icebergs	1	1.0
+128	jasadcp	0	1.0
+129	l2q	0	1.0
+130	length	1	1.0
+131	map	1	1.0
+132	microwave	1	1.0
+133	mooring	0	1.0
+134	n–30	0	1.0
+135	observation	1	1.0
+136	oceans	1	1.0
+137	procedures	1	1.0
+138	publication	1	1.0
+139	radiometer	1	1.0
+140	sadcp	0	1.0
+141	samples	0	1.0
+142	sea-ice	0	1.0
+143	shear	1	1.0
+144	shipboard	0	1.0
+145	sites	1	1.0
+146	spans	0	1.0
+147	ssalto	0	1.0
+148	today	1	1.0
+149	tracks	1	1.0
+150	trajectories	0	1.0
+151	velocity	1	1.0
+152	ku	1	0.9999
+153	radar	1	0.9999
+154	sd	1	0.9999
+155	snow	1	0.9999
+156	thickness	1	0.9999
+157	complementary hydrocasts	0	0.9909
+158	ctd data	0	0.9909
+159	pacific ocean	1	0.9909
+160	pirata moorings	0	0.9909
+161	triton moorings	0	0.9909
+162	data	1	0.9694
+163	argo profilers	0	0.9663
+164	atlantic ocean	1	0.9663
+165	error fields	0	0.9663
+166	objective mapping	0	0.9663
+167	spatial resolution	0	0.9663
+168	profiles	0	0.9472
+169	reference	1	0.9366
+170	additional data	0	0.9038
+171	along-track sea	0	0.9038
+172	grid boxes	0	0.9038
+173	monthly product	0	0.9038
+174	ocean monomission	0	0.9038
+175	satellite along-track	0	0.9038
+176	ship-of-opportunity lines	0	0.9038
+177	surface heights	0	0.9038
+178	time filter	0	0.9038
+179	total values	0	0.9038
+180	annual time	0	0.9037
+181	density time	0	0.9037
+182	linear interpolation	0	0.9037
+183	long gaps	0	0.9037
+184	running-mean filter	0	0.9037
+185	seasonal cycle	0	0.9037
+186	subpolar gyre	0	0.9037
+187	uncertainty estimates	0	0.9037
+188	winter climatology	0	0.9037
+189	averages	0	0.8971
+190	system	1	0.8971
+191	depth	1	0.8907
+192	mapping	1	0.8872
+193	profilers	0	0.8872
+194	w	1	0.8872
+195	altimeter satellite	0	0.8638
+196	annual product	0	0.8638
+197	computation time	0	0.8638
+198	density data	0	0.8638
+199	global ocean	0	0.8638
+200	large part	0	0.8638
+201	level anomalies	0	0.8638
+202	near-surface data	0	0.8638
+203	nominal dataset	0	0.8638
+204	north atlantic	0	0.8638
+205	ostm jason-2	0	0.8638
+206	reference mission	0	0.8638
+207	scientific content	0	0.8638
+208	time window	0	0.8638
+209	pacific	0	0.8608
+210	delcroix	0	0.8377
+211	hydrocasts	0	0.8377
+212	reverdin	0	0.8377
+213	std	1	0.8377
+214	moorings	0	0.831
+215	region	1	0.831
+216	update	1	0.831
+217	sections	0	0.8129
+218	s	1	0.8058
+219	network	1	0.8028
+220	aviso+	0	0.8
+221	change	1	0.8
+222	computation	1	0.8
+223	content	1	0.8
+224	cycle	1	0.8
+225	date	1	0.8
+226	filter	1	0.8
+227	gaps	0	0.8
+228	global	1	0.8
+229	jason-2	0	0.8
+230	kinds	0	0.8
+231	mission	1	0.8
+232	missions	1	0.8
+233	ostm	0	0.8
+234	sla	1	0.8
+235	sources	1	0.8
+236	t	1	0.8
+237	weeks	1	0.8
+238	boxes	1	0.7999
+239	degree	1	0.7999
+240	values	1	0.7999
+241	climatology	1	0.7925
+242	e	1	0.7754
+243	research	1	0.7754
+244	along-track	0	0.7746
+245	b-ax01	0	0.7746
+246	bin	1	0.7746
+247	heights	1	0.7746
+248	lines	1	0.7746
+249	monomission	0	0.7746
+250	ship-of-opportunity	0	0.7746
+251	august	0	0.7745
+252	check	1	0.7745
+253	d-j-f	0	0.7745
+254	estimates	1	0.7745
+255	gyre	0	0.7745
+256	interpolation	0	0.7745
+257	subpolar	0	0.7745
+258	uncertainty	1	0.7745
+259	error	1	0.7607
+260	n	1	0.7607
+261	-to archive	0	0.7603
+262	analysis system	1	0.7603
+263	box anomaly	0	0.7603
+264	enveloppes fluides	0	0.7603
+265	error time-series	0	0.7603
+266	gosud thermosalinometer	0	0.7603
+267	in-situ measurements	0	0.7603
+268	lefe cyber	0	0.7603
+269	les enveloppes	0	0.7603
+270	marine mammals	0	0.7603
+271	merchant ships	0	0.7603
+272	mode processing	0	0.7603
+273	national program	0	0.7603
+274	salinity near-surface	0	0.7603
+275	sampling capabilities	0	0.7603
+276	satellite observations	0	0.7603
+277	situ analysis	0	0.7603
+278	space sampling	0	0.7603
+279	support activity	0	0.7603
+280	thermosalinometer sss	0	0.7603
+281	altimetric sea	0	0.7602
+282	biogeochemical processes	0	0.7602
+283	calibration validation	0	0.7602
+284	classical process	0	0.7602
+285	color sensor	0	0.7602
+286	daily scale	0	0.7602
+287	historical data	0	0.7602
+288	large range	0	0.7602
+289	marine phytoplankton	0	0.7602
+290	oceanic fertility	0	0.7602
+291	phytoplancton populations	0	0.7602
+292	phytoplankton pigments	0	0.7602
+293	process studies	0	0.7602
+294	scientific objectives	0	0.7602
+295	small scale	0	0.7602
+296	t s	1	0.7602
+297	time-varying position	0	0.7602
+298	validation operation	0	0.7602
+299	arctic ocean	0	0.7439
+300	north	1	0.7416
+301	sampling	1	0.7416
+302	datasets	0	0.7415
+303	mean	1	0.7415
+304	satellite	1	0.7415
+305	year	1	0.7198
+306	scientific community	0	0.7033
+307	al	1	0.6932
+308	anomalies	1	0.675
+309	part	1	0.675
+310	baffin bay	0	0.6747
+311	chlorophyll concentration	0	0.6747
+312	consolidated sea	0	0.6747
+313	field campaigns	0	0.6747
+314	green edge	0	0.6747
+315	ice cover	1	0.6747
+316	ice southeast	0	0.6747
+317	landfast sea	0	0.6747
+318	large suite	0	0.6747
+319	organic matter	0	0.6747
+320	phytoplankton spring	0	0.6747
+321	primary productivity	0	0.6747
+322	qikiqtarjuaq island	0	0.6747
+323	spring bloom	0	0.6747
+324	sea surface	0	0.6697
+325	-to	0	0.6668
+326	activity	1	0.6668
+327	aquarius	1	0.6668
+328	capabilities	0	0.6668
+329	configuration	1	0.6668
+330	databases	1	0.6668
+331	enveloppes	0	0.6668
+332	et	1	0.6668
+333	floats	0	0.6668
+334	fluides	0	0.6668
+335	friedman	0	0.6668
+336	gosud	0	0.6668
+337	in-situ	0	0.6668
+338	isas-15	0	0.6668
+339	l'environnement	0	0.6668
+340	lefe-cyber	0	0.6668
+341	les	1	0.6668
+342	mammals	1	0.6668
+343	march-may	0	0.6668
+344	merchant	0	0.6668
+345	metadata	1	0.6668
+346	processing	1	0.6668
+347	produce	0	0.6668
+348	projects	0	0.6668
+349	s-70	0	0.6668
+350	smap	1	0.6668
+351	smos	0	0.6668
+352	sno-sss	0	0.6668
+353	space	1	0.6668
+354	statistics	1	0.6668
+355	thermosalinometer	0	0.6668
+356	time-series	0	0.6668
+357	w-10	0	0.6668
+358	acc	1	0.6667
+359	agadir	0	0.6667
+360	bio-indicators	0	0.6667
+361	color	1	0.6667
+362	combination	1	0.6667
+363	cruise	0	0.6667
+364	fertility	1	0.6667
+365	france	1	0.6667
+366	hplc	1	0.6667
+367	influence	0	0.6667
+368	iron	1	0.6667
+369	jgofs	0	0.6667
+370	morocco	1	0.6667
+371	nitrogen	1	0.6667
+372	objectives	1	0.6667
+373	operation	1	0.6667
+374	pf	1	0.6667
+375	phosphorus	1	0.6667
+376	phytoplancton	0	0.6667
+377	place	1	0.6667
+378	platform	1	0.6667
+379	populations	1	0.6667
+380	position	1	0.6667
+381	positions	1	0.6667
+382	process	1	0.6667
+383	prosope	0	0.6667
+384	rv	1	0.6667
+385	saf-n	0	0.6667
+386	saf-s	0	0.6667
+387	sapigh	0	0.6667
+388	seawifs	0	0.6667
+389	sensor	1	0.6667
+390	september	0	0.6667
+391	thalassa	1	0.6667
+392	toulon	0	0.6667
+393	section	1	0.6666
+394	absolute salinity	0	0.6658
+395	beaufort sea	0	0.6658
+396	canadian research	0	0.6658
+397	ccgs amundsen	0	0.6658
+398	chlorophyll-a concentration	0	0.6658
+399	coastal areas	0	0.6658
+400	combined surface	0	0.6658
+401	current velocities	0	0.6658
+402	degree resolution	0	0.6658
+403	extensive suite	0	0.6658
+404	geographical grid	0	0.6658
+405	ice fields	0	0.6658
+406	mackenzie river	0	0.6658
+407	meridional gradient	0	0.6658
+408	multi-satellite observations	0	0.6658
+409	oceanographic campaign	0	0.6658
+410	open ocean	0	0.6658
+411	research icebreaker	0	0.6658
+412	wind stress	0	0.6658
+413	anomaly	1	0.6604
+414	archive	1	0.6604
+415	calibration	1	0.6604
+416	community	1	0.6604
+417	method	1	0.6604
+418	observations	1	0.6604
+419	productivity	1	0.6604
+420	range	1	0.6604
+421	situ	0	0.6604
+422	support	1	0.6604
+423	resolution	1	0.6428
+424	summer	1	0.6249
+425	biological variables	0	0.6127
+426	data sets	1	0.6127
+427	joint effort	0	0.6127
+428	key variables	0	0.6127
+429	nutrient concentrations	0	0.6127
+430	zooplankton abundance	0	0.6127
+431	ocean	1	0.6084
+432	ships	1	0.6053
+433	ice thickness	0	0.6033
+434	snow depth	0	0.6033
+435	geostrophic velocities	0	0.6032
+436	shipboard adcp	0	0.6032
+437	processes	0	0.6021
+438	studies	1	0.6021
+439	4797n	0	0.6
+440	7895w	0	0.6
+441	baffin	0	0.6
+442	bay	1	0.6
+443	bloom	1	0.6
+444	bottom	1	0.6
+445	campaigns	0	0.6
+446	chlorophyll	1	0.6
+447	cover	1	0.6
+448	ecosystem	1	0.6
+449	edge	1	0.6
+450	expeditions	1	0.6
+451	factors	0	0.6
+452	fate	1	0.6
+453	green	1	0.6
+454	initiative	1	0.6
+455	island	1	0.6
+456	matter	0	0.6
+457	qikiqtarjuaq	0	0.6
+458	role	1	0.6
+459	southeast	1	0.6
+460	amundsen	0	0.5929
+461	barge	1	0.5929
+462	beaufort	0	0.5929
+463	ccgs	1	0.5929
+464	chlorophyll-a	0	0.5929
+465	ecmwf	0	0.5929
+466	gradient	1	0.5929
+467	hs	1	0.5929
+468	icebreaker	0	0.5929
+469	mackenzie	0	0.5929
+470	malina	0	0.5929
+471	model	1	0.5929
+472	multi-satellite	0	0.5929
+473	rio	1	0.5929
+474	river	1	0.5929
+475	shelf–basin	0	0.5929
+476	south-north	0	0.5929
+477	stress	1	0.5929
+478	wind	1	0.5929
+479	abundance	1	0.5799
+480	bacteria	1	0.5799
+481	chemical	1	0.5799
+482	concentration	1	0.5799
+483	concentrations	1	0.5799
+484	effort	1	0.5799
+485	fluxes	0	0.5799
+486	irradiance	0	0.5799
+487	radiance	0	0.5799
+488	results	1	0.5799
+489	reuse	1	0.5799
+490	sets	0	0.5799
+491	spring	1	0.5799
+492	suite	1	0.5799
+493	taxonomy	1	0.5799
+494	zooplankton	1	0.5799
+495	areas	1	0.5714
+496	buoys	0	0.5714
+497	antarctic areas	0	0.5509
+498	high latitude	0	0.5509
+499	high latitudes	0	0.5509
+500	ice freeboard	0	0.5509
+501	latitude orbits	0	0.5509
+502	saral altika	0	0.5509
+503	satellite altimeters	0	0.5509
+504	seaice products	0	0.5509
+505	speed propagation	0	0.5509
+506	0–2000-m argo	0	0.5508
+507	1000-m argo	0	0.5508
+508	2000m depth	0	0.5508
+509	adcp measurements	0	0.5508
+510	argo climatology	0	0.5508
+511	argo data	0	0.5508
+512	argo temperature	0	0.5508
+513	bucket samples	0	0.5508
+514	climate variable	0	0.5508
+515	complete dataset	0	0.5508
+516	daily water	0	0.5508
+517	data quality	1	0.5508
+518	decorrelation scales	0	0.5508
+519	dedicated software	0	0.5508
+520	delayed time	1	0.5508
+521	dynamic height	0	0.5508
+522	essential climate	0	0.5508
+523	float drift	0	0.5508
+524	float drifts	0	0.5508
+525	gaussian weighting	0	0.5508
+526	geostrophic velocity	0	0.5508
+527	harbor calls	0	0.5508
+528	height anomalies	0	0.5508
+529	high resolution	1	0.5508
+530	high-resolution 0–2000-m	0	0.5508
+531	hourly averages	0	0.5508
+532	interactive web	0	0.5508
+533	joint archive	0	0.5508
+534	ka imimoana	0	0.5508
+535	large fraction	0	0.5508
+536	long term	1	0.5508
+537	longitude decorrelation	0	0.5508
+538	longitude grid	0	0.5508
+539	meridional sections	0	0.5508
+540	oceanic basins	0	0.5508
+541	quality flags	0	0.5508
+542	real time	1	0.5508
+543	reference level	1	0.5508
+544	research purposes	0	0.5508
+545	resolution data	0	0.5508
+546	ship calls	0	0.5508
+547	situ observation	0	0.5508
+548	standard subset	0	0.5508
+549	temporal averages	0	0.5508
+550	time data	0	0.5508
+551	time transmission	0	0.5508
+552	velocity field	0	0.5508
+553	visual inspection	1	0.5508
+554	water samples	0	0.5508
+555	web interface	0	0.5508
+556	weighting function	0	0.5508
+557	zonal currents	0	0.5508
+558	xbt profiles	0	0.5158
+559	dataset	1	0.5102
+560	salinity	1	0.5086
+561	surface	1	0.5071
+562	altika	0	0.5001
+563	altimetry	0	0.5001
+564	cryosat-2	0	0.5001
+565	envisat	0	0.5001
+566	latitudes	0	0.5001
+567	measurement	1	0.5001
+568	parameters	1	0.5001
+569	propagation	0	0.5001
+570	saral	0	0.5001
+571	speed	1	0.5001
+572	survey	1	0.5001
+573	0–2000-m	0	0.5
+574	1-h	0	0.5
+575	array	1	0.5
+576	astrolabe	0	0.5
+577	attribution	1	0.5
+578	basins	1	0.5
+579	bucket	0	0.5
+580	center	1	0.5
+581	climate	1	0.5
+582	comparison	1	0.5
+583	correction	1	0.5
+584	cravatte	0	0.5
+585	currents	1	0.5
+586	decorrelation	0	0.5
+587	description	1	0.5
+588	drifts	0	0.5
+589	equator	0	0.5
+590	flags	0	0.5
+591	fraction	1	0.5
+592	function	1	0.5
+593	gilson	0	0.5
+594	harbor	1	0.5
+595	hawaii	1	0.5
+596	height	1	0.5
+597	high-resolution	0	0.5
+598	imimoana	0	0.5
+599	inspection	1	0.5
+600	integration	1	0.5
+601	interface	1	0.5
+602	joint	1	0.5
+603	ka	0	0.5
+604	longitudes	0	0.5
+605	low-latitude	0	0.5
+606	path	1	0.5
+607	picaut	0	0.5
+608	profile	1	0.5
+609	purposes	1	0.5
+610	quality	1	0.5
+611	roemmich	0	0.5
+612	scales	1	0.5
+613	service	1	0.5
+614	software	1	0.5
+615	sss-os	0	0.5
+616	subset	1	0.5
+617	subthermocline	0	0.5
+618	term	1	0.5
+619	thermosalinographs	0	0.5
+620	timing	1	0.5
+621	tournier	0	0.5
+622	transmission	1	0.5
+623	university	1	0.5
+624	variable	1	0.5
+625	water	1	0.5
+626	web	1	0.5
+627	weighting	1	0.5
+628	windows	1	0.5
+629	vertical resolution	0	0.4869
+630	noaa	0	0.466
+631	ship	1	0.466
+632	sea	1	0.4235
+633	xbt temperature	0	0.3504
+634	austral summer	0	0.3441
+635	temperature profiles	0	0.3441
+636	xbt measurements	0	0.3441
+637	d	1	0.3335
+638	dumont	0	0.3335
+639	hobart	0	0.3335
+640	meters	1	0.3335
+641	survostral	0	0.3335
+642	urville	0	0.3335
+643	years	1	0.3335
+644	18km sampling	0	0.1719
+645	2m depth	0	0.1719
+646	adelie land	0	0.1719
+647	annual summer	0	0.1719
+648	anomaly profiles	0	0.1719
+649	atmospheric administration	0	0.1719
+650	csiro marine	0	0.1719
+651	depth biases	0	0.1719
+652	depth range	0	0.1719
+653	depth resolution	0	0.1719
+654	early spring	0	0.1719
+655	emile victor	0	0.1719
+656	expendable bathythermograph	0	0.1719
+657	french supply	0	0.1719
+658	frontal region	1	0.1719
+659	frontal zone	0	0.1719
+660	heating cycle	0	0.1719
+661	individual xbt	0	0.1719
+662	institut polaire	0	0.1719
+663	interannual temperature	0	0.1719
+664	meridional-vertical section	0	0.1719
+665	observational dataset	0	0.1719
+666	oct nov	0	0.1719
+667	ondjfm period	0	0.1719
+668	polaire emile	0	0.1719
+669	probe type	0	0.1719
+670	profile accuracy	0	0.1719
+671	research laboratory	1	0.1719
+672	sop network	0	0.1719
+673	summer heating	0	0.1719
+674	summer ondjfm	0	0.1719
+675	supply vessel	0	0.1719
+676	temperature anomaly	0	0.1719
+677	temperature evolution	0	0.1719
+678	temperature profile	0	0.1719
+679	temperature values	0	0.1719
+680	weather conditions	0	0.1719
+681	xbt data	0	0.1719
+682	xbt profile	0	0.1719
+683	xbt section	0	0.1719
+684	18km	0	0.1667
+685	35km	0	0.1667
+686	accuracy	1	0.1667
+687	adelie	0	0.1667
+688	administration	1	0.1667
+689	antarctica	1	0.1667
+690	australia	1	0.1667
+691	autumn	1	0.1667
+692	average	1	0.1667
+693	bathythermograph	0	0.1667
+694	biases	1	0.1667
+695	c	1	0.1667
+696	clivar	0	0.1667
+697	conditions	0	0.1667
+698	csiro	0	0.1667
+699	division	1	0.1667
+700	emile	0	0.1667
+701	evolution	1	0.1667
+702	february	0	0.1667
+703	heating	1	0.1667
+704	imos	0	0.1667
+705	institut	0	0.1667
+706	ipev	0	0.1667
+707	ix28	0	0.1667
+708	l	1	0.1667
+709	laboratory	1	0.1667
+710	land	1	0.1667
+711	legos	0	0.1667
+712	mar	1	0.1667
+713	march	0	0.1667
+714	marine	1	0.1667
+715	month	1	0.1667
+716	national	1	0.1667
+717	ndjf	0	0.1667
+718	nov	1	0.1667
+719	november	0	0.1667
+720	oct	1	0.1667
+721	ondjfm	0	0.1667
+722	opportunity	0	0.1667
+723	period	1	0.1667
+724	polaire	0	0.1667
+725	probe	1	0.1667
+726	project	1	0.1667
+727	sop	1	0.1667
+728	south	1	0.1667
+729	supply	1	0.1667
+730	tasmania	1	0.1667
+731	type	1	0.1667
+732	types	1	0.1667
+733	value	1	0.1667
+734	vessel	1	0.1667
+735	victor	0	0.1667
+736	weather	1	0.1667
+737	website	1	0.1667
+738	zone	1	0.1667

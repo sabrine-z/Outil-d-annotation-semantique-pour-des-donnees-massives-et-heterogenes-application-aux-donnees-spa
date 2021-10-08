@@ -1,0 +1,2370 @@
+	term	in_umls	rank
+0	océan	1	1.9259
+1	température	1	1.9259
+2	surveillance	1	1.8896
+3	flotteurs	0	1.8889
+4	profils	0	1.8667
+5	analyse	1	1.8571
+6	informations	0	1.8462
+7	lieux	0	1.8462
+8	trace	0	1.8333
+9	traitement	1	1.8333
+10	réseau de surveillance	0	1.8182
+11	résolution	0	1.8182
+12	utilisateurs	0	1.8182
+13	anomalies	0	1.8
+14	fichiers	0	1.8
+15	missions	1	1.8
+16	produit	0	1.7881
+17	circulation	1	1.7778
+18	navires	1	1.7778
+19	produits altimétriques auxiliaires	0	1.7778
+20	quadrige	0	1.7778
+21	tac	1	1.7778
+22	habitats physiques	0	1.7759
+23	suivi	1	1.7713
+24	profondeur	0	1.7686
+25	programmes	1	1.7504
+26	gliders	0	1.75
+27	littoral	0	1.75
+28	résultats	0	1.75
+29	échelle	1	1.75
+30	suivi de l'état	0	1.7489
+31	état de la végétation	0	1.7489
+32	produits	0	1.7464
+33	espèces	0	1.7143
+34	glace de mer	0	1.7143
+35	vent	1	1.7143
+36	produits altimétriques	0	1.6714
+37	gts	0	1.6667
+38	lieu	0	1.6667
+39	moose	0	1.6667
+40	contamination chimique	0	1.6525
+41	mode lr-rmc	0	1.6525
+42	fertilisation de l'océan	0	1.6456
+43	surface de la mer	0	1.6456
+44	salinité	1	1.6387
+45	océan austral	0	1.6315
+46	systèmes	0	1.6083
+47	activité	0	1.6
+48	calibration	0	1.6
+49	carbone	1	1.6
+50	correction	1	1.6
+51	déplacements en profondeur	0	1.6
+52	grille	0	1.6
+53	lots	0	1.6
+54	marée	0	1.6
+55	marégraphes	0	1.6
+56	monomission	0	1.6
+57	ohc	0	1.6
+58	pertuis	0	1.6
+59	soutien	0	1.6
+60	température de surface	0	1.6
+61	tests	0	1.6
+62	volume d'océan	0	1.6
+63	échantillons d'eau	0	1.6
+64	habitats	0	1.5979
+65	analyses	0	1.5968
+66	réseau	1	1.5482
+67	archivage	0	1.5355
+68	benthos de substrats	0	1.5312
+69	surveillance des récifs	0	1.5312
+70	vagues	0	1.5286
+71	activités humaines	1	1.5204
+72	ancre flottante	0	1.5204
+73	différentes échelles	0	1.5204
+74	lien ci-contre	0	1.5204
+75	niveau moyen	0	1.5204
+76	radars hf	0	1.5204
+77	station biologique	0	1.5204
+78	mammifères marins	0	1.5063
+79	chlorophylle-a	0	1.5
+80	direction	1	1.5
+81	faune	0	1.5
+82	feuilles	1	1.5
+83	glace	1	1.5
+84	lumière	1	1.5
+85	mammifères	1	1.5
+86	marées	0	1.5
+87	mode	0	1.5
+88	swh	0	1.5
+89	végétation	0	1.5
+90	vitesse du vent	0	1.4961
+91	capteurs	0	1.4904
+92	différents protocoles	0	1.4817
+93	contamination	0	1.4702
+94	mer	1	1.4686
+95	température moyenne	0	1.4631
+96	contenu	0	1.4597
+97	niveaux	0	1.4584
+98	hauteurs	0	1.452
+99	zones côtières	0	1.4488
+100	bord de la flotte	0	1.4435
+101	contrôle	1	1.4412
+102	toxines	1	1.4208
+103	paramètres	0	1.4177
+104	données en temps	0	1.4166
+105	niveau de la mer	0	1.4126
+106	jeu de données	0	1.4084
+107	baie	1	1.4083
+108	benthos	0	1.4083
+109	besoin de données	0	1.4083
+110	cadre du projet	0	1.4083
+111	campagnes océanographiques françaises	0	1.4083
+112	dispositifs d'observation	0	1.4083
+113	fins de réanalyse	0	1.4083
+114	flotte océanographique civile	0	1.4083
+115	herbiers	1	1.4083
+116	vapeur d'eau	1	1.4083
+117	zones de production	0	1.4083
+118	énergie cinétique tourbillonnaire	0	1.4083
+119	acquisition d'une série	0	1.3979
+120	bouée pour l'acquisition	0	1.3979
+121	communauté de la recherche	0	1.3979
+122	compétences de l'ifremer	0	1.3979
+123	eaux de l'estuaire	0	1.3979
+124	institut de la mer	0	1.3979
+125	liaison avec les changements	0	1.3979
+126	mesures de la surface	0	1.3979
+127	ministère de l'agriculture	1	1.3979
+128	module de la vitesse	0	1.3979
+129	mollusques sur les gisements	0	1.3979
+130	morphologie de la mer	0	1.3979
+131	moyenne de l'énergie	0	1.3979
+132	prélèvements à la bouteille	0	1.3979
+133	préparation de l'ère	0	1.3979
+134	surveillance de l'état	0	1.3979
+135	vue de la préparation	0	1.3979
+136	collecte	0	1.3892
+137	mesures	1	1.3815
+138	bases de données	0	1.3644
+139	hauteur de mer	0	1.3644
+140	mise en place	0	1.3644
+141	référence avec un intervalle	0	1.3633
+142	portail	0	1.358
+143	observation	1	1.3522
+144	altimétriques monomissions	0	1.3463
+145	campagnes océanographiques	0	1.3463
+146	carbone organique	0	1.3463
+147	données physiques	0	1.3463
+148	ferry box	0	1.3463
+149	flotte océanographique	0	1.3463
+150	gisements naturels	0	1.3463
+151	grille régulière	0	1.3463
+152	haute fréquence	1	1.3463
+153	littoral français	0	1.3463
+154	manière fiable	0	1.3463
+155	meilleure résolution	0	1.3463
+156	modèles opérationnels	0	1.3463
+157	nombreux paramètres	0	1.3463
+158	pigments phytoplanctoniques	0	1.3463
+159	programme international	0	1.3463
+160	recherche ilico	0	1.3463
+161	réseau régional	0	1.3463
+162	réseaux élémentaires	0	1.3463
+163	service national	0	1.3463
+164	traitement spécifiques	0	1.3463
+165	variabilité océanique	0	1.3463
+166	zone côtière	0	1.3463
+167	échelle globale	0	1.3463
+168	énergie cinétique	0	1.3463
+169	récifs coralliens	1	1.3415
+170	laboratoire	1	1.334
+171	abondance des larves	0	1.3333
+172	activité de service	0	1.3333
+173	adcp de coque	0	1.3333
+174	aide de pompes	0	1.3333
+175	ancre	0	1.3333
+176	baie de saint-malo	0	1.3333
+177	base du dénombrement	0	1.3333
+178	benthos en collaboration	0	1.3333
+179	bouée océanographique côtière	0	1.3333
+180	carbone organique inorganique	0	1.3333
+181	centres de prévision	0	1.3333
+182	circulation océanique haute	0	1.3333
+183	climatologies des anomalies	0	1.3333
+184	clés des eaux	0	1.3333
+185	colonne de vapeur	0	1.3333
+186	complément des mesures	0	1.3333
+187	continu de paramètres	0	1.3333
+188	description du centre	0	1.3333
+189	données de courantométrie	0	1.3333
+190	données de courants	0	1.3333
+191	données de houles	0	1.3333
+192	données des pigments	0	1.3333
+193	délais de livraison	0	1.3333
+194	dénombrement des escherichia	0	1.3333
+195	ensemble de dispositifs	0	1.3333
+196	ensemble de plateformes	0	1.3333
+197	estimation du phytoplancton	0	1.3333
+198	fertilisation	1	1.3333
+199	fraction de nuage	0	1.3333
+200	fréquences d'échantillonnages	0	1.3333
+201	instruments de mesure	0	1.3333
+202	larves de poisson	0	1.3333
+203	lien	1	1.3333
+204	maintenance avec mesures	0	1.3333
+205	maintien en condition	0	1.3333
+206	matières en suspension	0	1.3333
+207	mer de villefranche	0	1.3333
+208	mer par rapport	0	1.3333
+209	mesure de profil	0	1.3333
+210	mesure en continu	0	1.3333
+211	mesures physico-chimiques issues	0	1.3333
+212	modèle de circulation	0	1.3333
+213	moyen d'appareils	0	1.3333
+214	niveau de contamination	0	1.3333
+215	nrt pour near-real	0	1.3333
+216	observation du microphytoplancton	0	1.3333
+217	océanographie de villefranche	0	1.3333
+218	paramètres optiques atmosphériques	0	1.3333
+219	peuplements de mollusques	0	1.3333
+220	phases de variations	0	1.3333
+221	place au shom	0	1.3333
+222	place de réseaux	0	1.3333
+223	poisson au stade	0	1.3333
+224	produits de hauteur	0	1.3333
+225	prévision des océans	0	1.3333
+226	pêche à travers	0	1.3333
+227	quantité de données	0	1.3333
+228	quasi-réel de hauteurs	0	1.3333
+229	repères de marée	0	1.3333
+230	route avec émission	0	1.3333
+231	réalisation de suivis	0	1.3333
+232	référence des observations	0	1.3333
+233	réseau de contrôle	0	1.3333
+234	réseau marégraphique numérique	0	1.3333
+235	réseaux de référence	0	1.3333
+236	sahfos	0	1.3333
+237	santé des peuplements	0	1.3333
+238	sct pour short	0	1.3333
+239	service d'observation	0	1.3333
+240	services d'observation	0	1.3333
+241	simulation du modèle	0	1.3333
+242	simulations de données	0	1.3333
+243	stade de recrutement	0	1.3333
+244	surface des océans	0	1.3333
+245	surveillance microbiologique régulière	0	1.3333
+246	sédiments	0	1.3333
+247	séries de données	0	1.3333
+248	trace des missions	0	1.3333
+249	utilisations d'adéquation	0	1.3333
+250	variations du courant	0	1.3333
+251	vent en temps	0	1.3333
+252	volet de réseau	0	1.3333
+253	volume	0	1.3333
+254	zones sous juridiction	0	1.3333
+255	échantillons de zooplancton	0	1.3333
+256	échelle du littoral	0	1.3333
+257	émission en temps	0	1.3333
+258	épaisseur d'aérosol	0	1.3333
+259	étape de traitement	0	1.3333
+260	état de santé	1	1.3333
+261	études de variabilité	0	1.3333
+262	évolutions en liaison	0	1.3333
+263	déplacements	0	1.3304
+264	ferry	0	1.3304
+265	hydrocarbures	1	1.3304
+266	station	1	1.3304
+267	dénombrement	0	1.3303
+268	hiver	0	1.3303
+269	p	1	1.3303
+270	radars	0	1.3303
+271	reeftemps	0	1.3303
+272	réanalyse	0	1.3303
+273	série	0	1.3303
+274	anomalies de hauteurs	0	1.325
+275	réseau d'observation	0	1.325
+276	circulation océanique	0	1.3249
+277	données brutes	0	1.3249
+278	paramètres physiques	0	1.3249
+279	atténuation de la lumière	0	1.3237
+280	lumière dans la colonne	0	1.3237
+281	rapport à une moyenne	0	1.3183
+282	aide	0	1.3114
+283	vitesse	0	1.3108
+284	sites de mesure	0	1.3054
+285	substrats	0	1.3045
+286	infrastructure de recherche	0	1.3034
+287	temps différé	0	1.3024
+288	trace de référence	0	1.3018
+289	analyses diagnostiques	0	1.2956
+290	centre	1	1.2936
+291	activités	0	1.291
+292	fréquence	0	1.291
+293	échantillons	0	1.291
+294	échelles	1	1.291
+295	grâce à une griffe	0	1.2821
+296	rapport à la version	0	1.2821
+297	courants géostrophiques	0	1.2762
+298	données coriolis	0	1.2762
+299	hauteurs significatives	0	1.2762
+300	temps quasi-réel	0	1.2762
+301	cartographie des habitats	0	1.2737
+302	colonne d'eau	0	1.2737
+303	format	0	1.2689
+304	projet	0	1.2689
+305	variabilité	0	1.2689
+306	zones biologiques théoriques	0	1.2656
+307	données	0	1.2634
+308	hydrologie	1	1.2633
+309	protocoles	0	1.2633
+310	récifs	0	1.2633
+311	sites	0	1.2618
+312	centre de données	0	1.2432
+313	bouées	0	1.2427
+314	utilisation	0	1.2427
+315	convention ifremer	0	1.2393
+316	rapport ifremer	0	1.2393
+317	variables physiques	0	1.2393
+318	champs	0	1.2308
+319	durée de transmission	0	1.2275
+320	fonction des besoins	0	1.2275
+321	fond de mer	0	1.2275
+322	griffe de fond	0	1.2275
+323	mesure altimétrique initiale	0	1.2275
+324	profils de subsurface	0	1.2275
+325	station en point	0	1.2275
+326	transmission de données	0	1.2275
+327	types d'orbite	0	1.2275
+328	vitesse de profil	0	1.2275
+329	acquisition conjointe	0	1.2263
+330	archivage national	0	1.2263
+331	arrêtés préfectoraux	0	1.2263
+332	atmosphérique polymer	0	1.2263
+333	bathymétrie monofaisceau	0	1.2263
+334	bathymétrie multifaisceaux	0	1.2263
+335	bouée océanographique	0	1.2263
+336	box sirano	0	1.2263
+337	campagne océanographique	0	1.2263
+338	campagnes annuelles	0	1.2263
+339	capteur meris	0	1.2263
+340	changements environnementaux	0	1.2263
+341	condition opérationnelle	0	1.2263
+342	contrôle microbiologique	0	1.2263
+343	corrections atmosphérique	0	1.2263
+344	corrections instrumentales	0	1.2263
+345	côtière automatique	0	1.2263
+346	différents instruments	0	1.2263
+347	direction générale	0	1.2263
+348	données altimétriques	0	1.2263
+349	données benthiques	0	1.2263
+350	données benthos	0	1.2263
+351	données ctd	0	1.2263
+352	données météo	0	1.2263
+353	données swh	0	1.2263
+354	données valides	0	1.2263
+355	dune résolution	0	1.2263
+356	eaux côtières	0	1.2263
+357	environnement continental	0	1.2263
+358	escherichia coli	1	1.2263
+359	grandes bases	0	1.2263
+360	grandes échelles	0	1.2263
+361	haute résolution	0	1.2263
+362	hautes fréquences	0	1.2263
+363	image globale	0	1.2263
+364	imagerie quantitative	0	1.2263
+365	juridiction nationale	0	1.2263
+366	large fauchée	0	1.2263
+367	mer méditerranéenne	0	1.2263
+368	mer résiduelles	0	1.2263
+369	mesures physico-chimiques	0	1.2263
+370	mission réglementaire	0	1.2263
+371	missions disponibles	0	1.2263
+372	missions suivantes	0	1.2263
+373	monomissions ostm	0	1.2263
+374	morred array	0	1.2263
+375	mouillages météo-océaniques	0	1.2263
+376	méthode hplc	0	1.2263
+377	nombreuses années	0	1.2263
+378	observations marégraphiques	0	1.2263
+379	océanographie opérationnelle	0	1.2263
+380	paramètres biologiques	0	1.2263
+381	paramètres clés	0	1.2263
+382	paramètres optique	0	1.2263
+383	paramètres optiques	0	1.2263
+384	phytoplancton total	0	1.2263
+385	plateformes fixes	0	1.2263
+386	ports principaux	0	1.2263
+387	principales caractéristiques	0	1.2263
+388	production conchylicole	0	1.2263
+389	production conchylicoles	0	1.2263
+390	produit grillé	0	1.2263
+391	produits 2020a_ssh_mapping_natl60	0	1.2263
+392	profil thermique	0	1.2263
+393	programme rorcal	0	1.2263
+394	programmes conjoints	0	1.2263
+395	projet pistach	0	1.2263
+396	projet ronim	0	1.2263
+397	projets conjoints	0	1.2263
+398	qualité physico-chimique	0	1.2263
+399	recherche littorale	0	1.2263
+400	rom remote	0	1.2263
+401	références verticales	0	1.2263
+402	réseau marégraphique	0	1.2263
+403	réseau moderne	0	1.2263
+404	réseau phytobs	0	1.2263
+405	réseaux permanents	0	1.2263
+406	résolution horizontale	0	1.2263
+407	résolution natl60-cjm165	0	1.2263
+408	service public	0	1.2263
+409	short critical	0	1.2263
+410	sno phytobs	0	1.2263
+411	surveillance microbiologique	0	1.2263
+412	suspension issue	0	1.2263
+413	systèmes autonomes	0	1.2263
+414	série optique	0	1.2263
+415	variabilité saisonnière	0	1.2263
+416	volet mesures	0	1.2263
+417	waters remote	0	1.2263
+418	ère swot	0	1.2263
+419	écosystèmes coralliens	0	1.2263
+420	écosystèmes côtiers	0	1.2263
+421	événements extrêmes	0	1.2263
+422	abondance	0	1.2251
+423	algorithme	1	1.2251
+424	bathymétrie	0	1.2251
+425	bord	1	1.2251
+426	bouée	0	1.2251
+427	cycle	0	1.2251
+428	estimation	0	1.2251
+429	fins	0	1.2251
+430	flotte	0	1.2251
+431	fluorescence	1	1.2251
+432	impact	0	1.2251
+433	indicateur	1	1.2251
+434	instruments	0	1.2251
+435	océanographie	1	1.2251
+436	plateformes	0	1.2251
+437	ports	0	1.2251
+438	production	1	1.2251
+439	travers	0	1.2251
+440	un	1	1.2251
+441	zooplancton	1	1.2251
+442	études	0	1.2251
+443	évolutions	0	1.2251
+444	surface	1	1.225
+445	stations	1	1.2242
+446	produit altimétrique	0	1.2233
+447	information	0	1.2112
+448	processus	1	1.2109
+449	état	1	1.2109
+450	système	0	1.2101
+451	besoins	1	1.2086
+452	ans	1	1.2052
+453	bases	0	1.2052
+454	campagnes	0	1.2052
+455	centres	0	1.2052
+456	colonne	0	1.2052
+457	communauté	1	1.2052
+458	compréhension	1	1.2052
+459	continu	1	1.2052
+460	description	0	1.2052
+461	infrastructure	0	1.2052
+462	nrt	0	1.2052
+463	quasi-réel	0	1.2052
+464	sismer	0	1.2052
+465	volet	0	1.2052
+466	chaleur	1	1.2
+467	croissance	1	1.2
+468	maladies	0	1.2
+469	moule	1	1.2
+470	moules	1	1.2
+471	mytilobs	0	1.2
+472	besoin	0	1.1999
+473	+topex interleaved	0	1.1996
+474	corrections disponibles	0	1.1996
+475	dernières corrections	0	1.1996
+476	missions topex	0	1.1996
+477	régions côtières	0	1.1996
+478	traitement spécifique	0	1.1996
+479	adéquation	0	1.1975
+480	box	0	1.1975
+481	contribution	0	1.1975
+482	dispositifs	1	1.1975
+483	fraction	0	1.1975
+484	fréquences	0	1.1975
+485	gisements	0	1.1975
+486	géophysiques	0	1.1975
+487	image	1	1.1975
+488	institut	0	1.1975
+489	manière	0	1.1975
+490	milieux	0	1.1975
+491	ministère	0	1.1975
+492	monomissions	0	1.1975
+493	moyens	0	1.1975
+494	métadonnées	0	1.1975
+495	nadir	0	1.1975
+496	orbite	1	1.1975
+497	pco2	1	1.1975
+498	peuplements	0	1.1975
+499	phénomènes	0	1.1975
+500	pigments	0	1.1975
+501	projets	0	1.1975
+502	pêche	1	1.1975
+503	services	0	1.1975
+504	shom	0	1.1975
+505	situ	0	1.1975
+506	stade	0	1.1975
+507	suivis	0	1.1975
+508	the	1	1.1975
+509	utilisations	0	1.1975
+510	vapeur	1	1.1975
+511	vue	1	1.1975
+512	x1	0	1.1975
+513	écosystèmes	0	1.1975
+514	énergie	0	1.1975
+515	étape	0	1.1975
+516	changements	0	1.1937
+517	collaboration	1	1.1937
+518	environnement	1	1.1937
+519	profil	0	1.1937
+520	période	0	1.1937
+521	envisat	0	1.1906
+522	réponse à la sensibilité	0	1.1904
+523	eurogoos	0	1.19
+524	anomalies de courants	0	1.1869
+525	hauteurs de surface	0	1.1869
+526	site	1	1.1823
+527	océan global	0	1.1749
+528	temps réel	0	1.1724
+529	acquisition	0	1.1704
+530	cadre	0	1.1704
+531	corrections	0	1.1704
+532	mission	0	1.1704
+533	mouillages	0	1.1704
+534	variations	0	1.1704
+535	étude	1	1.1691
+536	physiques maillées	0	1.1688
+537	résolution 100m	0	1.1688
+538	résolution 250m	0	1.1688
+539	zones biologiques	0	1.1688
+540	produit altimétrique expérimental	0	1.1682
+541	legos	0	1.1677
+542	régions	0	1.1677
+543	base	1	1.1589
+544	cartographie	1	1.1515
+545	convention	0	1.1515
+546	fy	0	1.1515
+547	physiques	0	1.1515
+548	océans	1	1.147
+549	phytoplancton	1	1.147
+550	prélèvements	0	1.147
+551	référence	0	1.147
+552	changements morphodynamiques littoraux	0	1.1433
+553	cohérence de données	0	1.1433
+554	face aux aléas	0	1.1433
+555	façades maritimes françaises	0	1.1433
+556	fonctionnement du littoral	0	1.1433
+557	grilles de hauteurs	0	1.1433
+558	littoral en france	0	1.1433
+559	mise en cohérence	0	1.1433
+560	origine des changements	0	1.1433
+561	évolutions du littoral	0	1.1433
+562	mois d'hiver	0	1.1429
+563	éléphant de mer	1	1.1429
+564	éléphants de mer	0	1.1429
+565	flores	0	1.1428
+566	charge de la gestion	0	1.1388
+567	responsabilité de la mise	0	1.1388
+568	agences cnes	0	1.1362
+569	altimétriques type	0	1.1362
+570	besoins utilisateurs	0	1.1362
+571	courte durée	0	1.1362
+572	dérive grâce	0	1.1362
+573	environnement côtier	0	1.1362
+574	fiches enfant	0	1.1362
+575	fichiers gdr	0	1.1362
+576	griffes anti-dérive	0	1.1362
+577	mesure altimétrique	0	1.1362
+578	mesures océanographiques	0	1.1362
+579	nouvelles corrections	0	1.1362
+580	orbite successives	0	1.1362
+581	satellite iridium	0	1.1362
+582	système satellite	0	1.1362
+583	type gdr	0	1.1362
+584	version originale	0	1.1362
+585	long terme	0	1.1321
+586	jeu	1	1.1317
+587	années	0	1.1316
+588	chlorophylle	1	1.1316
+589	hauteur	0	1.1316
+590	moyenne	0	1.1316
+591	méthode	1	1.1316
+592	programme	1	1.1316
+593	service	0	1.1316
+594	applications côtières	0	1.1252
+595	sites ateliers	0	1.1252
+596	réseau national	0	1.1249
+597	séries temporelles	0	1.1249
+598	mois	0	1.1193
+599	satellite	1	1.1162
+600	courants	0	1.1033
+601	réseaux	0	1.1033
+602	terme	0	1.1033
+603	changements climatiques	0	1.1017
+604	profils hydrographiques	0	1.1017
+605	limite inférieure	0	1.1016
+606	géostrophiques aboslus	0	1.1013
+607	topographie dynamique	0	1.1013
+608	variables dérivées	0	1.1013
+609	durée	1	1.098
+610	dérive	0	1.098
+611	grâce	0	1.098
+612	ifremer en charge	0	1.0956
+613	mise en uvre	0	1.0956
+614	ifremer	0	1.0925
+615	mise	0	1.0925
+616	modèles	1	1.0925
+617	niveau	0	1.0924
+618	résolution spatiale	0	1.0907
+619	fonction	0	1.0859
+620	fond	0	1.0859
+621	type	0	1.0859
+622	gourrion avec la table	0	1.0814
+623	qualité	0	1.0766
+624	zones	0	1.0743
+625	informations scientifiques	0	1.0715
+626	types	0	1.0692
+627	année	0	1.0666
+628	trace par les satellites	0	1.0663
+629	aléas naturels	0	1.0637
+630	changements morphodynamiques	0	1.0637
+631	côtes sableuses	0	1.0637
+632	données métrologiques	0	1.0637
+633	façades maritimes	0	1.0637
+634	interpolation ocean	0	1.0637
+635	multiscale interpolation	0	1.0637
+636	métrologie récurrente	0	1.0637
+637	ocean science	0	1.0637
+638	petite échelle	0	1.0637
+639	science topography	0	1.0637
+640	place	0	1.0627
+641	eaux	0	1.0625
+642	zone	1	1.0549
+643	satellites	0	1.0548
+644	hauteurs de mer	0	1.0518
+645	hauteurs de vagues	0	1.047
+646	mesures de hauteurs	0	1.047
+647	contrôle qualité	0	1.0459
+648	algorithme de gourrion	0	1.0423
+649	table de collard	0	1.0423
+650	vitesse de vent	0	1.0423
+651	jour	0	1.0371
+652	détection	1	1.0351
+653	version	1	1.0252
+654	ensemble	0	1.0248
+655	concentration	1	1.023
+656	données marines	0	1.0222
+657	nombreuses bases	0	1.0222
+658	applications	0	1.0221
+659	réponse	0	1.0221
+660	disposition des données	0	1.0207
+661	données de profil	0	1.0207
+662	groupes de paramètres	0	1.0207
+663	ateliers	1	1.0194
+664	côtes	1	1.0194
+665	fonctionnement	0	1.0194
+666	grilles	0	1.0194
+667	labellisé	0	1.0194
+668	séries	0	1.019
+669	biais de la méthode	0	1.0152
+670	carbone à l'échelle	0	1.0152
+671	connaissances sur les flux	0	1.0152
+672	grille pour un produit	0	1.0152
+673	mss par le biais	0	1.0152
+674	précision de la mss	0	1.0152
+675	qualité à l'aide	0	1.0152
+676	rapport à l'ellipsoïde	0	1.0152
+677	régulation de l'accroissement	0	1.0152
+678	données en4	0	1.014
+679	long de la trace	0	1.0138
+680	altimètre sar	0	1.0123
+681	couverture globale	0	1.0123
+682	-on	0	1.0
+683	adcp	0	1.0
+684	agriculture	1	1.0
+685	alimentation	1	1.0
+686	anticipation	1	1.0
+687	appareils	1	1.0
+688	arrêtés	0	1.0
+689	atlas	1	1.0
+690	automatique	0	1.0
+691	aérosol	1	1.0
+692	bouteille	1	1.0
+693	campagne	0	1.0
+694	capteur	0	1.0
+695	caractéristiques	0	1.0
+696	challenge	0	1.0
+697	classement	1	1.0
+698	climatologies	0	1.0
+699	clés	0	1.0
+700	complément	1	1.0
+701	compétences	0	1.0
+702	condition	0	1.0
+703	coque	1	1.0
+704	courant	0	1.0
+705	courantomètres	0	1.0
+706	courantométrie	0	1.0
+707	cyclones	1	1.0
+708	development	0	1.0
+709	dune	0	1.0
+710	délais	0	1.0
+711	efforts	0	1.0
+712	eke	0	1.0
+713	escherichia	1	1.0
+714	estuaire	0	1.0
+715	exercice	1	1.0
+716	expendable	0	1.0
+717	fauchée	0	1.0
+718	globalité	0	1.0
+719	houles	0	1.0
+720	imagerie	0	1.0
+721	juridiction	0	1.0
+722	lancement	0	1.0
+723	larves	1	1.0
+724	liaison	1	1.0
+725	livraison	0	1.0
+726	macrofaune	0	1.0
+727	maintenance	1	1.0
+728	maintien	0	1.0
+729	matières	0	1.0
+730	maximum	0	1.0
+731	maërl	0	1.0
+732	meris	0	1.0
+733	microphytoplancton	0	1.0
+734	min	0	1.0
+735	module	0	1.0
+736	modèle	0	1.0
+737	mollusques	1	1.0
+738	monofaisceau	0	1.0
+739	morphologie	0	1.0
+740	morred	0	1.0
+741	moyen	0	1.0
+742	moyennes	0	1.0
+743	méso-échelles	0	1.0
+744	natl60-cjm165	0	1.0
+745	nuage	0	1.0
+746	phases	0	1.0
+747	photographies	1	1.0
+748	phytobs	0	1.0
+749	plongées	0	1.0
+750	poisson	1	1.0
+751	polymer	0	1.0
+752	pompes	0	1.0
+753	prediction	0	1.0
+754	préparation	1	1.0
+755	prévision	1	1.0
+756	quantification	1	1.0
+757	quantité	1	1.0
+758	recrutement	1	1.0
+759	repères	1	1.0
+760	rom	0	1.0
+761	route	0	1.0
+762	réalisation	1	1.0
+763	réflexion	1	1.0
+764	références	0	1.0
+765	santé	1	1.0
+766	sct	0	1.0
+767	sentinel-3b	0	1.0
+768	short	0	1.0
+769	simulation	1	1.0
+770	simulations	0	1.0
+771	sno	0	1.0
+772	suspension	1	1.0
+773	swot	0	1.0
+774	synthèse	1	1.0
+775	tsunamis	1	1.0
+776	universités	1	1.0
+777	waters	0	1.0
+778	ère	0	1.0
+779	échantillonnages	0	1.0
+780	éléphant	1	1.0
+781	éléphants	1	1.0
+782	émission	1	1.0
+783	épaisseur	0	1.0
+784	événements	0	1.0
+785	faisceaux	0	0.9999
+786	herbier	1	0.9999
+787	limite	1	0.9999
+788	origine	0	0.9944
+789	meds dfo	0	0.9877
+790	+topex	0	0.9821
+791	intervalle	0	0.9821
+792	points	0	0.9821
+793	acquisition en moyenne	0	0.9807
+794	activité de fond	0	0.9807
+795	activité de soutien	0	0.9807
+796	aide de procédures	0	0.9807
+797	aide de résidus	0	0.9807
+798	bilans de carbone	0	0.9807
+799	calibration en corse	0	0.9807
+800	composants régionaux in	0	0.9807
+801	compréhension des variations	0	0.9807
+802	constituants de marée	0	0.9807
+803	cycle du carbone	1	0.9807
+804	diffusion des données	0	0.9807
+805	ellipsoïde de référence	0	0.9807
+806	erreur d'estimation	0	0.9807
+807	fournisseurs de données	0	0.9807
+808	grille d'erreur	0	0.9807
+809	jour en continu	0	0.9807
+810	modèles climatiques prédictifs	0	0.9807
+811	mécanismes internes océaniques	0	0.9807
+812	océan par rapport	0	0.9807
+813	résidus d'analyse	0	0.9807
+814	site de calibration	0	0.9807
+815	sites de calibration	0	0.9807
+816	soutien aux projets	0	0.9807
+817	vent jason-3	0	0.9757
+818	accent sur les paramètres	0	0.9751
+819	charge	0	0.9751
+820	esa pour les satellites	0	0.9751
+821	exploitation de la mer	0	0.9751
+822	m de la colonne	0	0.9751
+823	observation de la terre	0	0.9751
+824	océanographie de l'espace	0	0.9751
+825	recherche pour l'exploitation	0	0.9751
+826	sol de l'esa	0	0.9751
+827	anomalies de hauteur	0	0.9749
+828	base de données	1	0.9749
+829	cisaillement au fond	0	0.9749
+830	nature du substrat	0	0.9749
+831	tension de cisaillement	0	0.9749
+832	satellites altimétriques	0	0.9739
+833	gestion	0	0.9729
+834	navires de recherche	0	0.9643
+835	100m	0	0.9614
+836	250m	0	0.9614
+837	atténuation	0	0.9614
+838	recherche	1	0.96
+839	modélisation	1	0.9577
+840	mesure	1	0.9571
+841	couverture	1	0.9554
+842	s	1	0.9554
+843	utilisateurs opérationnels	0	0.9538
+844	rapport	0	0.9536
+845	profils verticaux	0	0.9494
+846	composants régionaux	0	0.9449
+847	données européennes	0	0.9449
+848	principaux réseaux	0	0.9449
+849	régionaux eurogoos	0	0.9449
+850	réseaux mondiaux	0	0.9449
+851	systèmes régionaux	0	0.9449
+852	typologie eunis	0	0.9448
+853	zone biologique	0	0.9448
+854	uvre	0	0.9441
+855	agence spatiale européenne	0	0.9432
+856	contrôle de qualité	1	0.9432
+857	données de capteurs	0	0.9432
+858	ers d'archivage	0	0.9432
+859	flotteurs à profil	0	0.9432
+860	laboratoire d'océanographie	0	0.9432
+861	mesures de vitesse	0	0.9432
+862	paramètres bio-géochimiques supplémentaires	0	0.9432
+863	profils de température	0	0.9432
+864	satellites d'observation	0	0.9432
+865	traitement hors ligne	0	0.9432
+866	ud du segment	0	0.9432
+867	validation des données	0	0.9432
+868	vitesse des eaux	0	0.9432
+869	vitesse par an	0	0.9432
+870	agences	0	0.9393
+871	cm	0	0.9393
+872	conception	1	0.9393
+873	enfant	1	0.9393
+874	fiches	0	0.9393
+875	flotteur	0	0.9393
+876	griffe	1	0.9393
+877	griffes	1	0.9393
+878	iridium	1	0.9393
+879	record	0	0.9393
+880	subsurface	0	0.9393
+881	transmission	0	0.9393
+882	~	0	0.9393
+883	estimation de la chlorophylle-a	0	0.9345
+884	ifremer pour la période	0	0.9345
+885	indicateur de la biomasse	0	0.9345
+886	vagues de l'instrument	0	0.9345
+887	sédiment	0	0.9309
+888	observations	0	0.9286
+889	altimètre	0	0.9258
+890	long	1	0.9234
+891	+jason-1 interleaved	0	0.9215
+892	analyse harmonique	1	0.9215
+893	analyse statistique	0	0.9215
+894	calibration principal	0	0.9215
+895	carbone océanique	0	0.9215
+896	comité lefe-cyber	0	0.9215
+897	cycles biogéochimiques	0	0.9215
+898	données cyber	0	0.9215
+899	données nationaux	0	0.9215
+900	grilles monomission	0	0.9215
+901	hauteur moyenne	0	0.9215
+902	interleaved +jason-1	0	0.9215
+903	longues séries	0	0.9215
+904	modèles climatiques	0	0.9215
+905	mécanismes internes	0	0.9215
+906	méthode inverse	0	0.9215
+907	océaniques associés	0	0.9215
+908	pointe nord	0	0.9215
+909	produit multimission	0	0.9215
+910	produits in-situ	0	0.9215
+911	régional temps	0	0.9215
+912	situ tac	0	0.9215
+913	sénétosa site	0	0.9215
+914	variations saisonnière	0	0.9215
+915	échelle planétaire	0	0.9215
+916	système d'information	0	0.9199
+917	sar	0	0.9188
+918	aboslus	0	0.9153
+919	dérivées	0	0.9153
+920	multimissions	0	0.9153
+921	topographie	0	0.9153
+922	climat	1	0.9095
+923	rôle	1	0.9095
+924	biomasse du phytoplancton	0	0.9052
+925	cartes mensuelles moyennes	0	0.9052
+926	courants de marées	0	0.9052
+927	effets de charge	0	0.9052
+928	emprise	0	0.9052
+929	gestion des eaux	0	0.9052
+930	groupes	1	0.9052
+931	iles	0	0.9052
+932	liste	0	0.9052
+933	localisation des acquisitions	0	0.9052
+934	longueur d'onde	0	0.9052
+935	meds	0	0.9052
+936	niveaux de contamination	0	0.9052
+937	paramètres de vagues	0	0.9052
+938	propriété du pigment	0	0.9052
+939	réseau intégrateurs biologiques	0	0.9052
+940	satellites de modis	0	0.9052
+941	structures	0	0.9052
+942	unité du référentiel	0	0.9052
+943	vent du diffusiomètre	0	0.9052
+944	élévations de marées	0	0.9052
+945	substrats durs	0	0.905
+946	flores phytoplanctoniques	0	0.9049
+947	chaleur de l'océan	0	0.9028
+948	observation de la contamination	0	0.9028
+949	suivi de la croissance	0	0.9028
+950	aléas	0	0.8891
+951	cohérence	0	0.8891
+952	embouchures	0	0.8891
+953	face	1	0.8891
+954	falaises	0	0.8891
+955	façades	0	0.8891
+956	interpolation	0	0.8891
+957	métrologie	0	0.8891
+958	ocean	0	0.8891
+959	science	1	0.8891
+960	sensibilité	1	0.8891
+961	contenu en chaleur	0	0.8889
+962	dosages des métaux	0	0.8889
+963	ego	1	0.8889
+964	hydrocarbures aromatiques polycycliques	1	0.8889
+965	surveillance des contaminants	0	0.8889
+966	évaluation des niveaux	0	0.8889
+967	oceansites	0	0.8887
+968	agence spatiale	0	0.8883
+969	bas débits	0	0.8883
+970	capteurs spatiaux	0	0.8883
+971	centre ers	0	0.8883
+972	débits ers-1	0	0.8883
+973	eaux supérieures	0	0.8883
+974	ensemble mondial	0	0.8883
+975	espacement moyen	0	0.8883
+976	institut français	0	0.8883
+977	océans globaux	0	0.8883
+978	paramètres bio-géochimiques	0	0.8883
+979	segment sol	0	0.8883
+980	temps différée	0	0.8883
+981	température salinité	0	0.8883
+982	terre ers-1	0	0.8883
+983	données d'observation	0	0.881
+984	paramètres de surface	0	0.8803
+985	prévisions	0	0.8801
+986	composants	0	0.8691
+987	cisaillement	0	0.869
+988	croisement	1	0.869
+989	flux	0	0.869
+990	nature	1	0.869
+991	pointe	0	0.869
+992	régulation	0	0.869
+993	sla	1	0.869
+994	substrat	0	0.869
+995	tension	1	0.869
+996	typologie	0	0.869
+997	m	1	0.8642
+998	année précédente	0	0.8638
+999	cartes mensuelles	0	0.8638
+1000	huîtres creuses	0	0.8638
+1001	hydrocarbures aromatiques	1	0.8638
+1002	lots sentinelles	0	0.8638
+1003	maladies émergentes	0	0.8638
+1004	moule bleue	1	0.8638
+1005	ohc global	0	0.8638
+1006	organismes marins	1	0.8638
+1007	pertuis breton	0	0.8638
+1008	surveillance côtiers	0	0.8638
+1009	série temporelle	0	0.8638
+1010	responsabilité	0	0.86
+1011	disposition	1	0.8573
+1012	paramètre	1	0.8573
+1013	bassin	1	0.8571
+1014	contexte	0	0.8571
+1015	diffusion	1	0.8571
+1016	précision	0	0.8571
+1017	taxons	0	0.8571
+1018	mers	1	0.857
+1019	acquisitions swim	0	0.8546
+1020	auxiliaires élévations	0	0.8546
+1021	bassin rhône-méditerranée	0	0.8546
+1022	chinois scat	0	0.8546
+1023	diffusiomètre chinois	0	0.8546
+1024	estimations quotidiennes	0	0.8546
+1025	français swim	0	0.8546
+1026	images satellites	0	0.8546
+1027	instrument français	0	0.8546
+1028	lumière bleue	0	0.8546
+1029	lumière solaire	1	0.8546
+1030	mission satellite	0	0.8546
+1031	pigment chlorophyllien	0	0.8546
+1032	produits issus	0	0.8546
+1033	programme rinbio	0	0.8546
+1034	réflectance marine	0	0.8546
+1035	réflectances marines	0	0.8546
+1036	référentiel géographique	0	0.8546
+1037	réseau intégrateurs	0	0.8546
+1038	satellite cfosat	0	0.8546
+1039	schéma directeur	0	0.8546
+1040	temps	1	0.8426
+1041	combinaison des hauteurs	0	0.8423
+1042	croisée des eaux	0	0.8423
+1043	eaux des bassins	0	0.8423
+1044	renversements de circulation	0	0.8423
+1045	contaminants chimiques	0	0.8409
+1046	altimètres	0	0.8347
+1047	interactions	1	0.8347
+1048	ligne	1	0.8347
+1049	gourrion	0	0.8268
+1050	standard	0	0.8268
+1051	table	1	0.8268
+1052	assimilation dans les modèles	0	0.8267
+1053	procédures	1	0.8264
+1054	référentiels	0	0.825
+1055	eau	1	0.8239
+1056	collaboration avec la station	0	0.8228
+1057	guide de l'utilisateur	0	0.8228
+1058	ordre par les changements	0	0.8228
+1059	partenaires de la sahfos	0	0.8228
+1060	place d'une charte	0	0.8228
+1061	son dans le volume	0	0.8228
+1062	température dans l'océan	0	0.8228
+1063	transects sur les zones	0	0.8228
+1064	variations de la vitesse	0	0.8228
+1065	vitesse sur le contour	0	0.8228
+1066	zone de l'océan	0	0.8228
+1067	évolution de la qualité	0	0.8228
+1068	espace	1	0.8201
+1069	forme	0	0.8201
+1070	terre	1	0.8201
+1071	validation	0	0.8201
+1072	flotteurs argo	0	0.819
+1073	base quadrige	0	0.8125
+1074	coquillages	1	0.8095
+1075	copie des données	0	0.8037
+1076	produits en temps	0	0.8037
+1077	type d'utilisateurs	0	0.8037
+1078	versions du produit	0	0.8037
+1079	abondance des organismes	0	0.8
+1080	activités humaines locales	0	0.8
+1081	aestuarianus	0	0.8
+1082	agents	0	0.8
+1083	biomasse	1	0.8
+1084	bord du navire	0	0.8
+1085	bouchot	0	0.8
+1086	bouée de surface	0	0.8
+1087	bouées de surface	0	0.8
+1088	bulletin du site	0	0.8
+1089	capteurs de température	0	0.8
+1090	carbone organique total	0	0.8
+1091	cartes des courants	0	0.8
+1092	centre du tourbillon	0	0.8
+1093	changements de température	0	0.8
+1094	choix de sites	0	0.8
+1095	classes de phytoplancton	0	0.8
+1096	collaboration avec g	0	0.8
+1097	composantes du système	0	0.8
+1098	compréhension du climat	0	0.8
+1099	courants de surface	0	0.8
+1100	cytomètre en flux	0	0.8
+1101	données de biodiversité	0	0.8
+1102	données de déplacement	0	0.8
+1103	dosages	0	0.8
+1104	dérive des flotteurs	0	0.8
+1105	dérivés	0	0.8
+1106	effets	0	0.8
+1107	elevage	0	0.8
+1108	flotteurs en profondeur	0	0.8
+1109	fluctuations de signaux	0	0.8
+1110	forçage en zones	0	0.8
+1111	histologie	1	0.8
+1112	huîtres	1	0.8
+1113	impact du changement	0	0.8
+1114	jour par jour	0	0.8
+1115	laboratoires de roscoff	0	0.8
+1116	lindane	1	0.8
+1117	localisation du centre	0	0.8
+1118	mer depuis janvier	0	0.8
+1119	mesures des bouées	0	0.8
+1120	mesures en continu	0	0.8
+1121	métaux	1	0.8
+1122	niveau moyen global	0	0.8
+1123	observation des courants	0	0.8
+1124	organochlorés	0	0.8
+1125	parasite	1	0.8
+1126	perturbations de vitesse	0	0.8
+1127	plupart des données	0	0.8
+1128	production de fichiers	0	0.8
+1129	propagation des ondes	0	0.8
+1130	qualité des sédiments	0	0.8
+1131	rapport aux activités	0	0.8
+1132	recherche nationale française	0	0.8
+1133	réseau de capteurs	0	0.8
+1134	réseau des stations	0	0.8
+1135	sentinelles	0	0.8
+1136	serveur de données	0	0.8
+1137	sites à situation	0	0.8
+1138	situation de normalité	0	0.8
+1139	suivi de paramètres	0	0.8
+1140	surface par radars	0	0.8
+1141	système de radars	0	0.8
+1142	sédiments des bassins	0	0.8
+1143	température du volume	0	0.8
+1144	teneur en eau	0	0.8
+1145	terme du changement	0	0.8
+1146	tomographie acoustique océanique	0	0.8
+1147	transects entre roscoff	0	0.8
+1148	un des objectifs	0	0.8
+1149	versions de décodage	0	0.8
+1150	vingtaine de territoires	0	0.8
+1151	vitesse de propagation	0	0.8
+1152	vitesse du son	0	0.8
+1153	écosystème pélagique côtier	0	0.8
+1154	état des récifs	0	0.8
+1155	étude du littoral	0	0.8
+1156	évaluation	1	0.8
+1157	évolution du niveau	0	0.8
+1158	bassins ouest	0	0.7983
+1159	circulation anticyclonique	0	0.7983
+1160	grands états	0	0.7983
+1161	mer ionienne	0	0.7983
+1162	mers adriatique	0	0.7983
+1163	position centrale	0	0.7983
+1164	mètres	0	0.7927
+1165	oxygène	1	0.7892
+1166	+jason-1	0	0.7876
+1167	accroissement	0	0.7876
+1168	amplitude	0	0.7876
+1169	associés	0	0.7876
+1170	biais	1	0.7876
+1171	bilans	0	0.7876
+1172	comité	0	0.7876
+1173	connaissances	0	0.7876
+1174	constituants	0	0.7876
+1175	cycles	0	0.7876
+1176	ellipsoïde	0	0.7876
+1177	erreur	0	0.7876
+1178	fournisseurs	0	0.7876
+1179	mss	0	0.7876
+1180	mécanismes	0	0.7876
+1181	phase	1	0.7876
+1182	piégeage	0	0.7876
+1183	résidus	0	0.7876
+1184	sénétosa	0	0.7876
+1185	variabilités	0	0.7876
+1186	vocation	0	0.7876
+1187	cartes	1	0.7831
+1188	longueur	0	0.7831
+1189	fluorescence de la chlorophylle	0	0.7826
+1190	numérations de plancton	0	0.7721
+1191	surveillance des ports	0	0.7721
+1192	échelles de temps	0	0.7721
+1193	cycle moyen mensuel	0	0.7683
+1194	données de température	0	0.7683
+1195	nombre de données	0	0.7683
+1196	profondeur moyenne mensuelle	0	0.7683
+1197	rapport au cycle	0	0.7683
+1198	salinité par rapport	0	0.7683
+1199	température moyenne annuelle	0	0.7683
+1200	température moyenne mensuelle	0	0.7683
+1201	variation des données	0	0.7683
+1202	contaminants	0	0.7666
+1203	accès	0	0.7664
+1204	centres océanographique	0	0.7635
+1205	différentes versions	0	0.7635
+1206	ins tac	0	0.7635
+1207	meilleure copie	0	0.7635
+1208	requis utilisations	0	0.7635
+1209	utilisateurs requis	0	0.7635
+1210	accent	0	0.7632
+1211	agence	0	0.7632
+1212	californie	1	0.7632
+1213	degrés	0	0.7632
+1214	diffusiomètres	0	0.7632
+1215	débits	0	0.7632
+1216	ers	0	0.7632
+1217	esa	0	0.7632
+1218	espacement	0	0.7632
+1219	exploitation	0	0.7632
+1220	radiomètres	0	0.7632
+1221	segment	0	0.7632
+1222	sol	1	0.7632
+1223	tableau	1	0.7632
+1224	ud	1	0.7632
+1225	aide de thermosalinographes	0	0.7609
+1226	diffusion des objectifs	0	0.7609
+1227	données de qualité	0	0.7609
+1228	mois aux services	0	0.7609
+1229	surface océanique mondiale	0	0.7609
+1230	approche multi-paramètres	0	0.7602
+1231	bassins portuaires	0	0.7602
+1232	bouteilles niskin	0	0.7602
+1233	capteurs fin	0	0.7602
+1234	caractéristique importante	0	0.7602
+1235	changement climatique	1	0.7602
+1236	changement global	0	0.7602
+1237	charte qualité	0	0.7602
+1238	conséquences socio-économiques	0	0.7602
+1239	courants marins	0	0.7602
+1240	danse traditionnelle	0	0.7602
+1241	différentes classes	0	0.7602
+1242	dispositif ferry	0	0.7602
+1243	domaine côtier	0	0.7602
+1244	données acquises	0	0.7602
+1245	données argo	0	0.7602
+1246	données flottantes	0	0.7602
+1247	données mondial	0	0.7602
+1248	données océanographiques	0	0.7602
+1249	données pelagos	0	0.7602
+1250	décodage différentes	0	0.7602
+1251	ferry armorique	0	0.7602
+1252	fichiers complets	0	0.7602
+1253	financement cper	0	0.7602
+1254	format actuels	0	0.7602
+1255	format andro	0	0.7602
+1256	française milieux	0	0.7602
+1257	fréquence mensuelle	0	0.7602
+1258	hydrocarbures totaux	0	0.7602
+1259	impacts locaux	0	0.7602
+1260	importance majeure	0	0.7602
+1261	importance relative	0	0.7602
+1262	information biologique	0	0.7602
+1263	longues périodes	0	0.7602
+1264	mesure indirecte	0	0.7602
+1265	milieux littoraux	0	0.7602
+1266	modèles océaniques	0	0.7602
+1267	navire pont	0	0.7602
+1268	nombreuses analyses	0	0.7602
+1269	nombreuses versions	0	0.7602
+1270	objectif général	0	0.7602
+1271	observatoires marins	0	0.7602
+1272	ondes acoustiques	0	0.7602
+1273	organismes pélagiques	0	0.7602
+1274	paramètres pertinents	0	0.7602
+1275	programme repom	0	0.7602
+1276	projet interreg	0	0.7602
+1277	projet previmer	0	0.7602
+1278	questions scientifiques	0	0.7602
+1279	recherche nationale	0	0.7602
+1280	réchauffement climatique	0	0.7602
+1281	satellites argos	0	0.7602
+1282	seule version	0	0.7602
+1283	signaux acoustiques	0	0.7602
+1284	site aviso+	0	0.7602
+1285	site bulletin	0	0.7602
+1286	suivi précis	0	0.7602
+1287	système climatique	0	0.7602
+1288	sédiments marins	1	0.7602
+1289	tomographie acoustique	0	0.7602
+1290	travail collaboratif	0	0.7602
+1291	version nrt	0	0.7602
+1292	versions dt	0	0.7602
+1293	zones précitées	0	0.7602
+1294	échantillonnage bimensuel	0	0.7602
+1295	échelles spatiales	0	0.7602
+1296	écosystème pélagique	0	0.7602
+1297	états insulaires	0	0.7602
+1298	bouées dérivantes	0	0.7531
+1299	différents paramètres	0	0.7531
+1300	ports maritimes	0	0.7531
+1301	localisation	0	0.7521
+1302	onde	0	0.7521
+1303	organismes	1	0.7521
+1304	âge	1	0.7482
+1305	mortalité	1	0.7481
+1306	lieux de surveillance	0	0.7465
+1307	bassins	0	0.7427
+1308	états	0	0.7427
+1309	acquisitions	0	0.7382
+1310	aménagement	0	0.7382
+1311	couleur	1	0.7382
+1312	diffusiomètre	0	0.7382
+1313	estimations	0	0.7382
+1314	hap	0	0.7382
+1315	images	0	0.7382
+1316	instrument	1	0.7382
+1317	nasa	1	0.7382
+1318	photosynthèse	1	0.7382
+1319	pigment	1	0.7382
+1320	poissons	1	0.7382
+1321	propriété	1	0.7382
+1322	réflectance	0	0.7382
+1323	réflectances	0	0.7382
+1324	référentiel	0	0.7382
+1325	scat	0	0.7382
+1326	schéma	0	0.7382
+1327	sdage	0	0.7382
+1328	spectre	0	0.7382
+1329	substances	0	0.7382
+1330	swim	0	0.7382
+1331	unité	0	0.7382
+1332	élévations	0	0.7382
+1333	champs mensuels	0	0.7315
+1334	climatologie mensuelle	0	0.7315
+1335	couche mixte	0	0.7315
+1336	critères mlds	0	0.7315
+1337	cycle moyen	0	0.7315
+1338	profondeur moyenne	0	0.7315
+1339	ensembles de données	0	0.7298
+1340	évolution	1	0.7283
+1341	centres nationaux	0	0.7248
+1342	différents acteurs	0	0.7248
+1343	différents résultats	0	0.7248
+1344	divers navires	0	0.7248
+1345	données gosud	0	0.7248
+1346	information environnementale	0	0.7248
+1347	navires commerciaux	0	0.7248
+1348	site internet	0	0.7248
+1349	surface océanique	0	0.7248
+1350	masse d'eau	0	0.7232
+1351	données disponibles	0	0.7204
+1352	arrivée des signaux	0	0.72
+1353	flotteurs par localisation	0	0.72
+1354	réseau de sources	0	0.72
+1355	sources acoustiques fixes	0	0.72
+1356	sub-surface des flotteurs	0	0.72
+1357	technique des flotteurs	0	0.72
+1358	temps d'arrivée	0	0.72
+1359	trajectoires de sub-surface	0	0.72
+1360	objectif	0	0.7196
+1361	tendances	0	0.7196
+1362	pressions	0	0.7043
+1363	tourbillon	0	0.7043
+1364	travaux	0	0.7043
+1365	biodiversité	1	0.7042
+1366	changement	1	0.7042
+1367	classes	0	0.7042
+1368	composantes	0	0.7042
+1369	distribution	1	0.7042
+1370	exemple	0	0.7042
+1371	importance	0	0.7042
+1372	laboratoires	1	0.7042
+1373	numérations	0	0.7042
+1374	ouest	0	0.7042
+1375	phyto	0	0.7042
+1376	plancton	1	0.7042
+1377	périodes	0	0.7042
+1378	transects	0	0.7042
+1379	turbidité	1	0.7042
+1380	écosystème	1	0.7042
+1381	flotteurs rafos	0	0.7034
+1382	localisation acoustique	0	0.7034
+1383	profondeur constante	0	0.7034
+1384	signaux sonores	0	0.7034
+1385	sources acoustiques	0	0.7034
+1386	sud	0	0.7021
+1387	combinaison	1	0.6958
+1388	croisée	0	0.6958
+1389	position	0	0.6958
+1390	renversements	0	0.6958
+1391	champs de température	0	0.6899
+1392	lieux de prélèvement	0	0.6892
+1393	versions	0	0.6857
+1394	choix	1	0.6821
+1395	indicateurs	1	0.6821
+1396	masse	1	0.6821
+1397	partenaires	0	0.6821
+1398	analyse isas-13	0	0.6797
+1399	climatologie	1	0.6755
+1400	nombre	1	0.6755
+1401	lieux rephy	0	0.674
+1402	lieux rephytox	0	0.674
+1403	assimilation	0	0.6692
+1404	copie	0	0.6692
+1405	ins	0	0.6692
+1406	propre	0	0.6692
+1407	acteurs	0	0.6687
+1408	cas	0	0.6687
+1409	ensembles	0	0.6687
+1410	thermosalinographes	0	0.6687
+1411	comparaison avec la climatologie	0	0.6678
+1412	eau dans l'atmosphère	0	0.6678
+1413	experts de l'océan	0	0.6678
+1414	interface avec la communauté	0	0.6678
+1415	marégraphes pour le programme	0	0.6678
+1416	qualité pour la température	0	0.6678
+1417	retard de l'onde	0	0.6678
+1418	égide de la commission	0	0.6678
+1419	0dt	0	0.6667
+1420	100km	0	0.6667
+1421	1exp_dt_allsat	0	0.6667
+1422	1exp_dt_twosat	0	0.6667
+1423	3km	0	0.6667
+1424	aluminium	1	0.6667
+1425	approche	0	0.6667
+1426	aven	0	0.6667
+1427	bactéries	1	0.6667
+1428	bouteilles	0	0.6667
+1429	bulletin	1	0.6667
+1430	caractéristique	0	0.6667
+1431	charte	0	0.6667
+1432	commerce	1	0.6667
+1433	conséquences	0	0.6667
+1434	contour	0	0.6667
+1435	cytomètre	0	0.6667
+1436	câble	0	0.6667
+1437	câblot	0	0.6667
+1438	danse	1	0.6667
+1439	dispositif	1	0.6667
+1440	domaine	0	0.6667
+1441	décodage	0	0.6667
+1442	déplacement	1	0.6667
+1443	entropie	1	0.6667
+1444	facteurs	0	0.6667
+1445	fin	1	0.6667
+1446	financement	1	0.6667
+1447	float	0	0.6667
+1448	fluctuations	1	0.6667
+1449	forçage	0	0.6667
+1450	fruit	1	0.6667
+1451	goflo	0	0.6667
+1452	granulométrie	0	0.6667
+1453	guide	1	0.6667
+1454	impacts	0	0.6667
+1455	mcquatters-gallops	0	0.6667
+1456	mouillage	0	0.6667
+1457	navire	0	0.6667
+1458	normalité	1	0.6667
+1459	o2	0	0.6667
+1460	observatoires	0	0.6667
+1461	ondes	0	0.6667
+1462	ordre	0	0.6667
+1463	orin	0	0.6667
+1464	pelagos	0	0.6667
+1465	perturbations	0	0.6667
+1466	plaisance	0	0.6667
+1467	problématique	0	0.6667
+1468	propagation	1	0.6667
+1469	questions	0	0.6667
+1470	raison	0	0.6667
+1471	rayon	0	0.6667
+1472	recorder	0	0.6667
+1473	ressources	1	0.6667
+1474	réchauffement	1	0.6667
+1475	résultat	0	0.6667
+1476	salinités	0	0.6667
+1477	serveur	0	0.6667
+1478	situation	0	0.6667
+1479	son	1	0.6667
+1480	températures	0	0.6667
+1481	teneur	0	0.6667
+1482	territoires	0	0.6667
+1483	tomographie	1	0.6667
+1484	tourbillons	0	0.6667
+1485	travail	1	0.6667
+1486	utilisateur	0	0.6667
+1487	vingtaine	0	0.6667
+1488	virus	1	0.6667
+1489	élévation	1	0.6667
+1490	–	0	0.6667
+1491	acronyme	0	0.6605
+1492	arrivée	0	0.6605
+1493	rafos	0	0.6605
+1494	sub-surface	0	0.6605
+1495	technique	1	0.6605
+1496	trajectoires	0	0.6605
+1497	commission océanographique intergouvernementale	0	0.6527
+1498	correction de troposphère	0	0.6527
+1499	correction troposphérique humide	0	0.6527
+1500	données des marégraphes	0	0.6527
+1501	données du niveau	0	0.6527
+1502	détection de pointe	0	0.6527
+1503	format de données	0	0.6527
+1504	gnss aux marégraphes	0	0.6527
+1505	indicateurs de contrôle	0	0.6527
+1506	informations d'étalonnage	0	0.6527
+1507	mesure de hauteur	0	0.6527
+1508	modernes de géodésie	0	0.6527
+1509	niveau des eaux	0	0.6527
+1510	partie du programme	0	0.6527
+1511	place au début	0	0.6527
+1512	procédures de contrôle	0	0.6527
+1513	rôle de centre	0	0.6527
+1514	stations marégraphiques côtières	0	0.6527
+1515	tests automatiques individuels	0	0.6527
+1516	validation des missions	0	0.6527
+1517	étude des marées	0	0.6527
+1518	étude des tendances	0	0.6527
+1519	densité	1	0.6524
+1520	objectifs	1	0.6516
+1521	signaux	1	0.6516
+1522	échantillonnage	0	0.6516
+1523	couche	1	0.6445
+1524	critères	0	0.6445
+1525	mlds	0	0.6445
+1526	variation	1	0.6445
+1527	bulletins	1	0.6393
+1528	mail	0	0.6393
+1529	nceis	0	0.6393
+1530	noaa	0	0.6393
+1531	sauvegarde	0	0.6393
+1532	voiliers	0	0.6393
+1533	aide de la version	0	0.6371
+1534	propriétés de l'océan	0	0.6371
+1535	temps pour les études	0	0.6371
+1536	sources	0	0.6368
+1537	prélèvement	0	0.6346
+1538	analyse in situ	0	0.6301
+1539	capacités d'échantillonnage	0	0.6301
+1540	espace du réseau	0	0.6301
+1541	fonction du temps	0	0.6301
+1542	jour des statistiques	0	0.6301
+1543	mise à jour	0	0.6301
+1544	océan en fonction	0	0.6301
+1545	outil d'analyse	0	0.6301
+1546	réseau des flotteurs	0	0.6301
+1547	système d'analyse	0	0.6301
+1548	traitement en temps	0	0.6301
+1549	types de profils	0	0.6301
+1550	échantillonnage du temps	0	0.6301
+1551	évolution des propriétés	0	0.6301
+1552	altimètres radar	0	0.626
+1553	altimétrie spatiale	0	0.626
+1554	applications scientifiques	0	0.626
+1555	calibration validation	0	0.626
+1556	commission océanographique	0	0.626
+1557	communauté scientifique	0	0.626
+1558	continent antarctique	0	0.626
+1559	contrôle visuel	0	0.626
+1560	correction troposphérique	0	0.626
+1561	documentation cmems	0	0.626
+1562	données douteuses	0	0.626
+1563	données gnss	0	0.626
+1564	données respectives	0	0.626
+1565	déplacements verticaux	0	0.626
+1566	eau liquide	0	0.626
+1567	global sea	0	0.626
+1568	grande qualité	0	0.626
+1569	hauteur altimétrique	0	0.626
+1570	marées océaniques	1	0.626
+1571	marégraphes français	0	0.626
+1572	mesure rosame	0	0.626
+1573	mesures voisines	0	0.626
+1574	missions ers-1	0	0.626
+1575	niveau actuel	0	0.626
+1576	niveaux relatifs	0	0.626
+1577	observation subantarctique	0	0.626
+1578	observatoire midi-pyrénées	0	0.626
+1579	océan indien	1	0.626
+1580	onde radar	0	0.626
+1581	paramètres biogéochimiques	0	0.626
+1582	programme mondial	0	0.626
+1583	précision informations	0	0.626
+1584	qualité métrologique	0	0.626
+1585	qualité précision	0	0.626
+1586	réseau rosame	0	0.626
+1587	sea level	0	0.626
+1588	sites rosame	0	0.626
+1589	soutien financier	1	0.626
+1590	soutien humain	0	0.626
+1591	soutien logistique	0	0.626
+1592	stabilité géodésique	0	0.626
+1593	stations gnss	0	0.626
+1594	stations marégraphiques	0	0.626
+1595	techniques modernes	0	0.626
+1596	terres australes	0	0.626
+1597	tests automatiques	0	0.626
+1598	troposphère humide	0	0.626
+1599	étroite collaboration	0	0.626
+1600	pression	1	0.6216
+1601	analyse globale	0	0.6174
+1602	analyse opérationnelle	0	0.6174
+1603	calcul facile	0	0.6174
+1604	champs grillé	0	0.6174
+1605	indices climatiques	0	0.6174
+1606	études climatologiques	0	0.6174
+1607	observation du niveau	0	0.6155
+1608	terme du niveau	0	0.6155
+1609	début des années	0	0.6153
+1610	mesures de concentration	0	0.6153
+1611	tests statistiques	0	0.6032
+1612	ensemble de données	0	0.5859
+1613	calcul	1	0.5841
+1614	compte	0	0.5841
+1615	indices	0	0.5841
+1616	isas	0	0.5841
+1617	outil	1	0.5841
+1618	statistiques	1	0.5841
+1619	choix de l'espèce	0	0.5829
+1620	circulation de l'océan	0	0.5829
+1621	densité de l'eau	0	0.5829
+1622	instrumentation de l'éléphant	0	0.5829
+1623	montée de la forme	0	0.5829
+1624	océan pendant les mois	0	0.5829
+1625	prélèvements sur les lieux	0	0.5829
+1626	réponse de l'océan	0	0.5829
+1627	suivi de la macrofaune	0	0.5829
+1628	surface de l'océan	0	0.5829
+1629	radar	1	0.5715
+1630	20hz en mode	0	0.5714
+1631	accès aux zones	0	0.5714
+1632	bancs de maërl	0	0.5714
+1633	biocénoses benthiques côtières	0	0.5714
+1634	biomasse des faisceaux	0	0.5714
+1635	changements climatiques mondiaux	0	0.5714
+1636	collecte des profils	0	0.5714
+1637	compréhension des stratégies	0	0.5714
+1638	distribution des habitats	0	0.5714
+1639	données de relais	0	0.5714
+1640	données de suivi	0	0.5714
+1641	données par satellite	0	0.5714
+1642	début	0	0.5714
+1643	dénombrements de faisceaux	0	0.5714
+1644	eau de mer	1	0.5714
+1645	efforts de modélisation	0	0.5714
+1646	enregistreur de données	0	0.5714
+1647	fenêtre de temps	0	0.5714
+1648	forage des éléphants	0	0.5714
+1649	forme d'onde	0	0.5714
+1650	formes d'onde	0	0.5714
+1651	front de montée	0	0.5714
+1652	herbiers à posidonia	0	0.5714
+1653	identification	1	0.5714
+1654	largeur des feuilles	0	0.5714
+1655	longueur des feuilles	0	0.5714
+1656	m de profondeur	0	0.5714
+1657	macroalgues des substrats	0	0.5714
+1658	macrofaune des substrats	0	0.5714
+1659	manque de mesures	0	0.5714
+1660	maturation des feuilles	0	0.5714
+1661	mer à terre	0	0.5714
+1662	modélisation des processus	0	0.5714
+1663	n pour sentinel-3a	0	0.5714
+1664	nutriments	1	0.5714
+1665	objet de mesures	0	0.5714
+1666	plongées de mammifères	0	0.5714
+1667	processus océanographiques physiques	0	0.5714
+1668	quadrat de 40x40cm	0	0.5714
+1669	relais par satellite	0	0.5714
+1670	régulation du climat	0	0.5714
+1671	satellite à température-conductivité-prodeur	0	0.5714
+1672	sentinel-3a en mode	0	0.5714
+1673	stade de maturation	0	0.5714
+1674	stratégies de forage	0	0.5714
+1675	suite	0	0.5714
+1676	surveillance des biocénoses	0	0.5714
+1677	surveillance des herbiers	0	0.5714
+1678	taille	1	0.5714
+1679	trace de niveau	0	0.5714
+1680	utilisation de flotteurs	0	0.5714
+1681	utilisation de navires	0	0.5714
+1682	échantillonnage des propriétés	0	0.5714
+1683	échelle du climat	0	0.5714
+1684	eaux littorales	0	0.5647
+1685	altimétrie	0	0.5612
+1686	atmosphère	1	0.5612
+1687	commission	0	0.5612
+1688	comparaison	0	0.5612
+1689	continent	0	0.5612
+1690	cours	1	0.5612
+1691	documentation	1	0.5612
+1692	ers-2	0	0.5612
+1693	experts	1	0.5612
+1694	gloss	0	0.5612
+1695	gnss	0	0.5612
+1696	géodésie	0	0.5612
+1697	insu	0	0.5612
+1698	interface	0	0.5612
+1699	logistique	1	0.5612
+1700	modernes	0	0.5612
+1701	nuages	0	0.5612
+1702	observatoire	0	0.5612
+1703	partie	0	0.5612
+1704	retard	0	0.5612
+1705	sea	0	0.5612
+1706	stabilité	0	0.5612
+1707	terres	0	0.5612
+1708	troposphère	0	0.5612
+1709	égide	0	0.5612
+1710	étalonnage	1	0.5612
+1711	capacités	0	0.5586
+1712	alternative récente	0	0.5508
+1713	altimétrique monomission	0	0.5508
+1714	bases foliaires	0	0.5508
+1715	biocénoses benthiques	0	0.5508
+1716	biodiversité faunistique	0	0.5508
+1717	capteurs ctd	0	0.5508
+1718	climat mondial	0	0.5508
+1719	climat océanique	0	0.5508
+1720	corrections géophysiques	0	0.5508
+1721	distance altimétrique	0	0.5508
+1722	données standard	0	0.5508
+1723	données sélectives	0	0.5508
+1724	efforts nationaux	0	0.5508
+1725	faisceaux foliaires	0	0.5508
+1726	faisceaux vivants	0	0.5508
+1727	fichiers sgdr	0	0.5508
+1728	grande échelle	0	0.5508
+1729	grandes profondeurs	0	0.5508
+1730	grands efforts	0	0.5508
+1731	haute latitude	0	0.5508
+1732	intention principale	0	0.5508
+1733	longues durées	0	0.5508
+1734	longueur moyenne	0	0.5508
+1735	migration correction	0	0.5508
+1736	monomission sentinel-3a	0	0.5508
+1737	méthode viable	0	0.5508
+1738	nombreuses régions	0	0.5508
+1739	onde altimétrique	0	0.5508
+1740	peuplements macroalgaux	0	0.5508
+1741	plateformes continentales	0	0.5508
+1742	processus océanographiques	0	0.5508
+1743	profileurs argo	0	0.5508
+1744	propriétés hydrographiques	0	0.5508
+1745	recherche conventionnels	0	0.5508
+1746	rôle fondamental	0	0.5508
+1747	sables intertidaux	0	0.5508
+1748	satellite argos	0	0.5508
+1749	swh valides	0	0.5508
+1750	zones glaciaires	0	0.5508
+1751	écosystème riche	0	0.5508
+1752	façon	0	0.5458
+1753	aide d'une méthode	0	0.5342
+1754	besoins de la communauté	0	0.5342
+1755	passé par l'intégration	0	0.5342
+1756	qualité de l'ensemble	0	0.5342
+1757	ré-analyse de la physique	0	0.5342
+1758	semaine pour les prévisions	0	0.5342
+1759	propriétés	0	0.5302
+1760	activités de ré-analyse	0	0.5245
+1761	analyse du climat	0	0.5245
+1762	besoins de modélisation	0	0.5245
+1763	données au niveau	0	0.5245
+1764	ensemble des données	0	0.5245
+1765	fenêtres de temps	0	0.5245
+1766	intégration des données	0	0.5245
+1767	mesures de température	0	0.5245
+1768	méthode d'analyse	0	0.5245
+1769	netcdf sans validation	0	0.5245
+1770	niveau d'origine	0	0.5245
+1771	objectifs de réanalyse	0	0.5245
+1772	observation in-situ annuelle	0	0.5245
+1773	physique des océans	0	0.5245
+1774	phénomènes océaniques réels	0	0.5245
+1775	procédure de qc	0	0.5245
+1776	produit de référence	0	0.5245
+1777	source de données	0	0.5245
+1778	séries d'analyses	0	0.5245
+1779	données relatives	0	0.5228
+1780	substrats meubles	0	0.5228
+1781	eurogoos pour les mers	0	0.5197
+1782	format sur un portail	0	0.5197
+1783	gts avec la contribution	0	0.5197
+1784	permanence avec les observations	0	0.5197
+1785	quadrige pour la zone	0	0.5197
+1786	résultats sur la plupart	0	0.5197
+1787	influence sur les propriétés	0	0.5195
+1788	nord-occidentale dans le but	0	0.5195
+1789	rôle dans les interactions	0	0.5195
+1790	accès aux données	0	0.5105
+1791	amarrage d'oceansites	0	0.5105
+1792	cadre des plans	0	0.5105
+1793	collaboration avec eurogoos	0	0.5105
+1794	contribution de meds	0	0.5105
+1795	données de thermosalinographes	0	0.5105
+1796	données sous moratoire	0	0.5105
+1797	etudes d'impact	0	0.5105
+1798	flotteurs de profils	0	0.5105
+1799	gestion des parcs	0	0.5105
+1800	lieu de mesure	0	0.5105
+1801	lieu de surveillance	0	0.5105
+1802	liste des groupes	0	0.5105
+1803	liste des programmes	0	0.5105
+1804	mer d'eurogoos	0	0.5105
+1805	mers d'europe	0	0.5105
+1806	mois de données	0	0.5105
+1807	mois par mois	0	0.5105
+1808	navires d'opportunité	0	0.5105
+1809	observation des contaminants	0	0.5105
+1810	observations en double	0	0.5105
+1811	plans de gestion	0	0.5105
+1812	plupart des paramètres	0	0.5105
+1813	point d'accès	0	0.5105
+1814	profil de gts	0	0.5105
+1815	profil des flotteurs	0	0.5105
+1816	profils de gliders	0	0.5105
+1817	réseau de suivi	0	0.5105
+1818	substrats durs corail	0	0.5105
+1819	surval par groupes	0	0.5105
+1820	système de télécommunication	0	0.5105
+1821	sélection de paramètres	0	0.5105
+1822	télécommunication au format	0	0.5105
+1823	activités à méso-échelle	0	0.5104
+1824	but de moose	0	0.5104
+1825	contexte des changements	0	0.5104
+1826	moyens de mesures	0	0.5104
+1827	objectif du service	0	0.5104
+1828	réseau de stations	0	0.5104
+1829	saisonnalité des activités	0	0.5104
+1830	stations marines fixes	0	0.5104
+1831	structures de communautés	0	0.5104
+1832	uvre des moyens	0	0.5104
+1833	variabilité des structures	0	0.5104
+1834	évolution du bassin	0	0.5104
+1835	analyse objective	0	0.5071
+1836	analyses objectives	0	0.5071
+1837	catalogue cmems	0	0.5071
+1838	centres opérationnels	0	0.5071
+1839	champs grisés	0	0.5071
+1840	composant global	0	0.5071
+1841	cora netcdf	0	0.5071
+1842	couverture temporelle	0	0.5071
+1843	format cora	0	0.5071
+1844	informations qualité	0	0.5071
+1845	mauvaises données	0	0.5071
+1846	meilleure couverture	0	0.5071
+1847	meilleure version	0	0.5071
+1848	meilleurs ensembles	0	0.5071
+1849	nouvelle version	0	0.5071
+1850	observation in-situ	0	0.5071
+1851	paramètres mesurés	0	0.5071
+1852	phénomènes océaniques	0	0.5071
+1853	procédures supplémentaires	0	0.5071
+1854	profils individuels	0	0.5071
+1855	qualité visuelle	0	0.5071
+1856	système national	0	0.5071
+1857	temps différentes	0	0.5071
+1858	validation supplémentaire	0	0.5071
+1859	version disponible	0	0.5071
+1860	20hz	0	0.5
+1861	3b	0	0.5
+1862	40x40cm	0	0.5
+1863	alternative	0	0.5
+1864	animal	1	0.5
+1865	bancs	0	0.5
+1866	biocénoses	0	0.5
+1867	conductivité-température-profondeur	0	0.5
+1868	distance	1	0.5
+1869	durées	0	0.5
+1870	effet	1	0.5
+1871	enregistreur	1	0.5
+1872	extrémité	0	0.5
+1873	fedak	0	0.5
+1874	forage	1	0.5
+1875	formes	0	0.5
+1876	front	1	0.5
+1877	instrumentation	0	0.5
+1878	intention	1	0.5
+1879	largeur	1	0.5
+1880	latitude	0	0.5
+1881	macroalgues	0	0.5
+1882	manque	0	0.5
+1883	marina	0	0.5
+1884	migration	1	0.5
+1885	montée	0	0.5
+1886	mètre	0	0.5
+1887	objet	0	0.5
+1888	particularité	0	0.5
+1889	plongée	1	0.5
+1890	profondeurs	0	0.5
+1891	quadrat	0	0.5
+1892	rebent_hzm	0	0.5
+1893	relais	0	0.5
+1894	roquet	0	0.5
+1895	sables	0	0.5
+1896	sexe	1	0.5
+1897	sous-produit	0	0.5
+1898	stratégies	0	0.5
+1899	technologie	1	0.5
+1900	température-conductivité-prodeur	0	0.5
+1901	volets	0	0.5
+1902	wind_speed	0	0.5
+1903	épibiontes	0	0.5
+1904	espèce	0	0.4988
+1905	fenêtre	0	0.4988
+1906	fichier	0	0.4988
+1907	maturation	0	0.4988
+1908	profileurs	0	0.4988
+1909	sentinel-3a	0	0.4988
+1910	accès unique	0	0.494
+1911	aggrégation homogène	0	0.494
+1912	bateaux ferrybox	0	0.494
+1913	composantes régionales	0	0.494
+1914	dernier mois	0	0.494
+1915	diffusion surval	0	0.494
+1916	diverses sources	0	0.494
+1917	données issues	0	0.494
+1918	emprise cartographique	0	0.494
+1919	emprise géographique	0	0.494
+1920	eurogoos roos	0	0.494
+1921	façon unique	0	0.494
+1922	format buoy	0	0.494
+1923	global système	0	0.494
+1924	iles eparses	0	0.494
+1925	iles éparses	0	0.494
+1926	lieu géographique	1	0.494
+1927	maritimes sédiment	0	0.494
+1928	mers européennes	0	0.494
+1929	même format	0	0.494
+1930	même portail	0	0.494
+1931	nouvelles données	0	0.494
+1932	observation hydrologie	0	0.494
+1933	paramètre océan	0	0.494
+1934	parcs marins	0	0.494
+1935	plates-formes suivantes	0	0.494
+1936	portail ins-tac	0	0.494
+1937	portail unique	0	0.494
+1938	produit national	0	0.494
+1939	produit surval	0	0.494
+1940	profils argo	0	0.494
+1941	programmes internationaux	0	0.494
+1942	programmes locaux	0	0.494
+1943	programmes nationaux	0	0.494
+1944	quadrige aujourd	0	0.494
+1945	répertoire dernier	0	0.494
+1946	stations fixes	0	0.494
+1947	suivi benthique	0	0.494
+1948	surveillance bancarisées	0	0.494
+1949	systèmes nationaux	0	0.494
+1950	thermosalinographes européens	0	0.494
+1951	version précédente	0	0.494
+1952	zone océan	0	0.494
+1953	bassin nord-occidental	0	0.4939
+1954	bassin provençal	0	0.4939
+1955	campagnes bateaux	0	0.4939
+1956	changements globaux	0	0.4939
+1957	continuum côte-large	0	0.4939
+1958	façon synoptique	0	0.4939
+1959	flotteurs profileurs	0	0.4939
+1960	grandes tendances	0	0.4939
+1961	géochimie biologie	0	0.4939
+1962	interactions physique	0	0.4939
+1963	mer ligure	0	0.4939
+1964	mesures modernes	0	0.4939
+1965	observation moose	0	0.4939
+1966	observations multi-plateformes	0	0.4939
+1967	origine anthropique	0	0.4939
+1968	physique géochimie	0	0.4939
+1969	plateformes mobiles	0	0.4939
+1970	propriétés biogéochimiques	0	0.4939
+1971	région marine	0	0.4939
+1972	sites pertinents	0	0.4939
+1973	stations fluviales	0	0.4939
+1974	stations marines	0	0.4939
+1975	stations terrestres	0	0.4939
+1976	variabilité générale	0	0.4939
+1977	informations sur l'intérieur	0	0.4887
+1978	informations sur le traitement	0	0.4887
+1979	intérieur de l'océan	0	0.4887
+1980	besoin d'informations	0	0.4846
+1981	communauté de recherche	0	0.4846
+1982	modèles de circulation	0	0.4846
+1983	niveau de référence	0	0.4846
+1984	référence des mesures	0	0.4846
+1985	prévisions précises	0	0.477
+1986	réseaux internationaux	0	0.477
+1987	description de l'environnement	0	0.4745
+1988	dénombrements	0	0.4728
+1989	jour en permanence	0	0.4706
+1990	surveillance du phytoplancton	0	0.4706
+1991	disposition sur le site	0	0.4673
+1992	données de la base	0	0.4673
+1993	information sur l'eau	0	0.4673
+1994	ministère de l'environnement	0	0.4673
+1995	paramètres de la qualité	0	0.4673
+1996	référence pour les eaux	0	0.4673
+1997	catalogue	1	0.4637
+1998	composant	0	0.4637
+1999	copernicus	0	0.4637
+2000	cora	0	0.4637
+2001	fenêtres	0	0.4637
+2002	http	0	0.4637
+2003	inscription	0	0.4637
+2004	intégration	0	0.4637
+2005	marine	0	0.4637
+2006	opérateur	1	0.4637
+2007	passé	0	0.4637
+2008	physique	1	0.4637
+2009	procédure	1	0.4637
+2010	ré-analyse	0	0.4637
+2011	semaine	0	0.4637
+2012	semaines	0	0.4637
+2013	source	0	0.4637
+2014	étapes	0	0.4637
+2015	ensemble des acteurs	0	0.4599
+2016	information de référence	0	0.4599
+2017	outils d'interprétation	0	0.4599
+2018	panoplie d'outils	0	0.4599
+2019	produits d'information	0	0.4599
+2020	secrétariat d'administration	0	0.4599
+2021	surveillance du littoral	0	0.4599
+2022	travaux du secrétariat	0	0.4599
+2023	élaboration de produits	0	0.4599
+2024	élément du système	0	0.4599
+2025	décibars	0	0.4569
+2026	immersion	1	0.4569
+2027	intérieur	1	0.4569
+2028	monde	0	0.4569
+2029	netcdf	0	0.4569
+2030	aggrégation	0	0.4527
+2031	amarrage	0	0.4527
+2032	aujourd	0	0.4527
+2033	donnée	0	0.4527
+2034	double	1	0.4527
+2035	eparses	0	0.4527
+2036	etudes	0	0.4527
+2037	eurosites	0	0.4527
+2038	la_reunion_etudes_impact	0	0.4527
+2039	marins	1	0.4527
+2040	meteo-france	0	0.4527
+2041	moratoire	0	0.4527
+2042	opportunité	0	0.4527
+2043	orc_mayotte_lit_benthos	0	0.4527
+2044	parcs	0	0.4527
+2045	plans	1	0.4527
+2046	plates-formes	0	0.4527
+2047	repoms	0	0.4527
+2048	roos	0	0.4527
+2049	répertoire	1	0.4527
+2050	surval	0	0.4527
+2051	sélection	1	0.4527
+2052	télécommunication	0	0.4527
+2053	biologie	1	0.4526
+2054	communautés	0	0.4526
+2055	continuum	0	0.4526
+2056	environment	0	0.4526
+2057	golfe	0	0.4526
+2058	géochimie	0	0.4526
+2059	influence	1	0.4526
+2060	ligure	0	0.4526
+2061	méso-échelle	0	0.4526
+2062	nord-occidentale	0	0.4526
+2063	planeurs	0	0.4526
+2064	région	1	0.4526
+2065	saison	0	0.4526
+2066	saisonnalité	0	0.4526
+2067	sémaphores	0	0.4526
+2068	concertation entre les laboratoires	0	0.4514
+2069	croissance de la moule	0	0.4514
+2070	différences entre le contenu	0	0.4514
+2071	fonction de la disponibilité	0	0.4514
+2072	mesure de la dilatation	0	0.4514
+2073	observation de la moule	0	0.4514
+2074	saisons de la vie	0	0.4514
+2075	secteur de la baie	0	0.4514
+2076	vis de l'introduction	0	0.4514
+2077	administration national	0	0.4464
+2078	banque quadrige	0	0.4464
+2079	différents référentiels	0	0.4464
+2080	environnement marin	0	0.4464
+2081	information quadrige	0	0.4464
+2082	qualité générale	0	0.4464
+2083	ressource conchylicole	0	0.4464
+2084	référentiels nationaux	0	0.4464
+2085	site envlit	0	0.4464
+2086	absence de hiérarchisation	0	0.4444
+2087	absorption de chaleur	0	0.4444
+2088	acquisition de paramètres	0	0.4444
+2089	année de captage	0	0.4444
+2090	baie de vilaine	0	0.4444
+2091	bateaux	1	0.4444
+2092	bouchot du nord	0	0.4444
+2093	choix des sites	0	0.4444
+2094	correspondant aux sites	0	0.4444
+2095	dimensions des moules	0	0.4444
+2096	disponibilité des données	0	0.4444
+2097	données d'entrée	0	0.4444
+2098	durée du suivi	0	0.4444
+2099	détection de maladie	0	0.4444
+2100	détection de maladies	0	0.4444
+2101	elevage sur bouchot	0	0.4444
+2102	elevage sur corde	0	0.4444
+2103	expérience du réseau	0	0.4444
+2104	fiche de métadonnée	0	0.4444
+2105	globe en fonction	0	0.4444
+2106	hiérarchisation des maladies	0	0.4444
+2107	huîtres creuses disponible	0	0.4444
+2108	loix en ré	0	0.4444
+2109	lots de naissain	0	0.4444
+2110	mortalité des moules	0	0.4444
+2111	moules sur bouchot	0	0.4444
+2112	nord au sud	0	0.4444
+2113	parallèles des conditions	0	0.4444
+2114	pays de loire	0	0.4444
+2115	permanence	0	0.4444
+2116	richesse des microalgues	0	0.4444
+2117	site à risque	0	0.4444
+2118	sites de suivi	0	0.4444
+2119	sites du rescoii	0	0.4444
+2120	suite au resco	0	0.4444
+2121	suivis de mortalités	0	0.4444
+2122	taux de mortalité	1	0.4444
+2123	un des sites	0	0.4444
+2124	agents infectieux	0	0.4319
+2125	agents pathogènes	0	0.4319
+2126	analyses spécifiques	0	0.4319
+2127	ancien réseau	0	0.4319
+2128	appelée absorption	0	0.4319
+2129	ateliers nationaux	0	0.4319
+2130	bactériologie classique	0	0.4319
+2131	carte régionale	0	0.4319
+2132	cf image	0	0.4319
+2133	chaleur océanique	0	0.4319
+2134	conditions environnementales	0	0.4319
+2135	contenu massique	0	0.4319
+2136	contenu total	0	0.4319
+2137	croissance printanière	0	0.4319
+2138	différents types	0	0.4319
+2139	dilatation thermique	0	0.4319
+2140	données gravimétriques	0	0.4319
+2141	déséquilibre énergétique	0	0.4319
+2142	détection éventuelle	0	0.4319
+2143	engraissement estival	0	0.4319
+2144	fichier netcdf	0	0.4319
+2145	fréquence bi-mensuelle	0	0.4319
+2146	indicateur déséquilibre	0	0.4319
+2147	indicateur ohc	0	0.4319
+2148	indicateurs ohc	0	0.4319
+2149	laboratoire spécifiques	0	0.4319
+2150	laboratoires environnement	0	0.4319
+2151	littoral atlantique	0	0.4319
+2152	lots moribonds	0	0.4319
+2153	maladie exotique	0	0.4319
+2154	maladies exotiques	0	0.4319
+2155	maturation hivernale	0	0.4319
+2156	mesures altimétriques	0	0.4319
+2157	mikrocytos mackini	0	0.4319
+2158	national mytilobs	0	0.4319
+2159	niveau européen	0	0.4319
+2160	ouest cotentin	0	0.4319
+2161	paramètres environnementaux	0	0.4319
+2162	parasite mikrocytos	0	0.4319
+2163	pertuis charentais	0	0.4319
+2164	pleine eau	0	0.4319
+2165	principales regions	0	0.4319
+2166	principales saisons	0	0.4319
+2167	propres indicateurs	0	0.4319
+2168	périodes principales	0	0.4319
+2169	regions mytilicoles	0	0.4319
+2170	reseau national	0	0.4319
+2171	réseau resco	0	0.4319
+2172	seul fichier	0	0.4319
+2173	signaux inférieurs	0	0.4319
+2174	site filiere	0	0.4319
+2175	temps initial	0	0.4319
+2176	variations temporelles	0	0.4319
+2177	vie biologique	0	0.4319
+2178	éventuelles maladies	0	0.4319
+2179	administration	1	0.4124
+2180	banque	0	0.4124
+2181	interprétation	0	0.4124
+2182	microbiologie	1	0.4124
+2183	outils	0	0.4124
+2184	panoplie	0	0.4124
+2185	ressource	0	0.4124
+2186	sandre	0	0.4124
+2187	secrétariat	0	0.4124
+2188	sie	0	0.4124
+2189	titre	0	0.4124
+2190	élaboration	0	0.4124
+2191	élément	1	0.4124
+2192	absence	0	0.4
+2193	absorption	1	0.4
+2194	aiguillon	0	0.4
+2195	altimétrie-gravimétrie	0	0.4
+2196	bactériologie	1	0.4
+2197	captage	0	0.4
+2198	carte	0	0.4
+2199	classe	0	0.4
+2200	commercialisation	1	0.4
+2201	concertation	1	0.4
+2202	corde	0	0.4
+2203	correspondant	0	0.4
+2204	création	1	0.4
+2205	différences	0	0.4
+2206	dilatation	1	0.4
+2207	dimensions	0	0.4
+2208	disponibilité	0	0.4
+2209	dérivée	0	0.4
+2210	déséquilibre	1	0.4
+2211	eei	0	0.4
+2212	engraissement	0	0.4
+2213	entrée	1	0.4
+2214	expérience	0	0.4
+2215	fiche	0	0.4
+2216	globe	0	0.4
+2217	hiérarchisation	0	0.4
+2218	infection	1	0.4
+2219	introduction	0	0.4
+2220	loix	0	0.4
+2221	maladie	1	0.4
+2222	microalgues	1	0.4
+2223	mikrocytos	0	0.4
+2224	mortalités	0	0.4
+2225	métadonnée	0	0.4
+2226	naissain	0	0.4
+2227	naissains	0	0.4
+2228	nord	0	0.4
+2229	parallèles	0	0.4
+2230	passage	0	0.4
+2231	pays	0	0.4
+2232	poids	1	0.4
+2233	profession	1	0.4
+2234	regions	0	0.4
+2235	remora	0	0.4
+2236	resco	0	0.4
+2237	rescoii	0	0.4
+2238	reseau	0	0.4
+2239	richesse	0	0.4
+2240	risque	1	0.4
+2241	ré	0	0.4
+2242	saisons	1	0.4
+2243	secteur	0	0.4
+2244	sonde	1	0.4
+2245	structure	0	0.4
+2246	taux	0	0.4
+2247	transparence	0	0.4
+2248	vente	0	0.4
+2249	vie	1	0.4
+2250	vilaine	0	0.4
+2251	vis	0	0.4
+2252	vivier	0	0.4
+2253	x3	0	0.4
+2254	élevage	1	0.4
+2255	phycotoxines	0	0.3998
+2256	conditions	0	0.3861
+2257	capacités d'une flotte	0	0.3598
+2258	gliders pour les observations	0	0.3598
+2259	flotte de gliders	0	0.3554
+2260	initiative de everyone's	0	0.3554
+2261	partenaires d'ego	0	0.3554
+2262	systèmes d'observation	0	0.3554
+2263	utilisation des gliders	0	0.3554
+2264	équipes d'océanographes	0	0.3554
+2265	coquillages dans un réseau	0	0.3489
+2266	déclenchement de la recherche	0	0.3489
+2267	phycotoxines dans les organismes	0	0.3489
+2268	prélevement de l'échantillon	0	0.3489
+2269	toxines sur les lieux	0	0.3489
+2270	différents sites	0	0.3473
+2271	fins diverses	0	0.3473
+2272	objectif scientifique	0	0.3473
+2273	observation existants	0	0.3473
+2274	observations océaniques	0	0.3473
+2275	organismes européens	0	0.3473
+2276	petits véhicules	0	0.3473
+2277	robotiques autonomes	0	0.3473
+2278	sous-marins robotiques	0	0.3473
+2279	véhicules sous-marins	0	0.3473
+2280	association entre lieux	0	0.3447
+2281	ensemble du littoral	0	0.3447
+2282	lieu de prélevement	0	0.3447
+2283	nombre de lieux	0	0.3447
+2284	paramètre de concentration	0	0.3447
+2285	prélèvements de coquillages	0	0.3447
+2286	recherche de toxines	0	0.3447
+2287	réseau de lieux	0	0.3447
+2288	résultats des bio-essais	0	0.3447
+2289	surveillance des phycotoxines	0	0.3447
+2290	types de coquillages	0	0.3447
+2291	types de toxines	0	0.3447
+2292	état de cause	0	0.3447
+2293	analyses chimiques	0	0.3371
+2294	divers types	0	0.3371
+2295	modes variés	0	0.3371
+2296	prélèvement rephytox	0	0.3371
+2297	résultats rephy	0	0.3371
+2298	toxines amnésiantes	0	0.3371
+2299	toxines distincts	0	0.3371
+2300	toxines paralysantes	0	0.3371
+2301	actions	0	0.3264
+2302	flottabilité	0	0.3264
+2303	initiative	0	0.3264
+2304	lacunes	0	0.3264
+2305	membres	1	0.3264
+2306	moteur	0	0.3264
+2307	observatories	0	0.3264
+2308	océanographes	0	0.3264
+2309	rassemblement	0	0.3264
+2310	robotiques	0	0.3264
+2311	sous-marins	0	0.3264
+2312	transit	0	0.3264
+2313	véhicules	0	0.3264
+2314	équipes	0	0.3264
+2315	association	1	0.3173
+2316	bio-essais	0	0.3173
+2317	bouchots	0	0.3173
+2318	cause	1	0.3173
+2319	date	0	0.3173
+2320	déclenchement	1	0.3173
+2321	filières	0	0.3173
+2322	modes	0	0.3173
+2323	prélevement	0	0.3173
+2324	rephytox-asp	0	0.3173
+2325	rephytox-psp	0	0.3173
+2326	support	1	0.3173
+2327	tables	0	0.3173
+2328	échantillon	0	0.3173
+2329	hydrologie dans les eaux	0	0.3111
+2330	fichiers de paramètres	0	0.3099
+2331	cas de besoin	0	0.3077
+2332	cellules par litre	0	0.3077
+2333	concentration en chlorophylle	0	0.3077
+2334	concentration en nutriments	0	0.3077
+2335	flores phytoplanctoniques indicatrices	0	0.3077
+2336	flores phytoplanctoniques partielle	0	0.3077
+2337	flores phytoplanctoniques totales	0	0.3077
+2338	masses d'eau	0	0.3077
+2339	turbinité des masses	0	0.3077
+2340	toxines lipophiles	0	0.3068
+2341	besoin local	0	0.3017
+2342	concentration supérieure	0	0.3017
+2343	espèces phytoplanctoniques	0	0.3017
+2344	espèces suivantes	0	0.3017
+2345	espèces suivants	0	0.3017
+2346	paramètres distincts	0	0.3017
+2347	protoceratium reticulatum	0	0.3017
+2348	seul genre	0	0.3017
+2349	taxons présents	0	0.3017
+2350	taxons supplémentaires	0	0.3017
+2351	ammonium	1	0.2858
+2352	cellules	1	0.2858
+2353	chaîne	1	0.2858
+2354	consommateur	0	0.2858
+2355	contrainte	0	0.2858
+2356	genre	1	0.2858
+2357	genres	0	0.2858
+2358	litre	1	0.2858
+2359	masses	0	0.2858
+2360	nitrate+nitrite	0	0.2858
+2361	ostreopsis	0	0.2858
+2362	phosphate	1	0.2858
+2363	polyedra	0	0.2858
+2364	protoceratium	0	0.2858
+2365	présents	0	0.2858
+2366	reticulatum	0	0.2858
+2367	silicate	0	0.2858
+2368	turbinité	0	0.2858

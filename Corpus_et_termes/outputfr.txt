@@ -1,0 +1,387 @@
+Données de courantométrie mesurées en continu par un ADCP de coque (Acoustic Doppler Current Profiler), validées et agrégées.
+##########END##########
+Glace de mer: Arctique
+##########END##########
+Un jeu de données mondial sur les déplacements en profondeur, nommé ANDRO, d'après une danse traditionnelle de la Bretagne signifiant un tourbillon, comprenant plus de 600 000 déplacements en profondeur, a été produit à partir des données Argo float.
+Une caractéristique importante de l’ANDRO est que les pressions mesurées lors de la dérive des flotteurs en profondeur, et convenablement moyennées, sont conservées dans ANDRO . Pour atteindre cet objectif, il était nécessaire de retraiter la plupart des données brutes Argo, en raison des nombreuses versions de décodage différentes (environ 100) pas toujours appliquées par les CNA aux données de déplacement, car ils étaient principalement intéressés par les paramètres p, t, S. profils. Le résultat de nos travaux a été la production de fichiers complets, nommés DEP, contenant toutes les données flottantes éventuellement récupérables.
+
+
+                Le contenu et le format actuels d'ANDRO sont décrits dans le guide de l'utilisateur
+                http://archimer.ifremer.fr/doc/00360/47126/,
+                qui doit être lu avant d'utiliser ANDRO (le format ANDRO est également décrit dans Ollitrault M. et al (2013)
+                http://archimer.ifremer.fr/doc/00138/24901/
+                ).
+##########END##########
+Argo est un ensemble mondial de 3 000 flotteurs à profil dérivant libre qui mesurent la température et la salinité des 2000 premier m de la colonne d'eau. Cela permet, pour la première fois, une surveillance continue de la température, de la salinité et de la vitesse des eaux supérieures, toutes les données étant relayées et rendues publiques dans les heures qui suivent la collecte.
+
+Le tableau fournit 100 000 profils de température / salinité et des mesures de vitesse par an réparties sur les océans globaux à un espacement moyen de 3 degrés. Certains flotteurs fournissent des paramètres bio-géochimiques supplémentaires tels que l'oxygène ou la chlorophylle.
+
+Toutes les données recueillies par les flotteurs Argo sont publiquement disponibles en temps quasi réel via Global Data Assembly Centers (GDAC) à Brest (France) et à Monterey (Californie) après un contrôle de qualité automatisé (QC) et sous une forme scientifiquement de contrôle qualité, temps différée, via les GDAC dans les six mois suivant la collecte.
+##########END##########
+ARVOR-C est un flotteur effectuant des profils de subsurface conçu pour fonctionner dans l'environnement côtier et effectuer des mesures océanographiques comme une station en point fixe.
+Sa conception a été optimisée pour réduire sa dérive grâce à une griffe de fond de mer et des griffes anti-dérive, une vitesse de profil optimisée (~ 25 cm / s) et une courte durée de transmission de données.
+Il peut effectuer plus de 300 profils et transmet ses données en temps réel via le système satellite Iridium.
+##########END##########
+Tourbillons détectés en temps différé (Delayed-Time - DT) pour toute la période [1993 - aujourd'hui] et en temps réel (Near Real Time - NRT) sur une période plus récente [janvier 2018 - aujourd'hui]. Plusieurs versions DT (META2.0DT, META3.1exp_DT_twosat et META3.1exp_DT_allsat) et une seule version NRT existent. Les variables fournies incluent notamment la localisation du centre du tourbillon, jour par jour, le type (cyclonique/anticyclonique), la vitesse sur le contour et le rayon, et les métadonnées associées.
+##########END##########
+L'UMR EPOC a été choisi pour créer et héberger la base de données Benthos en collaboration avec le LEMAR (Brest) et le LECOB (Banyuls-sur-Mer). Cet exercice a permis de récolter et de sauvegarder une très quantité de données, faisant de RESOMAR l'une des plus grandes bases de données benthiques en Europe.
+##########END##########
+Mesures des bouées dérivantes de surface. Ce système est un mouillage dérivant constitué d'une bouée de surface reliée à une ancre flottante par un câble (orin, câblot). Il doit suivre avec le plus de précision possible la masse d'eau dans laquelle l'ancre flottante est immergée. Les bouées de surface sont suivis par satellites Argos.
+##########END##########
+BOUée pour l'acquiSition d'une Série Optique à Long termE
+##########END##########
+Les bouteilles Niskin ou goflo vont prélever des échantillons d'eau à des pressions, températures, salinités qui seront caractérisées à l'aide de la CTD branchée dessus. A partir de ces échantillons d'eau, de nombreuses analyses sont effectuées: chimiques (Nutritifs, O2 ...), biologiques (virus, bactéries, Chlorophylle A...)
+##########END##########
+Les cartes mensuelles des anomalies de hauteurs de mer et de température de surface de la mer depuis janvier 1993 peuvent être visualisées sur le site bulletin du site AVISO+ (voir lien ci-contre)
+Les séries temporelles des anomalies de hauteurs de mer et de température de surface de la mer sont disponibles sur FTP (lien ci-contre).
+##########END##########
+Une campagne océanographique a été réalisée par le Shom, dans la baie de Saint-Malo, durant l’hiver 2018-2019. Des données de courants, de vagues et de hauteurs d’eau, ont été acquises à l’aide d’un réseau de 22 mouillages et 37 instruments.
+##########END##########
+Données brutes de bathymétrie monofaisceau archivées au SISMER, acquises à bord de la flotte océanographique civile française.
+##########END##########
+Données brutes de bathymétrie multifaisceaux archivées au SISMER, acquises à bord de la flotte océanographique civile française.
+##########END##########
+Mesures physico-chimiques issues des prélèvements à la bouteille ou à l'aide de pompes collectés lors des campagnes océanographiques françaises ou des programmes conjoints.
+##########END##########
+Archives nationales (SISMER) de séries temporelles de courantomètres.
+##########END##########
+Données CTD collectées lors des campagnes océanographiques françaises ou de projets conjoints.
+##########END##########
+Biogéochimie en Antarctique, fertilisation de l'océan
+##########END##########
+Zones biologiques théoriques calculées à partir de 2 variables physiques maillées : la bathymétrie (résolution 100m), et l'atténuation de la lumière dans la colonne d'eau (Kpar, résolution 250m). Côtes de France métropolitaine. Rapport Ifremer "Hamdi Anouar, Vasquez Mickael, Populus Jacques (2010). Cartographie des habitats physiques Eunis - Côtes de France. Convention Ifremer/AAMP n° 09/12177764/FY.
+                http://archimer.ifremer.fr/doc/00026/13751/
+                "
+##########END##########
+Habitats physiques dans la typologie Eunis résultant du croisement de trois variables physiques maillées à la résolution de 250 mètres : nature du substrat, zone biologique, tension de cisaillement au fond. Côtes de France métropolitaine. Rapport Ifremer "Hamdi Anouar, Vasquez Mickael, Populus Jacques (2010). Cartographie des habitats physiques Eunis - Côtes de France. Convention Ifremer/AAMP n° 09/12177764/FY.
+                http://archimer.ifremer.fr/doc/00026/13751/
+                "
+##########END##########
+Habitats physiques dans la typologie Eunis résultant du croisement de trois variables physiques maillées à la résolution de 100 mètres : nature du substrat, zone biologique, tension de cisaillement au fond. Côtes de France métropolitaine. Rapport Ifremer "Hamdi Anouar, Vasquez Mickael, Populus Jacques (2010). Cartographie des habitats physiques Eunis - Côtes de France. Convention Ifremer/AAMP n° 09/12177764/FY.
+                http://archimer.ifremer.fr/doc/00026/13751/
+                "
+##########END##########
+Cette synthèse offre une image globale de la morphologie de la mer méditerranéenne et de son environnement continental.
+##########END##########
+Le centre de données CORIOLIS contribue au volet "mesures in situ" de l'océanographie opérationnelle, en complément des mesures de la surface des océans effectuées au moyen d'appareils embarqués sur des satellites.
+Cette contribution se réalise par la mise en place de réseaux permanents et pérennes, effectués depuis des navires ou des systèmes autonomes, fixes ou dérivants.
+##########END##########
+Description du Centre d’Archivage National de Données de Houles In Situ (CANDHIS)
+##########END##########
+Le CERSAT (Centre ERS d'Archivage et de Traitement) / Laboratoire d'Océanographie de l'Espace fait partie de l'IFREMER (Institut Français de Recherche pour l'Exploitation de la Mer). Il a été créé en 1991 en tant que nœud du segment sol de l'ESA (Agence Spatiale Européenne) pour les satellites d'observation de la Terre ERS-1 et ERS-2, effectuant le traitement hors ligne des bas débits ERS-1 et ERS-2. "capteurs. Le CERSAT a ensuite évolué vers un centre de données multi-missions pour l'archivage, le traitement et la validation des données de capteurs spatiaux (altimètres, diffusiomètres, radiomètres, SAR, ...) en mettant l'accent sur les paramètres de surface et les interactions air-mer.
+##########END##########
+Estimations quotidiennes de la Chlorophylle-a, indicateur de la biomasse du phytoplancton, réalisées par l'IFREMER à partir des images satellites de MODIS/AQUA (NASA) et MERIS (ESA), et déduites des réflectances marines reliées à la Couleur de l’Eau. La méthode d’estimation de la chlorophylle-a à partir de la réflectance marine de la lumière solaire est basée sur la propriété du pigment chlorophyllien d’absorber préférentiellement la lumière bleue pour la photosynthèse.
+##########END##########
+La mer Ionienne a une position centrale, à la croisée des eaux des bassins ouest et est de la Méditerranée, et des mers Adriatique et Egée.  Sa circulation est très variable et caractérisée par deux grands états opposés : une circulation anticyclonique vs cyclonique. Un indicateur basé sur une combinaison des hauteurs de mer et de l'énergie cinétique tourbillonnaire, permet de suivre ces renversements de circulation
+##########END##########
+Le "Contenu en chaleur de l'océan" (ou OHC pour "Ocean Heat Content") est estimé à partir de la mesure de la dilatation thermique de l'océan basée sur les différences entre le contenu total du niveau de la mer dérivé des mesures altimétriques et le contenu massique dérivé des données gravimétriques, noté «altimétrie-gravimétrie».
+L'indicateur "Déséquilibre énergétique de la Terre" (ou EEI pour "Earth Energy Imbalance") est obtenu à partir des variations temporelles du contenu en chaleur de l'océan (OHC), c'est-à-dire en calculant sa dérivée (appelée absorption de chaleur océanique).
+Un seul fichier NetCDF donne accès à toutes les variables, y compris toutes les données utilisées pour calculer les indicateurs OHC et EEI, livrées en toute transparence et permettant aux utilisateurs de reconstruire leurs propres indicateurs OHC ou EEI. Les utilisateurs trouveront donc notamment:
+- la carte régionale des tendances pour l'indicateur OHC (3°x3°) (cf image associée à cette fiche de métadonnée)
+- la série temporelle de l 'OHC global des océans (représentative du globe en fonction de la disponibilité des données d'entrée)
+- la série temporelle de l'EEI (issu de l'OHC global filtré à partir de signaux inférieurs à 3 ans)
+##########END##########
+Produits altimétriques auxiliaires
+##########END##########
+Cartes mensuelles moyennes de chlorophylle-a réalisées sur la période 2003-2010. La chlorophylle-a est calculée avec l'algorithme OC5 développé à l'Ifremer.
+##########END##########
+Un système dénommé « Tide DataBase (TDB)» a été mis en place au SHOM pour archiver, traiter et rendre accessible les mesures in situ du niveau de la mer et les métadonnées associées, telles que les références verticales, les repères de marée, les instruments, les photographies, etc.
+##########END##########
+Données de surveillance des herbiers à Posidonia oceanica en Méditerranée entre 2007 et 2012. Deux niveaux font l'objet de mesures et de prélèvements sur les lieux de surveillance : 15 m de profondeur et la limite inférieure de l'herbier. Les données renseignent sur le stade de maturation des feuilles, la densité (dénombrements de faisceaux vivants dans un quadrat de 40x40cm), la longueur des feuilles et bases foliaires, la largeur des feuilles et l'état de leur extrémité, ainsi que la biomasse des faisceaux foliaires et des épibiontes. Pour la limite inférieure de l'herbier, les données de suivi renseignent également sur sa profondeur (en mètre) et son type (régressive, progressive, ou franche).
+##########END##########
+Le réseau national de surveillance des biocénoses benthiques côtières (REBENT) a pour objectif de recueillir et de mettre en forme les données relatives à la distribution des habitats et au suivi de leur biodiversité faunistique et floristique, dans la zone côtière. Ces données de 2006 à 2016 concernent plusieurs volets :
+- Suivi stationnel des macroalgues des substrats durs (intertidaux et subtidaux), ainsi que la faune associée à ces peuplements macroalgaux (REBENT_ALG)
+- Suivi stationnel de la macrofaune des substrats meubles (sables intertidaux et subtidaux, herbiers et maërl) (REBENT_FAU)
+- Suivi stationnel des herbiers Zostera marina comprenant le suivi de l'état de la végétation, des épiphytes, de la faune associées et du sédiment (REBENT_HZM)
+- Suivi stationnel des herbiers Zostera noltii comprenant le suivi de l'état de la végétation, des épiphytes, de la faune associées et du sédiment (REBENT_HZN)
+- Suivi des bancs de Maërl comprenant le suivi de l'état de la végétation (le suivi de la macrofaune associée est inclu dans REBENT_FAU) (REBENT_MAERL)
+##########END##########
+Réseau d’Observation et de Surveillance du Phytoplancton et de l’Hydrologie dans les eaux littorales. Ce jeu présente plusieurs fichiers de paramètres distincts mesurés entre 2006 et 2016 sur les lieux de surveillance :
+- Température, Salinité, Oxygène dissous, et Turbinité (FNU ou NFU) des masses d'eau
+- CHLORO-PHEO : ce sont les mesures de concentration en Chlorophylle a et Pheopigment
+- NUTRIMENTS : ce sont les mesures de concentration en nutriments (ammonium, phosphate, silicate, nitrate+nitrite)
+- Flores phytoplanctoniques totales (FLORTOT) : c’est l’identification et le dénombrement de toutes les espèces phytoplanctoniques pouvant être identifiées dans les conditions d’observation, c’est à dire globalement toutes les espèces dont la taille est supérieure à 20 µm, et celles dont la taille est inférieure mais qui sont en chaîne. Les espèces plus petites sont dénombrées seulement quand elles concernent des espèces potentiellement toxiques  (ex : Chrysochromulina).
+Flores phytoplanctoniques indicatrices (FLORIND) : c’est l’identification et le dénombrement de tous les taxons présents à une concentration supérieure à 100 000 cellules par litre (toxiques ou non) ; des taxons avérés toxiques pour le consommateur et présents sur nos côtes, c’est à dire les genres ou les espèces suivants : Alexandrium, Dinophysis, Pseudo-nitzschia et Ostreopsis, quelle que soit leur concentration ; des espèces suivantes connues pour produire des toxines lipophiles : Gonyaulax spinifera, Lingulodinium polyedra, Protoceratium reticulatum, Prorocentrum lima. Il peut y avoir des taxons supplémentaires, en cas de besoin local ou ponctuel.
+Flores phytoplanctoniques partielle (FLORPAR) : ce sont des flores simplifiées pour lesquelles aucune contrainte n’est imposée : elles peuvent même être réduites à un seul genre ou espèce.
+##########END##########
+Réseau de surveillance des phycotoxines dans les organismes marins (REPHYTOX) assure des prélèvements de coquillages dans un réseau de lieux de prélèvement répartis sur l’ensemble du littoral (environ 250 lieux potentiellement mobilisables). Les lieux de prélèvement REPHYTOX peuvent être communs avec des lieux REPHY. Les prélèvements peuvent concerner divers types de coquillages, en gisements naturels ou bien élevés selon des modes variés (bouchots, filières, tables, etc.). En tout état de cause, l’association entre lieux REPHYTOX et un certain nombre de lieux REPHY est étroite, les résultats REPHY pouvant déterminer le déclenchement de la recherche de toxines sur les lieux REPHYTOX de la zone. Ce jeu présente plusieurs fichiers de paramètres mesurés pour des types de toxines distincts entre 2006 et 2016 sur les lieux de surveillance : toxines amnésiantes (REPHYTOX-ASP) ; toxines paralysantes (REPHYTOX-PSP) ; et toxines lipophiles (REPHYTOX_LIP_AC et BE) avec les résultats des bio-essais (BE) et analyses chimiques (AC depuis 2010). A chaque paramètre de concentration mesuré sont associés le lieu de prélevement de l'échantillon, la date, le support, la fraction et la méthode utilisée.
+##########END##########
+Volet de réseau national REMI (Réseau de Contrôle Microbiologique), anciennement REMIC jusqu'en avril 2011. Ces données concernent la surveillance microbiologique régulière des zones de production conchylicoles afin de vérifier que le niveau de contamination, sur la base du dénombrement des Escherichia coli, reste conforme au classement (A, B et C) défini dans les arrêtés préfectoraux.
+##########END##########
+L'initiative de Everyone's Gliding Observatories (EGO) est un rassemblement de plusieurs équipes d'océanographes, intéressés par développer l'utilisation des gliders pour les observations océaniques. EGO a commencé en Europe avec des membres de la France, de l'Allemagne, de l'Italie, de la Norvège, de l'Espagne et du Royaume-Uni. Les partenaires d'EGO ont été financés par des organismes européens et nationaux pour exploiter les gliders à des fins diverses et sur différents sites. Des actions coordonnées sont mises en place pour ces sites afin de démontrer les capacités d'une flotte de gliders à échantillonner l'océan, avec un objectif scientifique et / ou opérationnel donné. Les gliders ont été développés dans les années 90 pour effectuer des observations in situ sur le premier km de la colonne d'eau, en comblant les lacunes laissées par les systèmes d'observation existants. Les gliders ressemblent à de petits véhicules sous-marins robotiques autonomes qui utilisent un moteur pour changer leur flottabilité. En passant de la surface à environ 1000 mètres, les gliders fournissent des données physiques et biogéochimiques en temps réel le long de leur transit.
+##########END##########
+Ce projet a été développé dans le cadre du projet INTERREG MARINEXUS (2010-2013) dont l’un des objectifs est de coordonner l’activité d’observation réalisée dans les laboratoires de Roscoff et Plymouth.
+7 différents paramètres de surface (température, salinité, oxygène dissous, fluorescence de la chlorophylle, turbidité, CDOM, pCO2) sont acquis quotidiennement lors de 2 transects entre Roscoff et Plymouth. Ces observations sont complétées par des numérations de plancton (phyto et zooplancton) réalisées par nos partenaires de la SAHFOS à l’aide du Continuous Plankton Recorder (CPR) selon une fréquence mensuelle. (collaboration : A. McQuatters-Gallops, P. Hélaouet, P.C. Reid SAHFOS).
+Il est prévu d’installer de nouveaux capteurs fin 2012 (cytomètre en flux) pour étudier les différentes classes de phytoplancton à partir de mesures en continu (collaboration avec G. Grégori – M. Thyssen, MIO Marseille).
+##########END##########
+Installé en collaboration avec la Station Biologique de Roscoff, le dispositif Ferry Box installé à bord du navire Pont Aven de la Britanny Ferries a été financé par le projet Previmer (financement CPER Bretagne). Dans le cadre de ce projet, les données acquises alimentent et sont assimilées dans les modèles océaniques de Previmer. Les données sont accessibles via le serveur de données océanographiques Coriolis.
+Six différents paramètres de surface (température, salinité, oxygène dissous, fluorescence de la chlorophylle, turbidité, CDOM sont acquis régulièrement lors des transects sur les zones précitées. Ces observations seront complétées par des numérations de plancton (phyto et zooplancton) comme initiés par le Station Biologique de Roscoff sur le FerryBox installé sur le ferry Armorique.
+##########END##########
+Résumé:
+
+
+                Pour l'observation in-situ annuelle de l'océan global en temps différé. Le produit in situ en temps différé conçu pour des objectifs de réanalyse intègre la meilleure version disponible de données in situ pour les mesures de température et de salinité. Ces données sont recueillies auprès des principaux réseaux mondiaux (Argo, GOSUD, OceanSITES, World Ocean Database) complétés par les données européennes fournies par les systèmes régionaux EUROGOOS et le système national avec les composants régionaux INS TAC. Il est mis à jour annuellement. La couverture temporelle a été étendue dans le passé par l'intégration des données EN4 pour la période 1950-1990. Pour accéder au catalogue CMEMS après l'inscription:
+                http://marine.copernicus.eu/
+
+
+Informations détaillées :
+
+Les modèles de circulation océanique ont besoin d'informations sur l'intérieur de l'océan pour pouvoir générer des prévisions précises. Cette information n'est disponible que sur mesure in situ. Cependant, ces informations sont acquises partout dans le monde et ne sont pas facilement accessibles aux utilisateurs opérationnels. Par conséquent, INS TAC, en se connectant à beaucoup de réseaux internationaux, collecte, contrôle et diffuse les données in situ pertinentes aux utilisateurs opérationnels. À des fins de réanalyse, les centres opérationnels doivent accéder aux meilleurs ensembles de données disponibles avec la meilleure couverture possible et où des procédures supplémentaires de contrôle qualité ont été effectuées. Cet ensemble de données répond aux besoins de la communauté de recherche Chaque année, une nouvelle version de ce produit est publiée contenant toutes les observations recueillies par le composant global INS TAC géré par Coriolis.
+
+Informations sur le traitement:
+
+À partir du produit INS TAC en quasi temps réel, validé quotidiennement et chaque semaine pour les prévisions, un produit scientifiquement validé est créé. C'est un " produit de référence " mis à jour annuellement. Ce produit a été contrôlé à l'aide d'une méthode d'analyse objective (tests statistiques) et d'un contrôle qualité visuelle (QC). Cette procédure de QC a été développée dans le but principal d'améliorer la qualité de l'ensemble des données au niveau exigé pour l'analyse du climat et les activités de ré-analyse de la physique des océans. Il fournit des champs grisés et semestriels T et S et des profils individuels à la fois sur leur niveau d'origine et leur niveau interpolé. Les paramètres mesurés, selon la source de données, sont: température, salinité. Le niveau de référence des mesures est l'immersion (en mètres) ou la pression (en décibars). Les données EN4 ont été converties au format CORA NetCDF sans validation supplémentaire. Informations qualité: Le processus se déroule en deux étapes en utilisant deux fenêtres de temps différentes, correspondant à deux séries d'analyses objectives, avec un QC visuel supplémentaire. La première étape a été effectuée sur une fenêtre de trois semaines, pour capturer les profils les plus douteux qui ont ensuite été vérifiés visuellement par un opérateur pour décider s'il s'agissait ou non de mauvaises données ou de phénomènes océaniques réels. La deuxième course a été faite hebdomadairement pour répondre aux besoins de modélisation.
+
+Utilisations d'adéquation:
+
+le produit est conçu pour être assimilé aux modèles opérationnels exploités par les centres de prévision des océans à des fins de réanalyse ou pour la communauté de la recherche. Ces utilisateurs ont besoin de données agrégées et de qualité contrôlée de manière fiable et documentée.
+##########END##########
+Résumé:
+
+Pour l'Océan Global - The In Situ Thematic Assembly Center (INS TAC) intègre des données d'observation in situ en quasi temps réel. Ces données sont recueillies auprès des principaux réseaux mondiaux (Argo, GOSUD, OceanSITES, GTS) complétés par des données européennes fournies par les systèmes régionaux EUROGOOS et les fournisseurs de données nationaux assemblés par les composants régionaux In Situ TAC. Les données passent un contrôle qualité à l'aide de procédures automatisées et évaluées à l'aide de résidus d'analyse statistique. Il est mis à jour en continu et fournit des observations entre 24 et 48 heures à partir de l'acquisition en moyenne.
+
+Description détaillée:
+
+Les modèles de circulation océanique ont besoin d'informations sur l'intérieur de l'océan pour pouvoir générer des prévisions précises. Cette information n'est disponible que pour les mesures in situ. Cependant, ces informations sont acquises partout dans le monde et ne sont pas facilement accessibles aux utilisateurs opérationnels. Par conséquent, In Situ Thematic Assembly Center (INS-TAC), en se connectant à beaucoup de réseaux internationaux, collecte, contrôle et diffuse les données in situ pertinentes aux utilisateurs opérationnels et à la communauté de recherche. Il intègre également les données in situ collectées par les composantes régionales de l'INS-TAC. Le portail INS-TAC est mis à jour en permanence avec les observations qui n'ont jamais été diffusées dans la version précédente ou qui ont été mises à jour. Le dernier mois de données est disponible dans le répertoire "dernier", tandis que les données sont ensuite accumulées mois par mois sur le même portail. Informations sur le traitement: Le produit est l'aggrégation homogène des données d'observation provenant de diverses sources in situ, contrôlées par la qualité selon des procédures normalisées qui ont été définies en collaboration avec EUROGOOS, SeaDataNet et des programmes internationaux tels que Argo, GOSUD ou OceanSITES. Les observations en double ont été supprimées. Les données proviennent des plates-formes suivantes:
+# Données de profil des flotteurs de profils Argo, y compris Euro-Argo, CTD et XBT provenant de navires de recherche ou de navires d'opportunité, amarrage d'OceanSITES, y compris EuroSites et systèmes nationaux, profils de Gliders, y compris EGO, de mammifères marins ainsi que données de profil de GTS (Global Système de télécommunication au format BUOY, BATHY et TESAC). MEDS / DFO (Canada) fournit un accès intégré aux données circulant sur le GTS et Meteo-France un point d'accès unique au GTS,
+# des données de thermosalinographes européens de bateaux Ferrybox et des bouées dérivantes directement soumises ou à travers le GTS avec la contribution de MEDS / DFO (Canada).
+# séries temporelles à partir de stations fixes principalement dans les mers européennes
+# niveau de la mer d'EUROGOOS ROOS. Le niveau de référence des mesures est l'immersion (en mètres) ou la pression (en décibars). Les données sont disponibles dans le même format sur un portail unique développé conjointement avec EurOGOOS pour les mers d'Europe.
+
+Qualité / précision / informations d'étalonnage:
+
+Sur chaque profil ou en cours, des tests automatiques individuels (détection de pointe, ...) et des tests statistiques (comparaison avec la climatologie et les mesures voisines) sont effectués. Sur les données douteuses, le contrôle visuel effectué par les experts de l'océan est effectué. À la suite de ces tests, des indicateurs de contrôle qualité sont affectés à chaque mesure et inclus dans le produit. Le format de données et les procédures de contrôle qualité pour la température, la salinité, le niveau actuel, le niveau de la mer, les vagues et certains paramètres biogéochimiques sont documentés dans la documentation CMEMS INS-TAC
+
+Adéquation, type d'utilisateurs requis / utilisations:
+
+Le produit est conçu pour l'assimilation dans les modèles opérationnels exploités par les centres Océanographique ou pour les scientifiques intéressés par des produits en temps quasi réel. Ces utilisateurs ont besoin de données agrégées et de qualité contrôlée de manière fiable et documentée. Étant donné que les différentes versions du produit ne sont pas archivées par INS TAC, les utilisateurs doivent gérer leur propre archive de données in situ si elles en ont besoin. Seule la meilleure copie des données est archivée au INS TAC.
+##########END##########
+Moyenne mensuelle des Matières En Suspension (2002-2012) issue de l'algorithme de Han (2016) pour la zone côtière à l'échelle globale, à partir du capteur MERIS et avec les corrections atmosphérique POLYMER
+Ref:
+Bing Han, Hubert Loisel, Vincent Vantrepotte, Xavier Mériaux, Philippe Bryère,Sylvain Ouillon, David Dessailly, Qianguo Xing and Jianhua Zhu.
+Development of a Semi-Analytical Algorithm for the Retrieval of Suspended Particulate Matter rom Remote Sensing over Clear to Very Turbid Waters  Remote Sens. 8, 211; doi:10.3390/rs8030211 2016
+##########END##########
+Cet indicateur basé sur la moyenne de l'énergie cinétique tourbillonnaire (EKE) haute fréquence distingue les phases de variations du courant du Kuroshio.
+##########END##########
+Créée en 2016, l'infrastructure de recherche littorale et côtière (ILICO) vise à observer et comprendre les milieux et les écosystèmes côtiers et marins dans leur globalité. Ainsi, ILICO regroupe un ensemble de dispositifs d'observation permettant de collecter des échantillons et de déployer différents instruments de mesure en fédérant 8 services d'observation, dit "réseaux élémentaires" que sont : COAST HF, CORAIL, DYNALIT, MOOSE, PHYTOBS, ReefTemps, SOMLIT et SONEL. La réalisation de suivis à long terme permet également de faciliter la compréhension et l'anticipation de certains processus et phénomènes à grandes échelles qui peuvent impacter les zones côtières et littorales (quantification de l’impact de certains événements extrêmes ou intermittents tels que les tsunamis ou les cyclones).
+##########END##########
+Le Système d'analyse in situ (ISAS) a été développé pour produire des champs de température et de salinité qui préservent autant que possible les capacités d'échantillonnage du temps et de l'espace du réseau des flotteurs ARGO. Depuis la première analyse globale réalisée en 2009, le système a été étendu pour tenir compte de tous les types de profils verticaux ainsi que les séries temporelles. Les champs grillé ISAS sont entièrement basés sur des mesures in situ. Le système vise à surveiller l'évolution des propriétés de l'océan en fonction du temps pour les études climatologiques et permettre un calcul facile des indices climatiques. Un traitement en temps différé de l'ensemble de données 2002-2012 a été réalisé à l'aide de la version 6 d'ISAS et la mise à jour des statistiques pour produire l'analyse ISAS-13. Notez que ISAS-V6 est mis en œuvre comme outil d'analyse opérationnelle au centre de données Coriolis depuis juin 2014.
+##########END##########
+Les champs mensuels de température et de salinité produits par l'analyse ISAS-13 ont été calculés en moyenne sur la période 2004-2014 pour produire une climatologie mensuelle et annuelle. Nous fournissons ici: les champs de température moyenne annuelle, de salinité et de pression, la température moyenne mensuelle, la salinité; la profondeur moyenne mensuelle de la couche mixte (calculée selon la température: MLDT, ou densité: critères MLDS), la variation des données de température et de salinité par rapport au cycle moyen mensuel et le nombre de données disponibles.
+##########END##########
+Le Système d'analyse in situ (ISAS) a été développé pour produire des champs de température et de salinité qui préservent autant que possible les capacités d'échantillonnage du temps et de l'espace du réseau des flotteurs ARGO. Depuis la première analyse globale réalisée en 2009, le système a été étendu pour tenir compte de tous les types de profils verticaux ainsi que les séries temporelles. Les champs grillé ISAS sont entièrement basés sur des mesures in situ. Le système vise à surveiller l'évolution des propriétés de l'océan en fonction du temps pour les études climatologiques et permettre un calcul facile des indices climatiques. Un traitement en temps différé de l'ensemble de données 2002-2012 a été réalisé à l'aide de la version 6 d'ISAS et la mise à jour des statistiques pour produire l'analyse ISAS-13. Notez que ISAS-V6 est mis en œuvre comme outil d'analyse opérationnelle au centre de données Coriolis depuis juin 2014.
+##########END##########
+La base de données CYBER est une activité de soutien aux projets retenus par le comité LEFE-CYBER, activité de fond dont la vocation est la collecte, l'archivage, la diffusion des données et des informations scientifiques (Meta-données).
+##########END##########
+Le réseau d'observation automatisée de la Gironde MAGEST a pour objectif de suivre en continu la qualité physico-chimique des eaux de l'estuaire de la Gironde. En 2018, ce réseau régional est composé de 7 stations.
+##########END##########
+Produits altimétriques auxiliaires - élévations de marées, courants de marées, effets de charge dues à la marée
+##########END##########
+L'océan Austral joue un rôle fondamental dans la régulation du climat mondial. Cet océan contient également un écosystème riche et hautement productif, potentiellement vulnérable aux changements climatiques.
+De très grands efforts nationaux et internationaux visent la modélisation des processus océanographiques physiques pour prédire la réponse de l'océan Austral aux changements climatiques mondiaux et le rôle joué par les processus à grande échelle du climat océanique. Cependant, ces efforts de modélisation sont très limités par le manque de mesures in situ, en particulier à haute latitude et pendant les mois d'hiver. Les données standard qui sont nécessaires pour étudier la circulation de l'océan sont des profils verticaux de température et de salinité, dont on peut déduire la densité de l'eau de mer.
+Ceux-ci sont recueillis avec des capteurs CTD (conductivité-température-profondeur) qui sont généralement déployés sur des navires de recherche ou, plus récemment, sur des profileurs Argo autonomes.
+L'utilisation de navires de recherche conventionnels pour recueillir ces données est très coûteuse et ne garantit pas l'accès aux zones où la glace de mer se trouve à la surface de l'océan pendant les mois d'hiver. Une alternative récente est l'utilisation de flotteurs Argo autonomes. Cependant, cette technologie n'est pas facile à utiliser dans les zones glaciaires. Dans ce contexte, la collecte des profils hydrographiques des CTD montés sur des mammifères marins est très avantageuse. Le choix de l'espèce, du sexe ou de l'âge peut être fait pour obtenir des données sélectives dans des zones particulièrement sous échantillonnées, comme sous la glace de mer ou sur les plateformes continentales. Chez les mammifères marins, les éléphants de mer sont particulièrement intéressants. En effet, ils ont la particularité de plonger continuellement à de grandes profondeurs (590 ± 200 m, avec un maximum de 2000 m) pour de longues durées (longueur moyenne de plongée 25 ± 15 min, maximum 80 min). Un enregistreur de données de relais par satellite à température-conductivité-prodeur (CTD-SRDL) a été développé au début des années 2000 pour échantillonner les profils verticaux de température et de salinité lors des plongées de mammifères marins (Boehme et al., 2009, Fedak 2013). Le CTD-SRDL est attaché à l'éléphant de mer à terre, puis il enregistre les profils hydrographiques lors de ses plongées pour s'alimenter, en envoyant les données par satellite ARGOS chaque fois que l'animal revient à la surface. Bien que l'intention principale de l'instrumentation de l'éléphant de mer soit d'améliorer la compréhension des stratégies de forage des éléphants de mer (Biuw et al., 2007), elle a également fourni comme sous-produit une méthode viable et rentable d'échantillonnage des propriétés hydrographiques dans de nombreuses régions de l'Océan Austral (Charrassin et al., 2008; Roquet et al., 2013).
+##########END##########
+Hauteurs significatives de vagues et module de la vitesse du vent en temps quasi-réel
+##########END##########
+Le réseau national d’observation de la moule bleue (MYTILOBS), mis en place en 2012, a pour objectif le suivi de la croissance et de la mortalité des moules destinées à la commercialisation.
+Le MYTILOBS s’appuie sur l’expérience du réseau régional de suivi de la croissance de la moule bleue dans les pertuis charentais (REMOULA), effectif depuis l’année 2000.
+La durée du suivi correspond principalement à l’année qui suit l’année de captage : elle intègre ainsi les principales saisons de la vie biologique de la moule, de la maturation hivernale à la croissance printanière, puis à l’engraissement estival et automnal, les deux périodes principales de vente. Le choix des sites de suivi a été déterminé en concertation entre les Laboratoires Environnement Ressource régionaux et la profession. Il s’agit, pour la Bretagne Nord, du site du Vivier-sur-Mer dans le secteur de la baie du Mont-Saint-Michel (moules sur bouchot). Chaque site d’élevage est suivi tout les trois mois.
+De nombreux paramètres sont mesurés dont les dimensions des moules, leurs poids et la mortalité. Ces données sont mises en parallèles des conditions environnementales telle que la température, la salinité ou encore l'abondance et la richesse des microalgues dont se nourissent les coquillages.
+Le reseau national Mytilobs est implante dans les principales regions mytilicoles du littoral atlantique : Normandie, Bretagne Nord, Bretagne Sud, Pays de Loire et Poitou-Charentes. Les sites d’Agon (Ouest Cotentin), du Vivier (baie du Mont Saint-Michel), de Pont Mahe (baie de Vilaine), de l’Aiguillon (pertuis Breton), d’Yves (pertuis d’Antioche) representent l'elevage sur bouchot du Nord au Sud. Le site Filiere (pertuis Breton) represente l’elevage sur corde, en pleine eau.
+##########END##########
+Le niveau moyen global des océans est un des indicateurs les plus importants du réchauffement climatique. Il intègre la réponse de plusieurs composantes du système climatique. Le suivi précis de l'évolution du niveau moyen des océans, grâce notamment aux satellites altimétriques, est d'une importance majeure, non seulement pour la compréhension du climat mais aussi pour les conséquences socio-économiques de son élévation.
+##########END##########
+L'observation et la compréhension des variations saisonnière, inter-annuelle et décennale du cycle du carbone océanique sont primordiales pour estimer les bilans de carbone à l'échelle planétaire et paramétrer puis valider les modèles climatiques prédictifs. Dans ce contexte, les observations répétées OISO permettent d'accroître nos connaissances sur les flux air-mer de CO2, les mécanismes internes océaniques associés, leurs variabilités et évolutions (régulation de l'accroissement du CO2 atmosphérique par l'océan et piégeage du CO2, cycles biogéochimiques).
+##########END##########
+Paramètres biologiques: Chlorophylle, Carbone Organique/Inorganique Particulaire, Fluorescence...
+##########END##########
+Paramètres optiques atmosphériques: épaisseur d'aérosol, fraction de nuage, colonne de vapeur d'eau ...
+##########END##########
+Paramètres optique de la surface de l'Océan : réflexion
+##########END##########
+La base de données Pelagos est le fruit d’un travail collaboratif du Réseau des Stations et Observatoires Marins (RESOMAR). Elle regroupe des données de biodiversité de l’écosystème pélagique côtier (dont des séries temporelles). L’un des objectifs est d’exploiter l’information biologique acquise, pour répondre à des questions scientifiques concernant par exemple les facteurs qui contrôlent la distribution et l’abondance des organismes pélagiques à différentes échelles spatiales et à différentes échelles de temps.
+##########END##########
+Biogéochimie dans l'océan Austral, fertilisation de l'océan
+##########END##########
+Mouillages météo-océaniques (ATLAS et T-FLEX) et campagnes annuelles de maintenance avec mesures (ADCP, CTD, pCO2, données météo...) du programme international PIRATA (Prediction and Research morred Array in the Tropical Atlantic).
+##########END##########
+Produit régional temps différé de constantes de marée (amplitude et phase) le long de la trace (niveau 3) calculé à partir des Anomalies de Hauteur de mer (SLA) dédiées aux applications côtières X-TRACK pour 73 constituants de marée en utilisant l'analyse harmonique, pour de longues séries temporelles mutli-missions (Topex/Poseidon+Jason-1+Jason-2 et Topex/Poseidon interleaved +Jason-1 interleaved).
+##########END##########
+Produits altimétriques type GDR (Geophysical Data Record) monomission, de niveau 2, le long de la trace. Plusieurs missions sont disponibles : GFO, Topex/Poseidon, Envisat, Cryosat-2, Jason-1, Jason-2, Jason-3, Saral/AltiKa.
+Les missions ayant connu plusieurs types d'orbite successives sont traitées intégralement. Par rapport à la version originale des fichiers GDR diffusés par les agences CNES, ESA, NASA et ISRO, le CTOH propose de nouvelles corrections et paramètres dans ces fichiers, qui sont à appliquer à la mesure altimétrique initiale, en fonction des besoins utilisateurs.
+Des fiches enfant sont disponibles pour chaque mission.
+##########END##########
+Produit altimétrique monomission Sentinel-3A en mode LR-RMC (Low-Resolution with Range Migration Correction) avec des données le long de la trace de niveau 2 échantillonnées à 20Hz en mode LR-RMC. Les formes d'onde associées au mode LR-RMC sont aussi contenues dans les produits ainsi que les corrections géophysiques appliquées à la distance altimétrique (fichiers SGDR).
+##########END##########
+Produit altimétrique combiné Ssalto/Duacs des moyennes et climatologies des anomalies de hauteurs de mer.
+Ces produits sont calculées par rapport à une moyenne sur 20 ans (1993-2012), incluant la variabilité saisonnière (aucun cycle n'est retiré)
+##########END##########
+La correction de troposphère humide est la correction à appliquer pour corriger la mesure de hauteur altimétrique du retard de l'onde radar dû à l'eau liquide des nuages et à la vapeur d'eau dans l'atmosphère.
+Correction troposphérique humide pour les missions ERS-1, ERS-2, Topex/Poseidon, Envisat, Jason-1, Jason-2, Cryosat-2 et Saral/AltiKa.
+##########END##########
+Produit de hauteurs de mer destiné à l’étude de 23 régions côtières, avec des données le long de la trace projetées sur la trace de référence avec un intervalle d'environ 6-7 km entre les points (1 seconde). Concerne les missions Topex/Jason-1/Jason-2/Jason-3 (+Topex Interleaved orbit (TPN)/Jason-1 Interleaved orbit (J1N)), SARAL/AltiKa, Envisat, Geosat Follow On.
+Un traitement spécifique (développé au LEGOS) a été appliqué en appliquant les dernières corrections disponibles.
+##########END##########
+Produits altimétriques monomissions, disponible pour plusieurs missions et selon plusieurs délais de livraison (NRT pour Near-Real Time, SCT pour Short Critical Time et NTC pour Non Critical Time)
+##########END##########
+Les produits "2020A_SSH_MAPPING_NATL60" (SWOT BOOST Data Challenge) sont des produits de hauteur de mer basés sur des modèles. Les fichiers contiennent des simulations de données altimétriques pour Topex/Poseidon (1992-2006) , Jason-1 (2001-2013), Geosat Follow-On (1998-2008), Envisat (2002-2012) et SWOT nadir (mission pas encore en orbite, lancement prévu en 2022) et SWOT à large fauchée (SWOT Karin). Il y a un produit le long de la trace pour chacune des missions et un produit grillé estimé à partir d'une simulation du modèle de circulation océanique haute résolution NATL60-CJM165. Cette étape de traitement est réalisée avec le SWOTsimulator.
+##########END##########
+Produit altimétrique combiné expérimental intégrant une meilleure résolution, en vue de la préparation de l'ère SWOT comprenant les hauteurs de mer par rapport à une moyenne sur 20 années ainsi que les courants géostrophiques, issu de traitement spécifiques, disponibles en temps différé. Utilisation pour des études de variabilité océanique à méso-échelles.
+##########END##########
+Produit altimétrique expérimental, monomission et multimissions Ssalto/Duacs comprenant les anomalies de hauteur de mer (SLA) pour l'Océan Arctique, intégrant une meilleure résolution spatiale. Trois grilles monomission (SARAL/AltiKa, Cryosat-2 and Sentinel-3A) et une grille pour un produit multimission combinant ces 3 satellites, sont fournies.
+##########END##########
+Le produit altimétrique expérimental MIOST (Multiscale Interpolation Ocean Science Topography) donne, en temps différé, à l'échelle globale à une résolution spatiale de 1/10° des grilles de hauteurs de mer (MSLA et MADT) ainsi que les courants géostrophiques, issu de traitement spécifiques. Utilisation pour des applications côtières,  variabilité océanique (circulation à petite échelle, ...)
+##########END##########
+Hauteurs de mer résiduelles, le long de la trace, moyennée sur une seconde. Toutes les corrections instrumentales, géophysiques et environnementales sont à appliquer. Les missions disponibles sont Jason-1, Jason2, Jason-3 et Saral.
+##########END##########
+Produits altimétriques multi-missions combinées en temps quasi-réel de hauteurs significatives des vagues. Ce jeu de données combine les données SWH (Significant Wave Height) le long de la trace des missions suivantes : Jason-3, Sentinel-3A, Sentinel-3B, SARAL/AltiKa, Cryosat-2 et CFOSAT.
+Seules les données valides sont incluses dans ce produit grillé dune résolution horizontale de 2° et est produit quotidiennement.
+##########END##########
+Hauteurs significatives de vagues (SWH) et vitesse du vent, mesurées le long de la trace par les satellites altimétriques CFOSAT (nadir), Sentinel-3A et Sentinel-3B, Jason-3, Saral-AltiKa, Cryosat-2 et HY-2B, en temps quasi-réel (NRT), sur une couverture globale (-66°S/66+N pour Jason-3, -80°S/80°N pour Sentinel-3A et Saral/AltiKa).
+Un fichier contenant les SWH valides est produit pour chaque mission et pour une fenêtre de temps de 3 heures. Il contient les SWH filtrées (VAVH), les SWH non filtrées (VAVH_UNFILTERED) et la vitesse du vent (wind_speed).
+Les mesures de hauteurs de vagues sont calculées à partir du front de montée de la forme d'onde altimétrique. Pour Sentinel-3A et 3B, elles sont déduites de l'altimètre SAR.
+##########END##########
+Hauteurs significatives de vagues (SWH) mesurées le long de la trace par les satellites altimétriques Sentinel-3A et Sentinel-3B en temps quasi-réel (NRT), sur une couverture globale (-80°S/80°N).
+Les mesures de hauteurs de vagues sont déduites de l'altimètre SAR.
+Depuis avril 2021, les fichiers intègrent une nouvelle variable de vitesse de vent, calculée par l'algorithme de Gourrion (2002) avec la table de Collard (2005). En outre, les données sont inter-calibrées avec le vent Jason-3 au standard F.
+##########END##########
+Produit altimétrique combiné (multimissions) sur l'océan global comprenant les hauteurs de surface (anomalies de hauteurs de mer, topographie dynamique) et variables dérivées (anomalies de courants géostrophiques et courants géostrophiques aboslus) calculées par rapport à une moyenne sur vingt ans.
+##########END##########
+Produits altimétriques monomissions OSTM/Jason-2. Ces produits ont été produits par CLS dans le cadre du projet Pistach, financé par le Cnes.
+##########END##########
+Produit altimétrique Ssalto/Duacs d'anomalies de hauteurs de mer et courants géostrophiques, calculés par rapport à une moyenne sur 20 années, le long de la trace ou grillées (1/8°x1/8° sur une grille régulière), disponibles en NRT (Near Real-Time) seulement, sur la zone du Mozambique.
+##########END##########
+Pour gérer les données d'observation et de surveillance du littoral, l'Ifremer a développé le système d'information Quadrige, qui associe à une base de données une panoplie d'outils d'interprétation et d'élaboration de produits d'information.
+
+Quadrige² est aujourd'hui désigné par le ministère de l'environnement comme le système d’information de référence pour les eaux littorales. Pour ce faire, le système est conçu dès l’origine pour être largement ouvert vers nos partenaires et constitue un élément du Système d'Information sur l'Eau (SIE). Dans ce cadre, le système s’appuie sur différents référentiels, qui pour l’essentiel sont des référentiels nationaux, partagés par l’ensemble des acteurs de l’eau et à ce titre, contribue aux travaux du Secrétariat d'Administration National des Données Relatives à l'Eau (SANDRE).
+
+La banque Quadrige est constituée des données de la base Quadrige et des produits décrits ou mis à disposition sur le site Envlit. La base Quadrige contient des résultats sur des paramètres physiques, chimiques et biologiques de description de l'environnement marin et de la ressource conchylicole. Les premières données datent de 1974 pour les paramètres de la qualité générale des eaux et les contaminants, 1987 pour le phytoplancton et les phycotoxines, 1989 pour la microbiologie. Elles sont mises à jour en permanence.
+##########END##########
+Observation des courants de surface par radars HF. Ce système de radars HF de permet de dresser, en continu et sur de longues périodes, les cartes des courants marins de surface, jusqu'à 100km et avec une résolution spatiale de 3km.
+##########END##########
+La technique des flotteurs RAFOS (acronyme inversé de SOund Fixing And Ranging) permet d'obtenir des trajectoires de sub-surface des flotteurs par localisation acoustique. Ces flotteurs  sont immergés à une profondeur constante et dérivent avec la masse d'eau dans laquelle ils se trouvent. Les flotteurs enregistrent le temps d'arrivée des signaux sonores émis par un réseau de sources acoustiques fixes placées sur des mouillages. Ils remontent régulièrement à la surface pour transmettre les données qu'ils ont enregistrées.
+##########END##########
+La technique des flotteurs RAFOS (acronyme inversé de SOund Fixing And Ranging) permet d'obtenir des trajectoires de sub-surface des flotteurs par localisation acoustique. Ces flotteurs  sont immergés à une profondeur constante et dérivent avec la masse d'eau dans laquelle ils se trouvent. Les flotteurs enregistrent le temps d'arrivée des signaux sonores émis par un réseau de sources acoustiques fixes placées sur des mouillages. Ils remontent régulièrement à la surface pour transmettre les données qu'ils ont enregistrées.
+##########END##########
+Réseaux de référence des observations marégraphiques
+Toutes les zones sous juridiction nationale, c'est-à-dire en France métropolitaine et dans les Outre-Mer 1679 -
+##########END##########
+Réseau national de surveillance de l'état de santé des peuplements de mollusques sur les gisements naturels ou dans les zones de production conchylicole. Il assure une mission réglementaire et une activité de service public déléguée par le Ministère de l'agriculture et de la pêche à travers la DGAL (Direction générale de l'alimentation).
+##########END##########
+Création en 2015, faisant suite au RESCO mis en place en 2009, et au REMORa mis en place en 1993.
+
+En 2015, la structure et le fonctionnement de l’ancien réseau RESCO a été utilisée afin d’appliquer une surveillance planifiée sur les huîtres creuses. Plus précisément, les lots sentinelles utilisés par le réseau, représentant 3 classes d’âge (6 mois, 18 mois conservés de l’année précédente et 30 mois conservés de l’année précédente) sont suivis régulièrement (fréquence bi-mensuelle à mensuelle) tout au long de l’année sur 12 sites ateliers nationaux (correspondant aux sites anciennement RESCO). Lors de chaque passage, des dénombrements sont effectués afin d’évaluer le taux de mortalité, et différents types d’analyses diagnostiques de laboratoire seront réalisés :
+- au temps initial, les nouveaux lots de naissain (Naissains Standardisés Ifremer) subiront des analyses spécifiques par PCR afin de rechercher les agents infectieux potentiellement présents (OsHV-1 et Vibrio aestuarianus) mais aussi des analyses non spécifiques (histologie, bactériologie classique ) pour la détection éventuelle d’autres agents pathogènes
+-  pour la détection de maladies émergentes, les premiers lots moribonds détectés pour chaque classe d’âge, pour chaque site, subiront des analyses diagnostiques de laboratoire spécifiques (PCR OsHV-1 et Vibrio aestuarianus) et non spécifiques (histologie) afin de déceler le plus précocement possible d’éventuelles maladies émergentes sur ces lots sentinelles
+- pour la détection de maladie exotique, en l’absence de hiérarchisation des maladies exotiques des huîtres creuses disponible, le parasite Mikrocytos mackini a été choisi pour être surveillé car l’infection par ce parasite est réglementée au niveau européen, sur l'un des sites du RESCOII (Loix en Ré) identifié préalablement comme un site à risque vis à vis de l'introduction de ce parasite.
+Parallèlement à ces suivis de mortalités et ces analyses diagnostiques de laboratoire, chaque site est équipé de sonde permettant l’acquisition de paramètres environnementaux (température, pression, salinité) à haute fréquence.
+
+Les différents résultats sont bancarisés dans la base Quadrige², et sont disponibles pour les différents acteurs concernés. Le réseau est adossé à un site internet dédié permettant la diffusion des objectifs, des protocoles et des résultats, et sera mis à jour tous les mois. Parallèlement, des bulletins d’information synthétisant les résultats obtenus sont diffusés par mail tous les mois aux services de l’Etat.
+##########END##########
+Le projet RONIM constitue le réseau marégraphique numérique national et a pour objectif la mise en place et le maintien en condition opérationnelle d’un réseau moderne de marégraphes, dans les ports principaux de France métropolitaine et d’outre-mer.
+##########END##########
+Programme RORCAL comporte:
+- Le ferry box SIRANO
+- La Bouée Océanographique Côtière Automatique (BOCA)
+##########END##########
+Le Réseau d’Observation Subantarctique et Antarctique du niveau de la MEr (ROSAME) a été mis en place au début des années 1990.
+Il est composé de stations marégraphiques côtières implantées sur les Terres Australes et Antarctiques Françaises dans le Sud de l’océan Indien et sur le continent Antarctique.
+Les applications scientifiques concernent principalement l’étude des marées océaniques et des variations à long terme du niveau de la mer, ainsi que la calibration/validation des missions d’altimétrie spatiale.
+Tous les sites ROSAME sont équipés de stations GNSS afin de mesurer et surveiller la stabilité géodésique des sites de mesure.
+
+Depuis 2015, ROSAME est intégré au Système d’Observation du Niveau des Eaux Littorales (SONEL).
+Les sites de mesure ROSAME font partie du programme international GLOSS (Global Sea Level Observing System).
+Le réseau ROSAME bénéficie du soutien financier de l'INSU et de l'Observatoire Midi-Pyrénées, du soutien humain de la DT/INSU, ainsi que du soutien logistique et financier de l'IPEV.
+##########END##########
+GOSUD vise à rassembler des observations in situ de la surface océanique mondiale collectée par divers navires et à distribuer des ensembles de données de qualité contrôlée. À l'heure actuelle, les variables considérées par GOSUD sont la température et la salinité.
+Les données GOSUD sont principalement collectées à l'aide de thermosalinographes (TSG) installées sur des navires de recherche, des navires commerciaux et, dans certains cas, des voiliers. GOSUD gère les données en temps quasi réel (TR et NRT) et les données en temps différé (retraité par TD).
+GOSUD GDAC est hébergé par le centre de données Coriolis (France) et une sauvegarde (archivée permanente) est effectuée quotidiennement par NCEIS (Centres nationaux de l'information environnementale de NOAA).
+##########END##########
+Sites de calibration en Corse; Sénétosa site de calibration principal et Macinaggio à la pointe nord de la Corse, produits in-situ
+##########END##########
+Le SISMER (Systèmes d’informations scientifiques de la Mer) est le service de l’Ifremer en charge de la gestion de nombreuses bases de données marines  ou systèmes d’informations dont l’Ifremer a la responsabilité de la mise en œuvre.
+##########END##########
+COAST-HF est un Service National d'Observation qui vise à fédérer et cordonner à l'échelle du littoral français un ensemble de plateformes fixes instrumentées de mesures in situ hautes fréquences pour des paramètres clés des eaux côtières. Ce réseau s'inscrit dans l'Infrastructure de Recherche ILICO.
+Il est constitué de 14 bouées ancrées instrumentées et autonomes permettant la mesure en continu de paramètres physiques et bio-géochimiques.
+##########END##########
+CORAIL est un service d'observation dont l'acquisition conjointe de données physiques, physico-chimiques et biologiques sur les écosystèmes coralliens doit permettre de détecter, suivre, analyser et modéliser leurs évolutions en liaison avec les changements environnementaux
+##########END##########
+En réponse à la sensibilité des littoraux face aux aléas naturels et anthropiques, le SNO DYNALIT, labellisé par le CNRS INSU en 2014,  permet, au travers ces observations, de quantifier les évolutions du littoral en France métropolitaine et ultra-marine, et de comprendre les processus qui sont à l'origine des changements morphodynamiques littoraux.
+Il  est dédié à la métrologie récurrente et de long terme visant à caractériser le fonctionnement du littoral et gère ainsi l’acquisition, la collecte et la mise en cohérence de données métrologiques de qualité de 35 sites ateliers (côtes sableuses, falaises, embouchures) répartis sur toutes les façades maritimes françaises.
+##########END##########
+L’objectif du Service National d’Observation MOOSE (Mediterranean Ocean Observing System for the Environment) est de maintenir un système d’observations multi-plateformes et multi-sites, destiné à suivre de façon synoptique l’évolution du bassin nord-occidental de la Méditerranée (mer Ligure, golfe du Lion, bassin Provençal) dans le contexte des changements globaux (climatique et d'origine anthropique). Il s'agit en particulier de mesurer sa variabilité, les grandes tendances et les anomalies sur le long terme caractérisant l’évolution de cette région marine. Le but de MOOSE est aussi de renseigner certaines structures et certains processus peu, ou mal étudiés, et dont le rôle dans les interactions physique/géochimie/biologie est fortement pressenti (variabilité des structures de communautés sur des échelles de temps allant de la saison au décennal, saisonnalité des activités à méso-échelle et leur influence sur les propriétés biogéochimiques des systèmes, variabilité générale des processus affectant le continuum côte-large, etc…).
+MOOSE s’appuie sur un réseau de stations marines fixes (bouées, mouillages), de plateformes mobiles (planeurs, flotteurs profileurs), de campagnes bateaux et de stations terrestres (sémaphores, radars, stations fluviales) dans des sites pertinents implantés en Méditerranée Nord-Occidentale dans le but de mettre en œuvre des moyens de mesures modernes et automatisées pour une observation couplée continent-océan-atmosphère sur le long terme.
+
+Ce réseau est labellisé par l’INSU depuis 2011. MOOSE fait partie de l’Infrastructure de Recherche ILICO depuis 2016.
+##########END##########
+Le SNO PHYTOBS a pour objectif de constituer un réseau national de dispositifs d'observation du microphytoplancton dont les principales caractéristiques sont des fréquences d'échantillonnages élevées et de nombreux paramètres mesurés tant biologiques (dont l'estimation du phytoplancton total) que physico-chimiques. Le réseau PHYTOBS associe les moyens et les compétences de l'IFREMER, du CNRS et des universités. Le SNO PHYTOBS fait partie de l'un des 8 réseaux élémentaires de l'IR-ILICO.
+##########END##########
+ReefTEMPS est un réseau de capteurs de température, pression, salinité et autres observables dans le domaine côtier d’une vingtaine de territoires et états insulaires à l’échelle du Pacifique Sud, Sud‐Ouest et Ouest, pour le suivi à long terme du changement climatique et de ses effets sur l’état des récifs coralliens et de leurs ressources.Le réseau est piloté par l’UMR ENTROPIE (transféré de l’UMR LEGOS en 2019).ReefTEMPS est un service d’observation de l’infrastructure de recherche nationale française « milieux littoraux et côtier » IR ILICO.
+##########END##########
+La problématique concerne l'impact du changement global sur les zones côtières et son importance relative par rapport aux activités humaines locales (global vs local). L'objectif général de SOMLIT est orienté vers la détection de ce forçage en zones côtières fortement influencées par les impacts locaux des activités humaines. L'étude du littoral français dans son ensemble, rendue possible par le choix de sites à situation de normalité, d'un suivi de paramètres pertinents, d'un échantillonnage bimensuel et de la mise en place d'une charte qualité, permet une approche multi-paramètres et multi-sites.
+##########END##########
+SONEL vise à fournir des données du niveau de la mer de grande qualité métrologique obtenues à partir de marégraphes (niveaux relatifs de la mer) et de techniques modernes de géodésie (déplacements verticaux et niveaux absolus de la mer) pour l’étude des tendances à long terme du niveau de la mer ou la calibration d’altimètres radar embarqués sur satellite, par exemple.
+SONEL joue le rôle de centre de données GNSS aux marégraphes pour le programme mondial d’observation du niveau de la mer (GLOSS), qui se trouve sous l’égide de la Commission Océanographique Intergouvernementale (COI) de l’Unesco. Il se développe en étroite collaboration avec le PSMSL et l’UHSLC de façon à apporter une vue intégrée et détaillée des bases de données respectives. Il agit aussi comme interface avec la communauté scientifique pour les données des marégraphes français.
+##########END##########
+Abondance des larves de poisson au stade de recrutement
+##########END##########
+Séries de données des pigments phytoplanctoniques par la méthode HPLC
+##########END##########
+L'Institut de la Mer de Villefranche (IMEV) et le Laboratoire d’Océanographie de Villefranche (LOV) collectent des échantillons de zooplancton depuis de nombreuses années, qui sont conservés et exploités par imagerie quantitative.
+##########END##########
+Produits altimétriques auxiliaires : hauteur moyenne de l'océan par rapport à l'ellipsoïde de référence T/P. Cette surface est fournie sur une grille régulière (1/60°x1/60°). Une grille d'erreur d'estimation est également fournie, elle représente la précision de la MSS par le biais de la méthode inverse.
+##########END##########
+Le produit Surval "Données par paramètre - Océan Indien" met à disposition des données d'observation et de surveillance bancarisées dans Quadrige pour la zone Océan Indien (La Réunion, Mayotte et les Iles Éparses).
+
+Ce produit contient des résultats sur la plupart des paramètres physiques, chimiques et biologiques de description de l'environnement et ils sont regroupés dans Surval par groupes de paramètres.
+Les données sous moratoire ou les données qualifiées "Faux" sont exclus de la diffusion Surval.
+Une donnée validée dans Quadrige aujourd’hui sera disponible dans Surval demain.
+
+L'accès aux données d'observation se réalise par lieu.
+Un lieu de surveillance est un lieu géographique où des observations, des mesures et/ou des prélèvements sont effectués. Il est localisé de façon unique par son emprise cartographique (surface, ligne ou point). Un lieu de mesure peut être utilisé par plusieurs programmes.
+
+Aujourd’hui, ce produit met à disposition des données issues d'une sélection de paramètres et de programmes. Ce produit est à ce jour plus complet que le produit national "Données par paramètre".
+
+La liste des groupes de paramètres :
+- Contaminants chimiques
+- Hydrologie
+- Phytoplancton (dénombrements)
+- Pigments phytoplanctoniques
+- Benthos de substrats meubles
+- Benthos de substrats durs - Corail
+- Benthos de substrats durs - Poisson
+
+La liste des programmes est mise à jour régulièrement afin de rendre disponibles de nouvelles données.
+Quelques programmes nationaux :
+- REBENT_FAU : Réseau de suivi benthique Stationnel Macrofaune
+- REPHY : Réseau d'observation et de surveillance du Phytoplancton et de l'hydrologie
+- REPOMS : Réseau de surveillance des Ports Maritimes Sédiment
+- RNOHYD : Réseau National d'Observation Hydrologie
+- ROCCHSED : Réseau d'Observation des Contaminants Chimiques dans le Sédiment
+- RINBIO :
+Quelques programmes locaux :
+- AAMP_PHYTOPLANCTON : Suivis réalisés dans le cadre des plans de gestion des Parcs Marins
+- GCRMN_LAREUNION_ LIT_BENTHOS /_ BELT_POISSONS / … : Réseau de surveillance des Récifs Coralliens de l'Ile de La Réunion selon différents protocoles
+- GCRMN_EPARSES_ LIT_CORAIL /_BELT_POISSONS / …   : Réseau de surveillance des Récifs Coralliens des Iles Eparses selon différents protocoles
+- ORC_MAYOTTE_LIT_BENTHOS /_BELT_POISSONS / …   : Réseau de surveillance des Récifs Coralliens de l'Ile de Mayotte selon différents protocoles
+- LA_REUNION_ETUDES_IMPACT : Etudes d'impact à la Réunion
+
+L'emprise géographique est l'Océan Indien.
+##########END##########
+Ce jeu compile des données de deux programmes stockées par l'IFREMER pour la période 2000-2016 :
+- Volet du ROCCH (Réseau d'Observation de la Contamination Chimique, anciennement RNO) : surveillance des contaminants chimiques dans les organismes marins (coquillages, poissons) pour l'évaluation des niveaux et des tendances.  Les données renseignent sur les dosages des métaux (Ag, Cd, Cr, Cu, Hg, Ni, Pb, V, Zn), des organochlorés (PCB, DDT, lindane) et des hydrocarbures aromatiques polycycliques (16 HAP et certains de leurs dérivés alkylés et soufrés) pour des prélèvements réalisés dans les lieux de surveillance côtiers.
+- Le programme RINBIO (Réseau Intégrateurs Biologiques) qui a pour objectif d’évaluer les niveaux de contamination chimique et radiologique dans chaque unité du référentiel géographique du Schéma Directeur d'Aménagement et de Gestion des Eaux (SDAGE) du bassin Rhône-Méditerranée Corse, par un suivi tous les 3 ans. Les substances sont comparables à celles mesurées sur le ROCCH MV.
+##########END##########
+Ce jeu compile des données de deux programmes :
+- le volet du ROCCH (Réseau d'Observation de la Contamination Chimique, anciennement RNO) de 1995 à 2015 : surveillance des contaminants chimiques dans les sédiments marins pour l'évaluation des niveaux et des tendances. Les données renseignent sur les dosages des métaux (Ag, Cd, Cr, Cu, Hg, Ni, Pb, V, Zn), des organochlorés (PCB, DDT, lindane) et des HAP (16 hydrocarbures aromatiques polycycliques et certains de leurs dérivés alkylés et soufrés) pour des prélèvements réalisés dans les lieux de surveillance côtiers.
+- le programme REPOM Sédiment (Réseau National de Surveillance des Ports Maritimes) de 1997 à 2016, qui évalue et suit l’évolution de la qualité des sédiments des bassins portuaires (militaires, de commerce, de pêche, et de plaisance). Les données concernent la granulométrie, teneur en eau, carbone organique total, aluminium, As, Cd, Cu, Hg, Pb, Zn, Ni, hydrocarbures totaux, TBT, PCB, PAH, Cr, COT.
+##########END##########
+La tomographie acoustique océanique utilise les fluctuations de signaux acoustiques se propageant dans une zone de l'océan pour observer les perturbations de vitesse du son dans le volume d'océan considéré.  Les variations de la vitesse de propagation des ondes acoustiques sont induites au premier ordre par les changements de température dans l'océan. Il s'agit d'une mesure indirecte de la température du volume d'océan insonifié.
+##########END##########
+Produits altimétriques auxiliaires
+##########END##########
+Produits issus de la mission satellite CFOSAT avec plusieurs paramètres de vagues de l'instrument français SWIM (hauteur, direction, longueur d'onde, spectre, ...) et produit vent du diffusiomètre chinois  SCAT (vitesse, direction). Quelques variables météorologiques échantillonnées à la localisation des acquisitions SWIM sont aussi distribuées dans des fichiers dédiés.
+##########END##########
+X : eXpendable; B : Bathy; T: Thermograph. Mesure de profil thermique en route avec émission en temps réel
+##########END##########
