@@ -18,6 +18,7 @@ Nous résumons notre travail avec le schéma présenté ci-dessous, qui illustre
 ![Capture](https://user-images.githubusercontent.com/65137647/136530145-d312445c-bf75-45bd-b2ec-c04b50f0070d.PNG)
 
 ![image](https://user-images.githubusercontent.com/65137647/136530631-c1ab4e83-35bc-4e80-a6f7-1227d135907e.png)
+Nous avons utlilisé la valeur de skos:PrefLabel comme termes standardisés.
 
 ![Capture2](https://user-images.githubusercontent.com/65137647/136530375-14266b71-41a2-4ae2-968a-3cfcf6e367eb.PNG)
 
