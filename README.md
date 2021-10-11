@@ -15,7 +15,7 @@ Nous résumons notre travail avec le schéma présenté ci-dessous, qui illustre
 N.B: Pour BioTex nous avons utilisé ce code  https://github.com/Jacobe2169/Biotex4Py
 ![image](https://user-images.githubusercontent.com/65137647/136530510-c3bf404e-757d-4ad4-8a73-4ecd5409b787.png)
 
-![Capture](https://user-images.githubusercontent.com/65137647/136530145-d312445c-bf75-45bd-b2ec-c04b50f0070d.PNG)
+![Capture2](https://user-images.githubusercontent.com/65137647/136787637-7264b559-291f-4ffd-92c4-bb004594dbab.PNG)
 Nous avons utlilisé la valeur de skos:PrefLabel comme termes standardisés.
 ![image](https://user-images.githubusercontent.com/65137647/136530631-c1ab4e83-35bc-4e80-a6f7-1227d135907e.png)
 
