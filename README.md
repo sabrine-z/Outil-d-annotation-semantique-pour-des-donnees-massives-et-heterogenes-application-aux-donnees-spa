@@ -11,8 +11,7 @@ Nous résumons notre travail avec le schéma présenté ci-dessous, qui illustre
 
 ![1](https://user-images.githubusercontent.com/65137647/136370928-c39dc002-08f9-49bb-a928-a32c3ed42813.png)
 # Démarche adoptée :
-![Capture1](https://user-images.githubusercontent.com/65137647/136529978-f9e9362b-50f4-4a6c-b2fe-196da3dbb997.PNG)
-
+![Capture1](https://user-images.githubusercontent.com/65137647/136787102-9c4a48cf-35f8-49b2-8df6-e6f233d448a2.PNG)
 N.B: Pour BioTex nous avons utilisé ce code  https://github.com/Jacobe2169/Biotex4Py
 ![image](https://user-images.githubusercontent.com/65137647/136530510-c3bf404e-757d-4ad4-8a73-4ecd5409b787.png)
 
